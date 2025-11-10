@@ -1,0 +1,222 @@
+{
+  "generated_at": "2025-07-31T00-08-09",
+  "model": "llama3-8b",
+  "input_file": "input17.md",
+  "duration_sec": 78.05,
+  "token_usage": {
+    "prompt_tokens": 1760,
+    "completion_tokens": 2163,
+    "total_tokens": 3923
+  },
+  "crops": [
+    {
+      "pi_number": 105720,
+      "name_of_crop": "Nicotiana tabacum",
+      "type": "Tobacco",
+      "origin": "Venezuela",
+      "received_date": "May 19, 1934",
+      "presented_by": "Ministerio de Salubridad y de Agricultura y Cria, through Dr. H. Pittier, Museo Comercial, Caracas",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 105721,
+      "name_of_crop": "Nicotiana tabacum",
+      "type": "Tobacco",
+      "origin": "Municipio Catuaro, Distrito Rivero, Estado Sucre",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 105722,
+      "name_of_crop": "Nicotiana tabacum",
+      "type": "Tabaco Gu\u00e1charo",
+      "origin": "La Cueva del Gu\u00e1charo, Estado Monagas",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 105723,
+      "name_of_crop": "Nicotiana tabacum",
+      "type": "Tabaco Negro",
+      "origin": "Municipio Santa Maria, Distrito Rivero, Estado Sucre",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 105724,
+      "name_of_crop": "Nicotiana tabacum",
+      "type": "Tabaco Negro",
+      "origin": "Municipio Santa Cruz, Distrito Rivero, Estado Sucre",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 105725,
+      "name_of_crop": "Nicotiana tabacum",
+      "type": "Tabaco Rabo de Gallo (Cocktail)",
+      "origin": "Municipio Cocorote, Distrito San Felipe, Estado Yaracuy",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 105726,
+      "name_of_crop": "Crotalaria sp.",
+      "type": null,
+      "origin": "Belgian Congo, Africa",
+      "received_date": "May 21, 1934",
+      "presented_by": "J. B. H. Lejeune, Director, Government Agronomic Station, Kisozi, Territories of Ruanda-Urundi",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 105727,
+      "name_of_crop": "Arikuryroba schizophylla",
+      "type": "Palm",
+      "origin": "Brazil",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A small slender-stemmed palm, about 15 feet high, with pinnate leaves. Native to Brazil."
+    },
+    {
+      "pi_number": 105728,
+      "name_of_crop": "Bauhinia racemosa",
+      "type": null,
+      "origin": "Eastern India",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A small shrub with drooping branches and rounded leaves, the two lobes rounded oval, white-hairy beneath. The small yellow flowers are in racemes of 12 to 18."
+    },
+    {
+      "pi_number": 105729,
+      "name_of_crop": "Livistona chinensis",
+      "type": "Palm",
+      "origin": "China",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A palm, native to China, with a short thick trunk up to 6 feet high and 1 foot thick, having a crown of reniform palmately divided leaves 4 to 6 feet across on petioles about 5 feet long, which are armed below the middle with recurved brown spines more than an inch long."
+    },
+    {
+      "pi_number": 105730,
+      "name_of_crop": "Livistona cochinchinensis",
+      "type": "Palm",
+      "origin": "Malacca",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A slender palm about 50 feet high, with a crown of large fan-shaped leaves. It is native to Malacca."
+    },
+    {
+      "pi_number": 105731,
+      "name_of_crop": "Adenium obesum",
+      "type": null,
+      "origin": null,
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 105782,
+      "name_of_crop": "Dolichandrone crispa",
+      "type": null,
+      "origin": "Southern India",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A large tropical tree, 40 to 60 feet high, with compound leaves a foot or less in length, the two to four broadly elliptic leaves being 2 to 4 inches long. The white flowers are in small corymbs."
+    },
+    {
+      "pi_number": 105788,
+      "name_of_crop": "Fagraea obovata",
+      "type": null,
+      "origin": "Assam, India",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Plants of a tropical tree of moderate size, with ovate or rounded thick leaves 5 or 6 inches long and fragrant white flowers. 2 inches long, in corymblike clusters."
+    },
+    {
+      "pi_number": 105784,
+      "name_of_crop": "Lonchocarpus neuroscapha",
+      "type": null,
+      "origin": null,
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 105735,
+      "name_of_crop": "Artocarpus communis",
+      "type": "Breadnut",
+      "origin": "Central Mercedita, Pinar del Rio, Cuba",
+      "received_date": "June 1, 1934",
+      "presented_by": "W. A. Mace, Madruga, Cuba, and L. H. Dewey, Bureau of Plant Industry",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A tree, native to the East Indies, 30 to 40 feet high, with viscid milky juice and leathery ovate leaves 3 feet long, entire at the base but divided above into 3 to 9 lobes. The large fruits, 4 to 6 inches in diameter, are often seedless, but in this variety the seeds are present and are much the size, shape, and flavor of chestnuts."
+    },
+    {
+      "pi_number": 105736,
+      "name_of_crop": "Olea europaea",
+      "type": "Common olive",
+      "origin": "Spain",
+      "received_date": "June 25, 1934",
+      "presented_by": "Julius Matz, Bureau of Plant Industry",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Variety Zorzalena. A relatively tender variety. The tree is leafy, compact, and a good early bearer whose fruit is grown for its oil."
+    },
+    {
+      "pi_number": 105737,
+      "name_of_crop": "Helianthus tuberosus",
+      "type": "Jerusalem-artichoke",
+      "origin": "Union of Soviet Socialist Republics",
+      "received_date": "May 26, 1934",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 105744,
+      "name_of_crop": "Cavanillesia platani- folia",
+      "type": null,
+      "origin": "Colombia",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A Colombian tree up to 100 feet high with a large thick trunk, smooth pale bark, large shallowly five- to seven-lobed leaves, and red flowers 1 inch long. The soft coarse pithlike wood is white or yellowish and is used for making canoes and rafts."
+    }
+  ]
+}

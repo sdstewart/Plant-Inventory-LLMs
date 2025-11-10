@@ -1,0 +1,211 @@
+{
+  "generated_at": "2025-10-02T15-07-42",
+  "model": "gpt-5-nano-2025-08-07",
+  "input_file": "input15.md",
+  "duration_sec": 91.5,
+  "token_usage": {
+    "prompt_tokens": 1756,
+    "completion_tokens": 16242,
+    "total_tokens": 17998
+  },
+  "crops": [
+    {
+      "pi_number": 105873,
+      "name_of_crop": "Amphicome arguta",
+      "type": null,
+      "origin": "Urni, Rampur, Bashahr, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "A low herbaceous perennial, not over 3 feet high, native to northern India. The compound leaves are made up of 5 to 9 deeply serrate, lanceolate leaflets 2 inches long, and the rose-colored, funnel-shaped flowers, 1 inch long, are borne in terminal racemes 6 to 8 inches long. Collected on sunny bare cliffs at Urni, Rampur, Bashahr."
+    },
+    {
+      "pi_number": 105874,
+      "name_of_crop": "Amphicome arguta",
+      "type": null,
+      "origin": "Wangtu, Rampur, Bashahr, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "A low herbaceous perennial, not over 3 feet high, native to northern India. The compound leaves are made up of 5 to 9 deeply serrate, lanceolate leaflets 2 inches long, and the rose-colored, funnel-shaped flowers, 1 inch long, are borne in terminal racemes 6 to 8 inches long. Collected at Wangtu, Rampur, Bashahr."
+    },
+    {
+      "pi_number": 105875,
+      "name_of_crop": "Amygdalus sp.",
+      "type": "Peach",
+      "origin": "Roghi, Rampur, Bashahr, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "From Roghi, Rampur, Bashahr. A wild white peach which becomes 30 feet high. The flowers are attractive, but the fruit is useless."
+    },
+    {
+      "pi_number": 105876,
+      "name_of_crop": "Aster sp.",
+      "type": "Aster",
+      "origin": "Rapshu, 1,300 feet altitude, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "From Rapshu, at 1,300 feet altitude. A very attractive aster with purple flowers 6 inches in diameter."
+    },
+    {
+      "pi_number": 105877,
+      "name_of_crop": "Citrus sp.",
+      "type": "Lemon",
+      "origin": "Buzuri, Kulu, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "From Buzuri, Kulu. A thick-skinned, orange-colored lemon 6 inches long."
+    },
+    {
+      "pi_number": 105878,
+      "name_of_crop": "Clematis sp.",
+      "type": null,
+      "origin": "Nago, Rampur, Bashahr, 12,000 feet altitude",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "From Nago, Rampur, Bashahr, at 12,000 feet altitude in a cold dry situation. An attractive vine with yellow flowers."
+    },
+    {
+      "pi_number": 105879,
+      "name_of_crop": "Clematis sp.",
+      "type": null,
+      "origin": "Kibor, Spiti, 12,000 feet altitude",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "From Kibor, Spiti, at 12,000 feet altitude in a dry cold situation."
+    },
+    {
+      "pi_number": 105880,
+      "name_of_crop": "Clematis sp.",
+      "type": null,
+      "origin": "Sungnam, Rampur, Bashahr, 10,000 feet altitude",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "From Sungnam, Rampur, Bashahr, at 10,000 feet altitude."
+    },
+    {
+      "pi_number": 105881,
+      "name_of_crop": "Colutea sp.",
+      "type": null,
+      "origin": "Rampur, Bashahr, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "From Rampur, Bashahr. The coluteas are ornamental leguminous shrubs, useful as soil binders."
+    },
+    {
+      "pi_number": 105882,
+      "name_of_crop": "Cotoneaster sp.",
+      "type": null,
+      "origin": null,
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "A very attractive shrub, 3 feet high, with dark-green leaves."
+    },
+    {
+      "pi_number": 105888,
+      "name_of_crop": "Ilex sp.",
+      "type": null,
+      "origin": "Sarahan, Rampur, Bashahr, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "From Sarahan, Rampur, Bashahr. An attractive tree with a trunk 12 inches in diameter."
+    },
+    {
+      "pi_number": 105889,
+      "name_of_crop": "Iris sp.",
+      "type": null,
+      "origin": "Po, Spiti, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "From Po, Spiti, in a field at 10,000 feet altitude."
+    },
+    {
+      "pi_number": 105890,
+      "name_of_crop": "Jasminum sp.",
+      "type": null,
+      "origin": "Bathad, Kulu, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "A vine which bears very fragrant white flowers throughout the summer."
+    },
+    {
+      "pi_number": 105891,
+      "name_of_crop": "Nepeta sp.",
+      "type": null,
+      "origin": "Taho, Spiti, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "A prostrate annual mint with pale-lilac flowers; found in a dry cold atmosphere."
+    },
+    {
+      "pi_number": 105892,
+      "name_of_crop": "Nepeta floccosa",
+      "type": null,
+      "origin": "Hemis, Ladakh, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "From Hemis, Ladakh, at 11,000 feet altitude. A stout herb up to 3 feet high, white woolly throughout, with rounded cordate long-stemmed leaflets 1 to 3 inches across and dense whorls of rose-colored or purple flowers. Native to northwestern India at altitudes of 7,000 to 11,000 feet."
+    },
+    {
+      "pi_number": 105898,
+      "name_of_crop": "Lilium giganteum",
+      "type": "Giant lily",
+      "origin": "Bathad, Kulu, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "From Bathad, Kulu. A lily, native to the Himalayas between 5,000 and 12,000 feet altitude, with bulbs that grow close to the surface. The hollow stems are 6 to 9 feet high, and the handsome cordate leaves are shining dark green above and paler beneath. The large fragrant white flowers, often 12 in a raceme, are slightly greenish without, and the inner surface of the segments is tinged with deep purple. For previous introduction see 102833."
+    },
+    {
+      "pi_number": 105894,
+      "name_of_crop": "Lonicera sp.",
+      "type": "Honeysuckle",
+      "origin": "Sungnam, Rampur, Bashahr, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "From Sungnam, Rampur, Bashahr, on a cold semiarid slope at 10,000 feet altitude. A well-formed bush 7 feet high, with transparent white fruits that are eaten by birds."
+    },
+    {
+      "pi_number": 105895,
+      "name_of_crop": "Lonicera bicolor",
+      "type": "Honeysuckle",
+      "origin": "Sungnam, Rampur, Bashahr, India",
+      "presented_by": "Dr. Walter Koelz, through Prof. H. H. Bartlett, University of Michigan, Ann Arbor, Mich.",
+      "institution_involved": "University of Michigan",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "From Sungnam, Rampur, Bashahr, at 10,000 feet altitude. A small much-branched shrub with small, elliptic-orbicular, entire leaves, green and nearly glabrous above, more or less hairy beneath. The orange flowers are borne in pairs toward the ends of the branchlets. Native to the Himalayas, and closely allied to L. hypoleuca."
+    }
+  ]
+}

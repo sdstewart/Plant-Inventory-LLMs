@@ -1,0 +1,145 @@
+{
+  "generated_at": "2025-07-31T00-16-02",
+  "model": "llama3-8b",
+  "input_file": "input5.md",
+  "duration_sec": 52.08,
+  "token_usage": {
+    "prompt_tokens": 1242,
+    "completion_tokens": 1447,
+    "total_tokens": 2689
+  },
+  "crops": [
+    {
+      "pi_number": 202,
+      "name_of_crop": "Calligonum",
+      "type": null,
+      "origin": "Repetchek, near Amu Daria, Turkestan",
+      "received_date": "March, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Ak-candym. (native Sart name, \"ak\" meaning white.) Planted along the Transcaspian Railway to bind the moving sands. All these bushes make excellent fuel."
+    },
+    {
+      "pi_number": 203,
+      "name_of_crop": "Cucumis sativus",
+      "type": "Cucumber",
+      "origin": "Turkestan",
+      "received_date": "March, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "6 pack-ages."
+    },
+    {
+      "pi_number": 204,
+      "name_of_crop": "Calligonum",
+      "type": null,
+      "origin": "Amu Daria, Turkestan",
+      "received_date": "March, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Desert plant, not valuable for binding moving sands, but good on clay."
+    },
+    {
+      "pi_number": 205,
+      "name_of_crop": "Salsola arbuscula",
+      "type": null,
+      "origin": "Turkestan",
+      "received_date": "March, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A native desert bush with linear leaves 3 inches long; attains a height of 15 feet; much planted to hold the moving sands along the Transcaspian Railway, and esteemed the best because the growth is quickest. Wood heavier than water, good for fuel, but too brittle and hard to use in the arts."
+    },
+    {
+      "pi_number": 206,
+      "name_of_crop": "Aristida pungens",
+      "type": "A variety",
+      "origin": "Repetchek, near Amu Daria, Turkestan",
+      "received_date": "March, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Desert plant, used in the same way as No. 196."
+    },
+    {
+      "pi_number": 207,
+      "name_of_crop": "Haloxylon ammodendron",
+      "type": null,
+      "origin": "Turkestan",
+      "received_date": "March, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Used to bind the moving sand dunes along the Transcaspian Railway. A native, large, bushy, fleshy, leafless tree, which grows slowly at first but attains a height of 8 to 10 meters (24 to 30 feet ). Grows well in the sand deserts and on alkali soils. Wood makes excellent fuel, better than birch, heavier than water, but too brittle and hard to use in the arts."
+    },
+    {
+      "pi_number": 208,
+      "name_of_crop": null,
+      "type": null,
+      "origin": "Repetchek, near Amu Daria, Turkestan",
+      "received_date": "March, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Desert plant. 4 packages."
+    },
+    {
+      "pi_number": 209,
+      "name_of_crop": "Ephedra strobilacea",
+      "type": null,
+      "origin": "Repetchek, near Amu Daria, Turkestan",
+      "received_date": "March, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Used to bind the moving sands along the Transcaspian Railway."
+    },
+    {
+      "pi_number": 210,
+      "name_of_crop": "Pyrus germanica",
+      "type": "Medlar",
+      "origin": "Caucasus",
+      "received_date": "March, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "1 package."
+    },
+    {
+      "pi_number": 211,
+      "name_of_crop": "Pyrus sorbus",
+      "type": "Service tree",
+      "origin": "Yalta, Crimea",
+      "received_date": "March, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Fruit somewhat pyriform, 1 by 1} inch in diameter, yellow, with red cheek. Tree much like mountain ash. Fruit much eaten when softened by partial decay, but to my taste this tree is of value only for ornament."
+    },
+    {
+      "pi_number": 212,
+      "name_of_crop": "Cucumis sativus",
+      "type": "Cucumber",
+      "origin": "Tiflis, Transcaucasia",
+      "received_date": "March, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 213,
+      "name_of_crop": null,
+      "type": null,
+      "origin": "Turkestan",
+      "received_date": "March, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Desert plant for binding moving sands. Label missing."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "generated_at": "2025-07-30T23-53-09",
+  "model": "llama3-8b",
+  "input_file": "input3.md",
+  "duration_sec": 51.0,
+  "token_usage": {
+    "prompt_tokens": 1250,
+    "completion_tokens": 1413,
+    "total_tokens": 2663
+  },
+  "crops": [
+    {
+      "pi_number": 744,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Odessa, Russia",
+      "received_date": "1897",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Large, roundish, yellow with some green splashes and faint sparse netting, flesh white; not ripe when obtained."
+    },
+    {
+      "pi_number": 745,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Tiflis, Transcaucasia, Russia",
+      "received_date": "1897",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Large, skin smooth, white with a few short green splashes; the largest one 29} by 21} inches in circumference, oval, the flesh white. A winter keeper, fit for preserving; not ripe when obtained. Brought from Charchan (No. 1), near Batoum."
+    },
+    {
+      "pi_number": 746,
+      "name_of_crop": "Cucumis melo",
+      "type": null,
+      "origin": "Odessa, Russia",
+      "received_date": "1897",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Winter melon, round, yellow marbled with green. Originally from Crimea."
+    },
+    {
+      "pi_number": 747,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Odessa, Russia",
+      "received_date": "1897",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Oval, green and yellow marbled, smooth and very good; Persian."
+    },
+    {
+      "pi_number": 748,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Odessa, Russia",
+      "received_date": "1897",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Winter melon, center solid, flesh white (good); small, black, green-wrinkled. Crimean."
+    },
+    {
+      "pi_number": 749,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Tiflis, Transcaucasia, Russia",
+      "received_date": "1897",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Tiflis-Erivan, No. 2. Oval, smooth, yellow, somewhat mottled with small dark-green spots, flesh white; very large, 30 by 23 inches in circumference. Not quite ripe when obtained, but sweet. A 'Doutjma' melon. See No. 739."
+    },
+    {
+      "pi_number": 750,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Odessa, Russia",
+      "received_date": "1897",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Large, roundish, dark green, marbled with faint yellowish, flesh white. Green when obtained, late keeper."
+    },
+    {
+      "pi_number": 751,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Odessa, Russia",
+      "received_date": "1897",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Oval, yellow with some green, marbly, white-fleshed, very good. 'Crimean pineapple'."
+    },
+    {
+      "pi_number": 752,
+      "name_of_crop": "Cucumis melo",
+      "type": null,
+      "origin": "Russia",
+      "received_date": "1897",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Winter, small, white, skin wrinkled, flesh white, center solid, very good.. Crimean (?)."
+    },
+    {
+      "pi_number": 753,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Tiflis, Transcaucasia, Russia",
+      "received_date": "1897",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Tiflis, No. 4. Oval, 28}.by 20 inches in circumference, bright yellow and smooth."
+    },
+    {
+      "pi_number": 754,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Tiflis, Transcaucasia, Russia",
+      "received_date": "1897",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Tiflis, No. 1. Oval, 20} by 27 inches in circumference, skin longitudinally furrowed, white covered with short green splashes and spots, white-fleshed, not ripe when obtained; long-keeping."
+    }
+  ]
+}

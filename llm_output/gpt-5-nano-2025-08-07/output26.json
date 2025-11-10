@@ -1,0 +1,112 @@
+{
+  "generated_at": "2025-10-02T15-27-07",
+  "model": "gpt-5-nano-2025-08-07",
+  "input_file": "input26.md",
+  "duration_sec": 49.8,
+  "token_usage": {
+    "prompt_tokens": 1558,
+    "completion_tokens": 8338,
+    "total_tokens": 9896
+  },
+  "crops": [
+    {
+      "pi_number": 615162,
+      "name_of_crop": "Avena sativa L.",
+      "type": "Spring oat",
+      "origin": null,
+      "presented_by": "Dale L. Reeves, South Dakota State University, Dept. of Plant Science, Plant Sci. Bldg., Box 2140C, NPB 247, Brookings, South Dakota 57007, United States",
+      "institution_involved": "South Dakota State University, Dept. of Plant Science",
+      "experiment_name": "Breeding. Pureline.",
+      "received_date": "01/02/2001",
+      "description": "Pedigree - Dal/Ab71-36//WIx2221-2/Noble/3/SD955/Kelsey/4/Settler/5/WI-14/Spear/3/SD 6422//Kelsey. Spring oat. Early maturity, very high test weight, high groat percentage, high protein, medium high oil, and medium beta glucan. Moderately susceptible to BYDV, moderately susceptible to smut, moderately resistant to crown rust."
+    },
+    {
+      "pi_number": 615163,
+      "name_of_crop": "Avena sativa L.",
+      "type": "Spring oat",
+      "origin": null,
+      "presented_by": "Dale L. Reeves, South Dakota State University, Dept. of Plant Science, Plant Sci. Bldg., Box 2140C, NPB 247, Brookings, South Dakota 57007, United States",
+      "institution_involved": "South Dakota State University, Dept. of Plant Science",
+      "experiment_name": "Breeding. Pureline.",
+      "received_date": "01/02/2001",
+      "description": "PI 615163. Avena sativa L. Breeding. Pureline. SD 92287; NSGC 8681. Pedigree - Dal/Nodaway 70//Moore/3/Settler//WIx2221-2/Moore/4/Troy. Spring oat. Mid-season maturity, very high test weight, medium lodging, high groat percentage, high protein, medium low oil, medium beta glucan. Moderately susceptible to crown rust, resistant to smut, and susceptible to stem rust."
+    },
+    {
+      "pi_number": 615164,
+      "name_of_crop": "Avena sativa L.",
+      "type": "Spring oat",
+      "origin": null,
+      "presented_by": "Dale L. Reeves, South Dakota State University, Dept. of Plant Science, Plant Sci. Bldg., Box 2140C, NPB 247, Brookings, South Dakota 57007, United States; Deon D. Stuthman, University of Minnesota, Department of Agronomy, and Plant Genetics, St. Paul, Minnesota 55108, United States",
+      "institution_involved": "South Dakota State University, Dept. of Plant Science; University of Minnesota, Department of Agronomy, and Plant Genetics",
+      "experiment_name": "Breeding. Pureline.",
+      "received_date": "01/02/2001",
+      "description": "PI 615164. Avena sativa L. Breeding. Pureline. SD 93311; NSGC 8682. Pedigree - Troy/PA8393-1761. Spring oat. Moderately late, good test weight, good straw strength, average groat percentage, high protein, low oil, and medium low beta glucan. Moderately resistant to crown rust, resistant to smut, and moderately susceptible to BYDV."
+    },
+    {
+      "pi_number": 615165,
+      "name_of_crop": "Avena sativa L.",
+      "type": "Spring oat",
+      "origin": null,
+      "presented_by": "Dale L. Reeves, South Dakota State University, Dept. of Plant Science, Plant Sci. Bldg., Box 2140C, NPB 247, Brookings, South Dakota 57007, United States",
+      "institution_involved": "South Dakota State University, Dept. of Plant Science",
+      "experiment_name": "Breeding. Pureline.",
+      "received_date": "01/02/2001",
+      "description": "PI 615165. Avena sativa L. Breeding. Pureline. SD 93018; NSGC 8683. Pedigree - Don/5/Dal/Allen//MN78142/4/Spear/Kelsey/3/WIx2221-2/Froker//ND770015. Spring oat. Very early maturity, excellent test weight, white seeds, stands well, high groat percentage, high protein, medium oil, and medium beta glucan. Intermediate in resistance to BYDV, 5% smut, and is moderately resistant to crown rust."
+    },
+    {
+      "pi_number": 615166,
+      "name_of_crop": "Avena sativa L.",
+      "type": "Spring oat",
+      "origin": null,
+      "presented_by": "Dale L. Reeves, South Dakota State University, Dept. of Plant Science, Plant Sci. Bldg., Box 2140C, NPB 247, Brookings, South Dakota 57007, United States",
+      "institution_involved": "South Dakota State University, Dept. of Plant Science",
+      "experiment_name": "Breeding. Pureline.",
+      "received_date": "01/02/2001",
+      "description": "PI 615166. Avena sativa L. Breeding. Pureline. SD 94152; NSGC 8684. Pedigree - IA681/Settler//Don/PI502958. Spring oat. Early midseason maturity, good test weight, red seed, moderate lodging, good groat percentage, medium high protein, low oil, and medium beta glucan. Susceptible to smut, resistant to crown rust, and moderately susceptible to BYDV."
+    },
+    {
+      "pi_number": 615167,
+      "name_of_crop": "Avena sativa L.",
+      "type": "Spring oat",
+      "origin": null,
+      "presented_by": "Dale L. Reeves, South Dakota State University, Dept. of Plant Science, Plant Sci. Bldg., Box 2140C, NPB 247, Brookings, South Dakota 57007, United States",
+      "institution_involved": "South Dakota State University, Dept. of Plant Science",
+      "experiment_name": "Breeding. Pureline.",
+      "received_date": "01/02/2001",
+      "description": "PI 615167. Avena sativa L. Breeding. Pureline. SD 94155; NSGC 8685. Pedigree - IA681/Settler//Don/PI502958. Spring oat. Very early maturity, red grain, good test weight, medium straw strength, good groat percentage, medium protein, low oil, and medium beta glucan. Resistant to crown rust, susceptible to smut, and moderately susceptible to BYDV."
+    },
+    {
+      "pi_number": 615168,
+      "name_of_crop": "Avena sativa L.",
+      "type": "Spring oat",
+      "origin": null,
+      "presented_by": "Dale L. Reeves, South Dakota State University, Dept. of Plant Science, Plant Sci. Bldg., Box 2140C, NPB 247, Brookings, South Dakota 57007, United States",
+      "institution_involved": "South Dakota State University, Dept. of Plant Science",
+      "experiment_name": "Breeding. Pureline.",
+      "received_date": "01/02/2001",
+      "description": "PI 615168. Avena sativa L. Breeding. Pureline. SD 91228; NSGC 8686. Pedigree - WIx2221-2/Noble/3/Dal/Allen//MN78142. Spring oat. Medium maturity, very high test weight, moderate straw strength, high protein, moderately high groat percentage, medium high oil, and medium beta glucan. Moderately resistant to crown rust, resistant to smut, and moderately susceptible to BYDV."
+    },
+    {
+      "pi_number": 615169,
+      "name_of_crop": "Avena sativa L.",
+      "type": "Spring oat",
+      "origin": null,
+      "presented_by": "Dale L. Reeves, South Dakota State University, Dept. of Plant Science, Plant Sci. Bldg., Box 2140C, NPB 247, Brookings, South Dakota 57007, United States",
+      "institution_involved": "South Dakota State University, Dept. of Plant Science",
+      "experiment_name": "Breeding. Pureline.",
+      "received_date": "01/02/2001",
+      "description": "PI 615169. Avena sativa L. Breeding. Pureline. SD 89504; NSGC 8687. Pedigree - Settler/4/Nodaway 70/Dal//Moore/3/Dumont. Spring oat. Very high test weight, moderately late heading, medium straw strength, high groat percentage, high protein, medium oil, and medium beta glucan. Resistant to smut, resistant to moderately resistant to crown rust, and moderately susceptible to BYDV."
+    },
+    {
+      "pi_number": 615170,
+      "name_of_crop": "Avena sativa L.",
+      "type": "Spring oat",
+      "origin": null,
+      "presented_by": "Dale L. Reeves, South Dakota State University, Dept. of Plant Science, Plant Sci. Bldg., Box 2140C, NPB 247, Brookings, South Dakota 57007, United States",
+      "institution_involved": "South Dakota State University, Dept. of Plant Science",
+      "experiment_name": "Breeding. Pureline.",
+      "received_date": "01/02/2001",
+      "description": "PI 615170. Avena sativa L. Breeding. Pureline. SD 91008; NSGC 8688. Pedigree - Don/PI502958. Spring oat. High test weight, very early maturity, medium straw strength, medium groat percentage, high protein, medium oil, and medium beta glucan. Resistant to smut, susceptible to BYDV, and resistant to moderately resistant to crown rust."
+    }
+  ]
+}

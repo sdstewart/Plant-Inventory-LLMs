@@ -1,0 +1,233 @@
+{
+  "generated_at": "2025-10-02T15-10-39",
+  "model": "gpt-5-nano-2025-08-07",
+  "input_file": "input17.md",
+  "duration_sec": 90.3,
+  "token_usage": {
+    "prompt_tokens": 1724,
+    "completion_tokens": 15814,
+    "total_tokens": 17538
+  },
+  "crops": [
+    {
+      "pi_number": 105720,
+      "name_of_crop": "Nicotiana tabacum L.",
+      "type": "Tobacco",
+      "origin": "Distrito Nirgua, Estado Yaracuy",
+      "presented_by": "Dr. H. Pittier",
+      "institution_involved": "Ministerio de Salubridad y de Agricultura y Cria; Museo Comercial, Caracas",
+      "experiment_name": null,
+      "received_date": "May 19, 1934",
+      "description": "From Venezuela. Seeds presented by the Ministerio de Salubridad y de Agricultura y Cria, through Dr. H. Pittier, Museo Comercial, Caracas. Received May 19, 1934."
+    },
+    {
+      "pi_number": 105721,
+      "name_of_crop": "Nicotiana tabacum L.",
+      "type": "Tobacco",
+      "origin": "Municipio Catuaro, Distrito Rivero, Estado Sucre",
+      "presented_by": "Dr. H. Pittier",
+      "institution_involved": "Ministerio de Salubridad y de Agricultura y Cria; Museo Comercial, Caracas",
+      "experiment_name": null,
+      "received_date": "May 19, 1934",
+      "description": "From Venezuela. Seeds presented by the Ministerio de Salubridad y de Agricultura y Cria, through Dr. H. Pittier, Museo Comercial, Caracas. Received May 19, 1934."
+    },
+    {
+      "pi_number": 105722,
+      "name_of_crop": "Nicotiana tabacum L.",
+      "type": "Tobacco",
+      "origin": "La Cueva del Gu\u00e1charo, Estado Monagas",
+      "presented_by": "Dr. H. Pittier",
+      "institution_involved": "Ministerio de Salubridad y de Agricultura y Cria; Museo Comercial, Caracas",
+      "experiment_name": null,
+      "received_date": "May 19, 1934",
+      "description": "From Venezuela. Seeds presented by the Ministerio de Salubridad y de Agricultura y Cria, through Dr. H. Pittier, Museo Comercial, Caracas. Received May 19, 1934."
+    },
+    {
+      "pi_number": 105724,
+      "name_of_crop": "Nicotiana tabacum L.",
+      "type": "Tobacco",
+      "origin": "Municipio Santa Cruz, Distrito Rivero, Estado Sucre",
+      "presented_by": "Dr. H. Pittier",
+      "institution_involved": "Ministerio de Salubridad y de Agricultura y Cria; Museo Comercial, Caracas",
+      "experiment_name": null,
+      "received_date": "May 19, 1934",
+      "description": "From Venezuela. Seeds presented by the Ministerio de Salubridad y de Agricultura y Cria, through Dr. H. Pittier, Museo Comercial, Caracas. Received May 19, 1934."
+    },
+    {
+      "pi_number": 105725,
+      "name_of_crop": "Nicotiana tabacum L.",
+      "type": "Tobacco",
+      "origin": "Municipio Cocorote, Distrito San Felipe, Estado Yaracuy",
+      "presented_by": "Dr. H. Pittier",
+      "institution_involved": "Ministerio de Salubridad y de Agricultura y Cria; Museo Comercial, Caracas",
+      "experiment_name": null,
+      "received_date": "May 19, 1934",
+      "description": "From Venezuela. Seeds presented by the Ministerio de Salubridad y de Agricultura y Cria, through Dr. H. Pittier, Museo Comercial, Caracas. Received May 19, 1934."
+    },
+    {
+      "pi_number": 105726,
+      "name_of_crop": "Crotalaria sp.",
+      "type": "Rattlepod",
+      "origin": "From the Belgian Congo, Africa",
+      "presented_by": "J. B. H. Lejeune",
+      "institution_involved": "Government Agronomic Station, Kisozi, Territories of Ruanda-Urundi",
+      "experiment_name": null,
+      "received_date": "May 21, 1934",
+      "description": "Seeds presented by J. B. H. Lejeune, Director, Government Agronomic Station, Kisozi, Territories of Ruanda-Urundi. From the Belgian Congo, Africa. Received May 21, 1934."
+    },
+    {
+      "pi_number": 105727,
+      "name_of_crop": "Arikuryroba schizophylla (Mart.) Bailey",
+      "type": "Palm",
+      "origin": "Brazil",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "A small slender-stemmed palm, about 15 feet high, with pinnate leaves. Native to Brazil. For previous introduction see 104681."
+    },
+    {
+      "pi_number": 105728,
+      "name_of_crop": "Bauhinia racemosa Lam.",
+      "type": "Caesalpiniaceae",
+      "origin": "Eastern India",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "A small shrub with drooping branches and rounded leaves, the two lobes rounded oval, white-hairy beneath. The small yellow flowers are in racemes of 12 to 18. Native to eastern India."
+    },
+    {
+      "pi_number": 105729,
+      "name_of_crop": "Livistona chinensis (Jacq.) R. Br.",
+      "type": "Palm",
+      "origin": "China",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "A palm, native to China, with a short thick trunk up to 6 feet high and 1 foot thick, having a crown of reniform palmately divided leaves 4 to 6 feet across on petioles about 5 feet long, which are armed below the middle with recurved brown spines more than an inch long. For previous introduction see 93412."
+    },
+    {
+      "pi_number": 105730,
+      "name_of_crop": "Livistona cochinchinensis (Blume) Mart.",
+      "type": "Palm",
+      "origin": "Malacca",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "A slender palm about 50 feet high, with a crown of large fan-shaped leaves. It is native to Malacca. For previous introduction see 104240."
+    },
+    {
+      "pi_number": 105731,
+      "name_of_crop": "Adenium obesum (Forsk.) Roem. and Schult.",
+      "type": "Apocynaceae",
+      "origin": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "For previous introduction and description see 105448."
+    },
+    {
+      "pi_number": 105740,
+      "name_of_crop": "Helianthus tuberosus L.",
+      "type": "Jerusalem-artichoke",
+      "origin": "From the Canal Zone",
+      "presented_by": "David Fairchild",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "May 28, 1934",
+      "description": "From the Canal Zone. Seeds presented through David Fairchild, Bureau of Plant Industry. Received May 28, 1934. 105740. No. 53."
+    },
+    {
+      "pi_number": 105741,
+      "name_of_crop": "Helianthus tuberosus L.",
+      "type": "Jerusalem-artichoke",
+      "origin": "From the Union of Soviet Socialist Republics",
+      "presented_by": "Chicory Institute, Moscow",
+      "institution_involved": "Chicory Institute, Moscow",
+      "experiment_name": null,
+      "received_date": "May 26, 1934",
+      "description": "Tubers presented by the Chicory Institute, Moscow. 1934. Received May 26. No. 92."
+    },
+    {
+      "pi_number": 105742,
+      "name_of_crop": "Helianthus tuberosus L.",
+      "type": "Jerusalem-artichoke",
+      "origin": "From the Union of Soviet Socialist Republics",
+      "presented_by": "Chicory Institute, Moscow",
+      "institution_involved": "Chicory Institute, Moscow",
+      "experiment_name": null,
+      "received_date": "May 26, 1934",
+      "description": "Tubers presented by the Chicory Institute, Moscow. 1934. Received May 26. No. 166."
+    },
+    {
+      "pi_number": 105743,
+      "name_of_crop": "Helianthus tuberosus L.",
+      "type": "Jerusalem-artichoke",
+      "origin": "From the Union of Soviet Socialist Republics",
+      "presented_by": "Chicory Institute, Moscow",
+      "institution_involved": "Chicory Institute, Moscow",
+      "experiment_name": null,
+      "received_date": "May 26, 1934",
+      "description": "Tubers presented by the Chicory Institute, Moscow. 1934. Received May 26. No. 167."
+    },
+    {
+      "pi_number": 105744,
+      "name_of_crop": "Cavanillesia platani-folia",
+      "type": "Bombacaceae",
+      "origin": "From the Canal Zone",
+      "presented_by": "David Fairchild",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "May 28, 1934",
+      "description": "A Colombian tree up to 100 feet high with a large thick trunk, smooth pale bark, large shallowly five- to seven-lobed leaves, and red flowers 1 inch long. The soft coarse pithlike wood is white or yellowish and is used for making canoes and rafts. For previous introduction see 98928."
+    },
+    {
+      "pi_number": 105745,
+      "name_of_crop": null,
+      "type": null,
+      "origin": "From the Canal Zone",
+      "presented_by": "David Fairchild",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "May 28, 1934",
+      "description": "Seed entry associated with 105744 continued; details not fully specified in the excerpt."
+    },
+    {
+      "pi_number": 105782,
+      "name_of_crop": "Dolichandrone crispa Seem.",
+      "type": "Bignoniaceae",
+      "origin": "Southern India",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "A large tropical tree, 40 to 60 feet high, with compound leaves, two to four broadly elliptic leaves, white flowers in small corymbs. Native to southern India."
+    },
+    {
+      "pi_number": 105788,
+      "name_of_crop": "Fagraea obovata Wall.",
+      "type": "Indigenous tropical tree",
+      "origin": "Assam, India",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Plants of a tropical tree of moderate size, with ovate or rounded thick leaves 5 or 6 inches long and fragrant white flowers, 2 inches long, in corymb-like clusters. Native to Assam, India."
+    },
+    {
+      "pi_number": 105784,
+      "name_of_crop": "Lonchocarpus neuroscapha Benth.",
+      "type": "Lancepod",
+      "origin": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "An evergreen tree with alternate pinnate leaves and racemes of purplish pea-like flowers. For previous introduction see 94776."
+    }
+  ]
+}

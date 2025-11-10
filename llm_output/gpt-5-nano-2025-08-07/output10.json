@@ -1,0 +1,211 @@
+{
+  "generated_at": "2025-10-02T15-00-25",
+  "model": "gpt-5-nano-2025-08-07",
+  "input_file": "input10.md",
+  "duration_sec": 78.43,
+  "token_usage": {
+    "prompt_tokens": 2831,
+    "completion_tokens": 13781,
+    "total_tokens": 16612
+  },
+  "crops": [
+    {
+      "pi_number": 32429,
+      "name_of_crop": "BRACHIARIA KRUCIFORMIS (Smith) Griseb.",
+      "type": null,
+      "origin": "Kirki",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "One of the best pasture grasses in India, each plant producing a dense mass of fine stems a foot or more high. It produces need in great abundance."
+    },
+    {
+      "pi_number": 32430,
+      "name_of_crop": "Rytilix granularis (L.) Skeels",
+      "type": null,
+      "origin": "Kirki",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "(Cenekrus granularis L., 1771, Mantisa Plantarum, p 575.) The seeds of this grass were received under the name Meniauris granuleris Swartz, 1738 (Nova Genera et Species Plantarum, p. 25), which is based on Cencheus granuleris 1 .. However, Linnaeus had published in 1771 (Mantina Plantarum, pp. 161, 300) the generic name Mamisuris with one species Af. myurus, which is not now considered to be congeneric with Cenekrus granuleris L., thus invalidating the use of the generic name Mamisuris for the latter species. This fact was recognized by Kuntze, who proposed foe Cenekeus granmlerix La. the name Harkelochloa (Revis\u00e3o Generum Plantaruan, 1891, pt. 2, p. 776). However, in 1830, Seringe (Bulletin Botanique, vol. 1. p. 219) had published the generic name Rytilix, citing \" Manicuris granularis et myurus Auct.\" and listing one species, R. glanduloss. While there is no description, the facts that M. granularis was cited first, that the name R, glandulost is proposed and that \"giandulosa\" and \"granularis\" are considered to refer to the same plant characteristic, lead one to consider Maniauris granularis to be the type of the genus Rytilix."
+    },
+    {
+      "pi_number": 32431,
+      "name_of_crop": "Indigofera linifolia",
+      "type": null,
+      "origin": "Kirki",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Said to be one of the best pasture legumes in India."
+    },
+    {
+      "pi_number": 32432,
+      "name_of_crop": "Alysicarpus longifolius (Rottl.) Wight & Arn.",
+      "type": null,
+      "origin": "Kirki",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A tall, erect species being tested for hay at Kirki."
+    },
+    {
+      "pi_number": 32433,
+      "name_of_crop": "Synthereama sanguinalis",
+      "type": null,
+      "origin": "Kirki",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Similar to our common crab-grass."
+    },
+    {
+      "pi_number": 32434,
+      "name_of_crop": "Crotalaria orixensis Willd.",
+      "type": null,
+      "origin": "Kirki",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A creeping species abundant in sorghum, etc., at Kirki. The green pods are caten by boys."
+    },
+    {
+      "pi_number": 32435,
+      "name_of_crop": "Mnesithea exaltata (L.) Skeels",
+      "type": null,
+      "origin": "Poona",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "(Ophiuros corymbosus (L. L.) Gaertn. f. In publishing the genus Ophiuros, Gaertner cited Rottboellia boellia Linn, and Jums,., and described and figured two species, Under the first, O. incurvat a, are cited the descriptions of Aegilops incurvata L, and Rottboellia incurrala L. f. Under the second. O. corymbosa, are cited the descriptions of Argilopa exaltata L. and Rottboellia corymbosa L., f., the latter of which is based on Argilopa exaltata, the specific name being changed because of Rottboellia eralista I. t. appearing earlier on the same page of the Supplementum (1781, p. 114). The generic characterization covers both grasses; but the first species is more completely described, Gaertner not having any fertile flowers of the second, of which he remarks that it might prove to be very closely related to Digitaria if the flowers were better known, It would therefore be necessary to consider the first species, O. incurrota, as the type of the genus Ophiuros, As Aegilops exaltata is not now considered to be congeneric with O. incurvala it must be referred to another genus. In 1829, Kunth (Revision des Gramin\u00e9es, vol. 1, p. 153) published the genus Mnesithea with one species, M. ferris, based on Rottboellia lorris Retzius. As this grass is considered to be congeneric with the species received as Ophiuros corymbosa, the latter is here placed in the genus Mnesithea, the earliest specific name, exaltata, being restored."
+    },
+    {
+      "pi_number": 32436,
+      "name_of_crop": "Heylandea latebrosea (L.) DC.",
+      "type": null,
+      "origin": "Kirki",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A prostrate legume abundant in the Dekkan, Said to be good fodder."
+    },
+    {
+      "pi_number": 32437,
+      "name_of_crop": "Panicum thyfueron Schultes",
+      "type": null,
+      "origin": "Kirki",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A large annual Panicum producing enormous panicles 12 to 18 inches long and nearly as broad. These panicles break off and drift over the country after the manner of tumbleweeds. The grass is considered fair forage."
+    },
+    {
+      "pi_number": 32438,
+      "name_of_crop": "Ischaemum pilosum (Klein) Hackel",
+      "type": null,
+      "origin": "Kirki",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A tall, rather coarse grass growing on comparatively low ground. It makes only fair forage."
+    },
+    {
+      "pi_number": 32439,
+      "name_of_crop": "Anthraxon lanceolatus (Roxb.) Hochst.",
+      "type": null,
+      "origin": "Kirki",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A grass growing about Poona in more or less shaded places, especially where somewhat molat."
+    },
+    {
+      "pi_number": 32440,
+      "name_of_crop": "Andropogon caricosus L.",
+      "type": null,
+      "origin": "Kirki",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A grass abundant throughout northern and central India and considered excellent forage. Much of it is cut for hay."
+    },
+    {
+      "pi_number": 32441,
+      "name_of_crop": "Andropogon annulatus Forssk.",
+      "type": null,
+      "origin": "Kirki",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Very similar to the preceding, but with much more slender stems."
+    },
+    {
+      "pi_number": 32442,
+      "name_of_crop": "Parochetus communis Hamilton",
+      "type": null,
+      "origin": "Utakamand",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Collected on wet banks, The leaves are like white clover and the scapes bear one or two bright-blue flowers."
+    },
+    {
+      "pi_number": 32443,
+      "name_of_crop": "Hypogon filiformes Nees",
+      "type": null,
+      "origin": "Utakamand",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A perennial grass forming a considerable element of the grammy meadows."
+    },
+    {
+      "pi_number": 32444,
+      "name_of_crop": "Themeda triandra (Forsk.)",
+      "type": null,
+      "origin": "Utakamand",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Probably variety Themeda roglei Hook. f. An abundant element of the gramny meadows of the Nilgiri Hills and considered good forage."
+    },
+    {
+      "pi_number": 32445,
+      "name_of_crop": "Ischarmum ciliare villosum (Nees) Hackel",
+      "type": null,
+      "origin": "Utakamand",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Locally abundant in the grassy meadows of the Nilgiri Hills."
+    },
+    {
+      "pi_number": 32446,
+      "name_of_crop": "Beachitpodium sylvaticum (Huds.) Beauv.",
+      "type": null,
+      "origin": "Kirki",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Common in shady places in the Nilgiri Hills at 6,000 feet altitude."
+    }
+  ]
+}

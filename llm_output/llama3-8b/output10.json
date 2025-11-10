@@ -1,0 +1,12 @@
+{
+  "generated_at": "2025-07-30T23-58-49",
+  "model": "llama3-8b",
+  "input_file": "input10.md",
+  "duration_sec": 44.09,
+  "token_usage": {
+    "prompt_tokens": 2881,
+    "completion_tokens": 1215,
+    "total_tokens": 4096
+  },
+  "crops": []
+}

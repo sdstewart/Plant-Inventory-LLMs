@@ -1,0 +1,200 @@
+{
+  "generated_at": "2025-10-02T15-11-48",
+  "model": "gpt-5-nano-2025-08-07",
+  "input_file": "input18.md",
+  "duration_sec": 69.62,
+  "token_usage": {
+    "prompt_tokens": 1216,
+    "completion_tokens": 11778,
+    "total_tokens": 12994
+  },
+  "crops": [
+    {
+      "pi_number": 105933,
+      "name_of_crop": "Cynodon sp.",
+      "type": "Kweek grass",
+      "origin": "Union of South Africa",
+      "presented_by": "I. B. Pole Evans",
+      "institution_involved": "Division of Plant Industry, Department of Agriculture, Pretoria",
+      "experiment_name": null,
+      "received_date": "July 9, 1934",
+      "description": "Seeds and plants presented by I. B. Pole Evans, Chief, Division of Plant Industry, Department of Agriculture, Pretoria. Received July 9, 1934. Plants of a cold-resistant variety collected at nearly 6,000 feet altitude in the high country around Johannesburg."
+    },
+    {
+      "pi_number": 105934,
+      "name_of_crop": "Cynodon sp.",
+      "type": "Kweek grass",
+      "origin": "Union of South Africa",
+      "presented_by": "I. B. Pole Evans",
+      "institution_involved": "Division of Plant Industry, Department of Agriculture, Pretoria",
+      "experiment_name": null,
+      "received_date": "July 9, 1934",
+      "description": "Plants collected near Vereening, at nearly 3,000 feet altitude."
+    },
+    {
+      "pi_number": 105935,
+      "name_of_crop": "Cynodon sp.",
+      "type": "Kweek grass",
+      "origin": "Union of South Africa",
+      "presented_by": "I. B. Pole Evans",
+      "institution_involved": "Division of Plant Industry, Department of Agriculture, Pretoria",
+      "experiment_name": null,
+      "received_date": "July 9, 1934",
+      "description": "Seed from the Rietondale Pasture Station, Pretoria."
+    },
+    {
+      "pi_number": 105936,
+      "name_of_crop": "Atriplex hortensis",
+      "type": "Garden orach",
+      "origin": "Union of South Africa",
+      "presented_by": "Ellis Thomas",
+      "institution_involved": "School of Agriculture, Grootfontein, Middleburg, Cape",
+      "experiment_name": null,
+      "received_date": "July 9, 1934",
+      "description": "Garden orach. Vaalbrak."
+    },
+    {
+      "pi_number": 105937,
+      "name_of_crop": "Euryops multifidus",
+      "type": null,
+      "origin": "Union of South Africa",
+      "presented_by": "Ellis Thomas",
+      "institution_involved": "School of Agriculture, Grootfontein, Middleburg, Cape",
+      "experiment_name": null,
+      "received_date": "July 9, 1934",
+      "description": "A stout bush a foot or more high, with linear-filiform leaves one-half to 11% inches long and numerous small yellow flower heads on slender stems an inch long."
+    },
+    {
+      "pi_number": 105938,
+      "name_of_crop": "Pegolettia sp.",
+      "type": null,
+      "origin": null,
+      "presented_by": "Ellis Thomas",
+      "institution_involved": "School of Agriculture, Grootfontein, Middleburg, Cape",
+      "experiment_name": null,
+      "received_date": "July 9, 1934",
+      "description": "Members of this genus are small, rigid, shrubby plants with yellow flower heads."
+    },
+    {
+      "pi_number": 105939,
+      "name_of_crop": "Pentzia spherocephala",
+      "type": null,
+      "origin": null,
+      "presented_by": "Ellis Thomas",
+      "institution_involved": "School of Agriculture, Grootfontein, Middleburg, Cape",
+      "experiment_name": null,
+      "received_date": "July 9, 1934",
+      "description": "A rigid twiggy shrub with long erect branches and trifid leaves an inch or more long with linear lobes. The yellow flower heads are half an inch across."
+    },
+    {
+      "pi_number": 105940,
+      "name_of_crop": "Phymaspermum parvifolium",
+      "type": null,
+      "origin": null,
+      "presented_by": "Ellis Thomas",
+      "institution_involved": "School of Agriculture, Grootfontein, Middleburg, Cape",
+      "experiment_name": null,
+      "received_date": "July 9, 1934",
+      "description": "A rigid, much-branched shrub, 1 to 2 feet high, with thinly silky tufted linear leaves up to an inch long and chrysanthemumlike flowers having reddish or yellow disk flowers and white rays. It is said to be a valuable pasture plant for sheep."
+    },
+    {
+      "pi_number": 105941,
+      "name_of_crop": "Salsola glabrescens",
+      "type": null,
+      "origin": null,
+      "presented_by": "Ellis Thomas",
+      "institution_involved": "School of Agriculture, Grootfontein, Middleburg, Cape",
+      "experiment_name": null,
+      "received_date": "July 9, 1934",
+      "description": "A dwarf shrub 1 to 3 feet high, with very small ovate or triangular, spirally arranged leaves and inconspicuous flowers."
+    },
+    {
+      "pi_number": 105942,
+      "name_of_crop": "Tetragonia arbuscula",
+      "type": null,
+      "origin": null,
+      "presented_by": "Ellis Thomas",
+      "institution_involved": "School of Agriculture, Grootfontein, Middleburg, Cape",
+      "experiment_name": null,
+      "received_date": "July 9, 1934",
+      "description": "A much-branched, semishrubby perennial with fleshy leaves less than 1 inch long, varying from linear to ovate-oblong. The small inconspicuous flowers are borne in leafy racemes and are followed by 3- to 4-winged nutlike fruits."
+    },
+    {
+      "pi_number": 105943,
+      "name_of_crop": "Tripteris pachypteris",
+      "type": null,
+      "origin": null,
+      "presented_by": "Ellis Thomas",
+      "institution_involved": "School of Agriculture, Grootfontein, Middleburg, Cape",
+      "experiment_name": null,
+      "received_date": "July 9, 1934",
+      "description": "A bushy shrub 1 to 3 feet high, with alternate linear leaves, entire or 3- toothed, and numerous small flower heads."
+    },
+    {
+      "pi_number": 105944,
+      "name_of_crop": "Saccharum officinarum",
+      "type": "Sugarcane",
+      "origin": "Dominican Republic",
+      "presented_by": "James C. Scarffe",
+      "institution_involved": "San Pedro de Macoris",
+      "experiment_name": null,
+      "received_date": "July 14, 1934",
+      "description": "From the Dominican Republic. Cuttings presented by James C. Scarffe, San Pedro de Macoris. Received July 14, 1934. Porvenir-30. An erect vigorous variety which becomes 7 to 9 feet high. It matures in 5 months, is fairly drought resistant, and has never been seen with mosaic. Introduced for the use of Department specialists working with sugarcane."
+    },
+    {
+      "pi_number": 105945,
+      "name_of_crop": "Ipomoea batatas",
+      "type": "Sweetpotato",
+      "origin": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Sweetpotato."
+    },
+    {
+      "pi_number": 105946,
+      "name_of_crop": "Ipomoea batatas",
+      "type": "Sweetpotato",
+      "origin": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Sweetpotato."
+    },
+    {
+      "pi_number": 105947,
+      "name_of_crop": "Ipomoea batatas",
+      "type": "Sweetpotato",
+      "origin": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Sweetpotato."
+    },
+    {
+      "pi_number": 105948,
+      "name_of_crop": "Ipomoea batatas",
+      "type": "Sweetpotato",
+      "origin": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Sweetpotato."
+    },
+    {
+      "pi_number": 105949,
+      "name_of_crop": "Ipomoea batatas",
+      "type": "Sweetpotato",
+      "origin": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Sweetpotato."
+    }
+  ]
+}

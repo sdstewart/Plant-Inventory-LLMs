@@ -1,0 +1,134 @@
+{
+  "generated_at": "2025-07-31T00-06-50",
+  "model": "llama3-8b",
+  "input_file": "input6.md",
+  "duration_sec": 43.81,
+  "token_usage": {
+    "prompt_tokens": 1096,
+    "completion_tokens": 1217,
+    "total_tokens": 2313
+  },
+  "crops": [
+    {
+      "pi_number": 832,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Samarkand, Turkestan",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "8 packages. 'Hochja.'"
+    },
+    {
+      "pi_number": 832,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Samarkand, Turkestan",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "5 packages. 'Leherim pishack' (the sweetest of them all)"
+    },
+    {
+      "pi_number": 834,
+      "name_of_crop": "Cucumis melo",
+      "type": null,
+      "origin": "Khiva, Turkestan",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "5 packages. 'Kara-karee' (old and black). Early sort."
+    },
+    {
+      "pi_number": 835,
+      "name_of_crop": "Agropyron cristatum",
+      "type": null,
+      "origin": "Walujka Experiment Station, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "May 25, 1898",
+      "description": "Native dry steppe grass. Seed from plants cultivated one year. Director Bogdan regards this species promising for cultivation."
+    },
+    {
+      "pi_number": 836,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Bokhara",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "May, 1898",
+      "description": "176 packages."
+    },
+    {
+      "pi_number": 837,
+      "name_of_crop": "Agropyron cristatum",
+      "type": null,
+      "origin": "Walujka Experiment Station, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "May 25, 1898",
+      "description": "Native grass; seed gathered wild from dry sandy steppe."
+    },
+    {
+      "pi_number": 838,
+      "name_of_crop": "Agropyron cristatum",
+      "type": null,
+      "origin": "Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "May, 1898",
+      "description": "Same as No. 837."
+    },
+    {
+      "pi_number": 839,
+      "name_of_crop": "Glycyrrhiza glabra",
+      "type": "Licorice",
+      "origin": "Uralsk",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "May, 1898",
+      "description": "4 packages. See No. 186."
+    },
+    {
+      "pi_number": 841,
+      "name_of_crop": "Triticum ramosum",
+      "type": null,
+      "origin": "Walujka, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "May, 1898",
+      "description": "Native dry steppe grass. Director Bogdan, of the Walujka Experiment Station, said : 'A weed, but makes very good hay.'"
+    },
+    {
+      "pi_number": 842,
+      "name_of_crop": "Medicago falcata",
+      "type": "Medick",
+      "origin": "Walujka, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "May, 1898",
+      "description": "Seed gathered from wild plants. Regarded by Director Bogdan, of the Walujka Experiment Station, as promising fodder plant for dry steppes, where it is found native at Walujka."
+    },
+    {
+      "pi_number": 843,
+      "name_of_crop": "Triticum vulgare",
+      "type": "Wheat",
+      "origin": null,
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Very likely the lot of arnautka or beloturka hard wheat secured at Semipalatinsk, Siberia."
+    }
+  ]
+}
