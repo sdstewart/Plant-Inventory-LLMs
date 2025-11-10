@@ -1,0 +1,178 @@
+{
+  "generated_at": "2025-07-30T18-54-05",
+  "model": "gpt-3.5-turbo",
+  "input_file": "input22.md",
+  "duration_sec": 10.57,
+  "token_usage": {
+    "prompt_tokens": 1799,
+    "completion_tokens": 1900,
+    "total_tokens": 3699
+  },
+  "crops": [
+    {
+      "pi_number": 106378,
+      "name_of_crop": "Lupinus sp.",
+      "type": "Fabaceae",
+      "origin": "France",
+      "received_date": "September 4, 1934",
+      "presented_by": "Dr. J. Dufrenoy",
+      "institution_involved": "Station de Pathologie Vegetale, Pont de la Maye, Gironde",
+      "experiment_name": null,
+      "description": "A hardy perennial, grown in the Pyrenees, but originally from Liberia."
+    },
+    {
+      "pi_number": 106379,
+      "name_of_crop": "Bauhinia tomentosa",
+      "type": "Caesalpiniaceae",
+      "origin": "Cuba",
+      "received_date": "September 5, 1934",
+      "presented_by": "Robert M. Grey",
+      "institution_involved": "Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "experiment_name": "St. Thomas tree",
+      "description": "An erect shrub or small tree which has obtusely lobed leathery leaves, broader than long, and few-flowered clusters of pure yellow flowers. It is native to India."
+    },
+    {
+      "pi_number": 106380,
+      "name_of_crop": "Tarchonanthus minor",
+      "type": "Asteraceae",
+      "origin": "Union of South Africa",
+      "received_date": "September 10, 1934",
+      "presented_by": "McGregor Museum, Kimberley",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A strongly resin-scented shrub, native to southern Africa, with oblong to obovate, entire leaves up to 2 inches long and short racemes of small woolly flower heads. It is said to be a good stock feed and to be drought resistant."
+    },
+    {
+      "pi_number": 106381,
+      "name_of_crop": "Albuca viridiflora",
+      "type": "Liliaceae",
+      "origin": "South Africa",
+      "received_date": "September 11, 1934",
+      "presented_by": "Forest botanist, Forest Research Institute, Dehra Dun, United Provinces",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A South African bulbous plant with six to nine linear-subulate, channeled, hairy leaves a foot long and green yellow-margined flowers in a lax raceme on a scape as long as the leaves."
+    },
+    {
+      "pi_number": 106382,
+      "name_of_crop": "Lagerstroemia floribunda",
+      "type": "Lythraceae",
+      "origin": "Malaya",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A handsome tropical tree, native to Malaya, with ovate-oblong acute leaves and very numerous pale-rose flowers in much-branched terminal panicles. Larger in all parts than Lagerstroemia indica."
+    },
+    {
+      "pi_number": 106383,
+      "name_of_crop": "Lagerstroemia tomentosa",
+      "type": "Lythraceae",
+      "origin": "Burma",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A tall tropical tree 70 to 100 feet high, with elliptic-lanceolate leaves 3 to 6 inches long, hairy beneath, and purple flowers in axillary and terminal panicles. Native to Burma. Much larger than Lagerstroemia indica, but with less showy flowers."
+    },
+    {
+      "pi_number": 106384,
+      "name_of_crop": "Musa arnoldiana",
+      "type": "Musaceae",
+      "origin": null,
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A tropical banana relative about 12 feet high, with leaves 7 feet long and fruits 4 inches long."
+    },
+    {
+      "pi_number": 106385,
+      "name_of_crop": "Urginea indica",
+      "type": "Liliaceae",
+      "origin": "India, tropical America",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A bulbous perennial 12 to 18 inches high, native to India and tropical America. The flower scape, appearing before the linear leaves, bears a raceme 6 to 12 inches long of drooping campanulate flowers an inch long, greenish white with green nerves."
+    },
+    {
+      "pi_number": 106386,
+      "name_of_crop": "Zephyranthes citrina",
+      "type": "Amaryllidaceae",
+      "origin": null,
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": "Zephyrlily",
+      "description": "A bulbous plant, unknown except in cultivation, with linear bright-green leaves a foot long and bright-yellow, red, or white flowers over an inch long on scapes about 5 inches high."
+    },
+    {
+      "pi_number": 106387,
+      "name_of_crop": "Triticum aestivum",
+      "type": "Poaceae",
+      "origin": "Argentina",
+      "received_date": "August 20, 1934",
+      "presented_by": "Director, Chacra Experimental de Alto de Sierra, San Juan",
+      "institution_involved": null,
+      "experiment_name": "Common wheat",
+      "description": null
+    },
+    {
+      "pi_number": 106388,
+      "name_of_crop": "Triticum aestivum",
+      "type": "Poaceae",
+      "origin": "Argentina",
+      "received_date": "August 20, 1934",
+      "presented_by": "Director, Chacra Experimental de Alto de Sierra, San Juan",
+      "institution_involved": null,
+      "experiment_name": "Common wheat",
+      "description": null
+    },
+    {
+      "pi_number": 106389,
+      "name_of_crop": "Quercus sp.",
+      "type": "Fagaceae",
+      "origin": "Nanking, China",
+      "received_date": "April 28, 1934",
+      "presented_by": "A. N. Steward and H. C. Cheo, University of Nanking",
+      "institution_involved": null,
+      "experiment_name": "F. 84. Li Shu",
+      "description": "Collected October 23, 1933, at 1,000 feet altitude at Ta Tseh Tsuen, Yung Hsien. A tree with ovate fruits an inch long and almost as wide."
+    },
+    {
+      "pi_number": 106390,
+      "name_of_crop": "Solanum tuberosum",
+      "type": "Solanaceae",
+      "origin": "Peru",
+      "received_date": "September 8, 1934",
+      "presented_by": "Estacion Experimental Agr\u00edcola, La Molina, Lima",
+      "institution_involved": null,
+      "experiment_name": "Potato",
+      "description": "A collection of potatoes introduced for the use of Department specialists."
+    },
+    {
+      "pi_number": 106415,
+      "name_of_crop": "Zea mays",
+      "type": "Poaceae",
+      "origin": "Sumatra",
+      "received_date": "September 12, 1934",
+      "presented_by": "Rev. Hagnar Alm, Tandjong, Balei",
+      "institution_involved": "Plant quarantine office in New York",
+      "experiment_name": "Corn",
+      "description": null
+    },
+    {
+      "pi_number": 106416,
+      "name_of_crop": "Agropyron pauciflorum",
+      "type": "Poaceae",
+      "origin": "Arizona",
+      "received_date": "September 5, 1934",
+      "presented_by": "R. E. Burton, Santa Cruz, Calif",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Collected for Department specialists."
+    }
+  ]
+}

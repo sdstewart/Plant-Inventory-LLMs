@@ -1,0 +1,134 @@
+{
+  "generated_at": "2025-07-30T18-53-54",
+  "model": "gpt-3.5-turbo",
+  "input_file": "input21.md",
+  "duration_sec": 7.6,
+  "token_usage": {
+    "prompt_tokens": 1755,
+    "completion_tokens": 1227,
+    "total_tokens": 2982
+  },
+  "crops": [
+    {
+      "pi_number": 106295,
+      "name_of_crop": "Triticum aestivum",
+      "type": "Common wheat",
+      "origin": "Australia",
+      "received_date": "August 28, 1934",
+      "presented_by": "H. Wenholz, Director of Plant Breeding",
+      "institution_involved": "Department of Agriculture, Sydney, New South Wales",
+      "experiment_name": "A collection of wheat crosses from the Wagga Experiment Farm",
+      "description": "Which have Federation as one of the parents and which mature somewhat later than Federation."
+    },
+    {
+      "pi_number": 106311,
+      "name_of_crop": "Lonchocarpus sp.",
+      "type": null,
+      "origin": "British Guiana",
+      "received_date": "August 14, 1934",
+      "presented_by": "W. A. Archer, Bureau of Plant Industry",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Cuttings collected in the Botanic Garden, Georgetown."
+    },
+    {
+      "pi_number": 106315,
+      "name_of_crop": "Triticum aestivum",
+      "type": "Common wheat",
+      "origin": "Australia",
+      "received_date": "August 30, 1934",
+      "presented_by": "H. Wenholz, Director of Plant Breeding",
+      "institution_involved": "Department of Agriculture, Sydney, New South Wales",
+      "experiment_name": null,
+      "description": "Seeds grown at the Wagga Experiment Farm, Bomen, New South Wales."
+    },
+    {
+      "pi_number": 106327,
+      "name_of_crop": "Calothamnus gilesii",
+      "type": null,
+      "origin": "Australia",
+      "received_date": "August 25, 1934",
+      "presented_by": "C. A. Gardner, Government botanist",
+      "institution_involved": "Department of Agriculture, Perth, Western Australia",
+      "experiment_name": null,
+      "description": "A graceful evergreen shrub with linear terete leaves and loose lateral clusters of reddish flowers."
+    },
+    {
+      "pi_number": 106328,
+      "name_of_crop": "Conospermum bracteosum",
+      "type": null,
+      "origin": "Australia",
+      "received_date": "August 25, 1934",
+      "presented_by": "F. Muell",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "An undershrub with usually simple stems 1 to 2 feet high and petioled basal leaves."
+    },
+    {
+      "pi_number": 106329,
+      "name_of_crop": "Hibiscus huegelii",
+      "type": null,
+      "origin": "Australia",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A tall shrub with 3- to 5-lobed coarsely toothed leaves and large violet-purple flowers."
+    },
+    {
+      "pi_number": 106330,
+      "name_of_crop": "Leptospermum spinescens",
+      "type": null,
+      "origin": "Australia",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A low spiny evergreen shrub with very small lanceolate leaves and small solitary axillary white flowers."
+    },
+    {
+      "pi_number": 106331,
+      "name_of_crop": "Pileanthus peduncularis",
+      "type": null,
+      "origin": "Australia",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A low shrub with opposite fleshy semi-terete leaves crowded at the ends of the branches and small purplish flowers in the leaf axils."
+    },
+    {
+      "pi_number": 106332,
+      "name_of_crop": "Eucalyptus amygdalina",
+      "type": "Almond eucalyptus",
+      "origin": "Australia",
+      "received_date": "August 25, 1934",
+      "presented_by": "F. H. Baker, Richmond, Victoria",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "An Australian tree up to 300 feet high, with lanceolate leaves and crowded umbels of small flowers."
+    },
+    {
+      "pi_number": 106333,
+      "name_of_crop": "Eucalyptus calophylla",
+      "type": "Variety Rosea",
+      "origin": "Australia",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A form with pink flowers."
+    },
+    {
+      "pi_number": 106334,
+      "name_of_crop": "Eucalyptus corymbosa",
+      "type": null,
+      "origin": "Australia",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A medium-sized evergreen tree with leathery lanceolate leaves and large corymbs of fragrant yellowish-white flowers."
+    }
+  ]
+}

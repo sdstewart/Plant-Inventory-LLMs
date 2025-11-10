@@ -1,0 +1,134 @@
+{
+  "generated_at": "2025-07-30T18-53-18",
+  "model": "gpt-3.5-turbo",
+  "input_file": "input2.md",
+  "duration_sec": 10.3,
+  "token_usage": {
+    "prompt_tokens": 1347,
+    "completion_tokens": 1325,
+    "total_tokens": 2672
+  },
+  "crops": [
+    {
+      "pi_number": 14,
+      "name_of_crop": "Cucurbita maxima",
+      "type": "Pumpkin",
+      "origin": "Moscow, Russia",
+      "received_date": "February, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "State Board of Agriculture of South Dakota",
+      "experiment_name": null,
+      "description": "Introduced from Bulgaria. Tested against various pumpkin varieties by Mr. H. C. Warner, showing superior quality. Recommended for culinary use and feeding milch cows."
+    },
+    {
+      "pi_number": 15,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": "Koch-anka",
+      "description": "Oval shape, green flesh, medium early, sweet and juicy. Used for confectionery, cooked in sugar."
+    },
+    {
+      "pi_number": 16,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia, Belbek, Crimea",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hausen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Oblong shape, dark green with bright red flesh, early ripening."
+    },
+    {
+      "pi_number": 17,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": "Empress of Melons",
+      "description": "Oval shape with variegated surface, green flesh, extremely early and productive, very sweet."
+    },
+    {
+      "pi_number": 18,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia, Yokohama, Japan",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Dark green with red flesh, moderately late ripening."
+    },
+    {
+      "pi_number": 19,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Russia, Lenkoran, Province of Baku, Transcaucasia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": "Lenkoran No. 2",
+      "description": "Oval shape, bright yellow with dark spots, green flesh, late ripening and good storage."
+    },
+    {
+      "pi_number": 20,
+      "name_of_crop": "Citeullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia, Pjatigorsk farm",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": "Favorite of the Pjatigorsk farm",
+      "description": "Round shape, green skin with dark stripes, orange flesh, very early ripening."
+    },
+    {
+      "pi_number": 21,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Russia, Khiva, Turkestan",
+      "received_date": "January, 1808",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": "General Skobeleff II",
+      "description": "Round shape, white rind, orange flesh, medium early ripening."
+    },
+    {
+      "pi_number": 22,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": "The Czar of Baktcha",
+      "description": "Very large size, bright green with dark stripes, red flesh, late ripening."
+    },
+    {
+      "pi_number": 23,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": "Favorite of the Pjatigorsk farm",
+      "description": "Round shape, green skin with dark stripes, dark red flesh, very early ripening, described as magnificent."
+    },
+    {
+      "pi_number": 24,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia, China",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": "Jea Teveam",
+      "description": "Blackish green with rose-colored flesh, moderately late ripening."
+    }
+  ]
+}

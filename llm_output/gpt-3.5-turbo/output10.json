@@ -1,0 +1,211 @@
+{
+  "generated_at": "2025-07-30T18-50-16",
+  "model": "gpt-3.5-turbo",
+  "input_file": "input10.md",
+  "duration_sec": 31.13,
+  "token_usage": {
+    "prompt_tokens": 2897,
+    "completion_tokens": 2309,
+    "total_tokens": 5206
+  },
+  "crops": [
+    {
+      "pi_number": 32429,
+      "name_of_crop": "Brachiaria kruciformis",
+      "type": "Smith",
+      "origin": "Kirki",
+      "received_date": "October 14, 1911",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "One of the best pasture grasses in India, each plant producing a dense mass of fine stems a foot or more high. It produces need in great abundance."
+    },
+    {
+      "pi_number": 32430,
+      "name_of_crop": "Rytilix granularis",
+      "type": "Skeels",
+      "origin": "Kirki",
+      "received_date": "October 14, 1911",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "An annual grams that may be valuable after the manner of crab-grass."
+    },
+    {
+      "pi_number": 32431,
+      "name_of_crop": "Indigovera linifolla",
+      "type": "Retzius",
+      "origin": "Kirki",
+      "received_date": "October 14, 1911",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Said to be one of the best pasture legumes in India."
+    },
+    {
+      "pi_number": 32432,
+      "name_of_crop": "Alysicarpus longifolies",
+      "type": "Wight and Am.",
+      "origin": "Kirkl",
+      "received_date": "October 14, 1911",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": "A tall, erect species being tested for hay at Kirki.",
+      "description": null
+    },
+    {
+      "pi_number": 32433,
+      "name_of_crop": "Syntheraema sanguinales",
+      "type": "Dulac",
+      "origin": "Kirki",
+      "received_date": "October 14, 1911",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": "Similar to our common crab-grass.",
+      "description": null
+    },
+    {
+      "pi_number": 32434,
+      "name_of_crop": "Crotalaria orixensis",
+      "type": "Will !",
+      "origin": "Kirki",
+      "received_date": "October 14, 1911",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": "A creeping species abundant in sorghum, etc., at Kirki. The green pods are caten by boys.",
+      "description": null
+    },
+    {
+      "pi_number": 32435,
+      "name_of_crop": "Mnesithea exaltata",
+      "type": "Skeels",
+      "origin": "Poona",
+      "received_date": "October 13, 1931",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": "A rather coarse grass, bat cut for fodder.",
+      "description": "Found on dry hills at the base of the Himalayas, where it rises to an elevation of 3,500 feet, in the Khasi Hills and southward in the Dekkan Peninsula of India; also in the States of North Australia and Queensland in Australia."
+    },
+    {
+      "pi_number": 32436,
+      "name_of_crop": "Heylandea latebrosa",
+      "type": "DC",
+      "origin": "Kieki",
+      "received_date": "October 14, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": "A prostrate legume abundant in the Dekkan, Said to be good fodder.",
+      "description": "Throughout the tropical region of India from the valley of the Ganges to Ceylon."
+    },
+    {
+      "pi_number": 32437,
+      "name_of_crop": "Panicum thyfueron",
+      "type": "Schultes",
+      "origin": "Kirki",
+      "received_date": "October 14, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": "A large annual Panicum producing enormous panicles 12 to 18 inches long and nearly as broad. These panieles break off and drift over the country after the manner of tumbleweeds. The grass is considered fair forage.",
+      "description": "From India eastward to China and Borneo, and in tropical Africa."
+    },
+    {
+      "pi_number": 32438,
+      "name_of_crop": "Ischakmum pilosum",
+      "type": "Hackel",
+      "origin": "Kirki",
+      "received_date": "October 14, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": "A tall, rather ccarse grass growing en com- paratively low ground. It makes only fair forage.",
+      "description": "In the Central Provinces and in the Dekkan Peninsula of India."
+    },
+    {
+      "pi_number": 32439,
+      "name_of_crop": "Anthraxon lanceolatus",
+      "type": "Hochat",
+      "origin": "Kirki",
+      "received_date": "October 14, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": "A grass growing about Poona in more or lem shaded places, especially where somewhat molat .!!",
+      "description": "From the western Himalayas, where it rises to an elevation of 8,000 feet. southward to the Coromandel Coast of India, and eastward to the provinces of Chilli, Klangsu, Hupeh, and Yunnan in China; also in Nubla and Abyssinia in northern Africa."
+    },
+    {
+      "pi_number": 32440,
+      "name_of_crop": "Andropogon caricosus",
+      "type": "L.",
+      "origin": "Kirki",
+      "received_date": "October 14, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": "A grass abundant throughout northern and central India and considered excellent forage. Much of is is cut for hay.",
+      "description": null
+    },
+    {
+      "pi_number": 32441,
+      "name_of_crop": "Andropogon annulatus",
+      "type": "Fersk",
+      "origin": "Kirki",
+      "received_date": "October 14, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": "Very similar to the perceding, but with moch more slender stems.",
+      "description": "Throughout the plains and hills of India, and in tropical Africa, China, the Pacific islands, and in Australia."
+    },
+    {
+      "pi_number": 32442,
+      "name_of_crop": "Parochetus communis",
+      "type": "Hamilton",
+      "origin": "Utakamand",
+      "received_date": "October 24, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": "Collected on wet banks, The leaves are like white clover and the scapes bear one or two bright-blue flowers.",
+      "description": "From the alpine slopes of the Himalayas southward and east- ward to C'eylon and Burma in India, and in the Malay Archipelago to Java, also in tropical Africa."
+    },
+    {
+      "pi_number": 32443,
+      "name_of_crop": "Thipogon filiformes",
+      "type": "Nees",
+      "origin": null,
+      "received_date": "October 24, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": "A perennial grass forming a com- siderable element of the gramy meadows.",
+      "description": "In India on the temperate slopes of the Himalayas at an elevation of 5,000 to 10,000 feet, between Dalhousie and Bhutan and on the Khasi Hills."
+    },
+    {
+      "pi_number": 32444,
+      "name_of_crop": "Themeda triandra",
+      "type": "Forsk",
+      "origin": null,
+      "received_date": "October 23, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": "An abundant element of the gramy meadows of the Nilgiri Hills and considered good forage.",
+      "description": "In the drier parts of India from the lower Himalayas to Iburma and Ceylon, and generally distributed in the Tropics of the Eastern Hemisphere."
+    },
+    {
+      "pi_number": 32445,
+      "name_of_crop": "Ischarmum ciliare villosum",
+      "type": "Hackel",
+      "origin": null,
+      "received_date": "October 25, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": "Locally abundant in the grassy meadows of the Nilgiri Hills.",
+      "description": "From the eastern part of India southeastwand through the Malay Archipelago to China and Australia."
+    },
+    {
+      "pi_number": 32446,
+      "name_of_crop": "Beachitpodium sylvaticum",
+      "type": "Beauv",
+      "origin": null,
+      "received_date": "October 23, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": "Common in shady places in the Nilgiri Hills at 6,000 feet altitude.",
+      "description": null
+    }
+  ]
+}

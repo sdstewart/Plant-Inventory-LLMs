@@ -1,0 +1,134 @@
+{
+  "generated_at": "2025-07-30T19-01-34",
+  "model": "gpt-4o",
+  "input_file": "input2.md",
+  "duration_sec": 16.12,
+  "token_usage": {
+    "prompt_tokens": 1328,
+    "completion_tokens": 1352,
+    "total_tokens": 2680
+  },
+  "crops": [
+    {
+      "pi_number": 14,
+      "name_of_crop": "Cucurbita maxima",
+      "type": "Pumpkin",
+      "origin": "Moscow, Russia",
+      "received_date": "February, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "State Board of Agriculture of South Dakota",
+      "experiment_name": null,
+      "description": "\"Honey;\" introduced from Bulgaria. Tested in comparison with various other pumpkins and leads in quality. Noteworthy success in rich, sandy loam; vines bore drought and fruit ripe by September. In California, excellence not apparent."
+    },
+    {
+      "pi_number": 15,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "\"Kochanka;\" a Russian variety. Oval, flesh green; very productive, medium early; sweet and juicy. Extensively used for confectionery, cooked in sugar."
+    },
+    {
+      "pi_number": 16,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Russian variety from Belbek, Crimea. Oblong, dark green; flesh bright red; early."
+    },
+    {
+      "pi_number": 17,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "\"Empress of Melons;\" a Russian variety. Oval, surface variegated, flesh green, delicate, melting, and very sweet; extremely early and productive."
+    },
+    {
+      "pi_number": 18,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Originally from Yokohama, Japan. Dark green, with red flesh; moderately late."
+    },
+    {
+      "pi_number": 19,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "\"Lenkoran No. 2;\" originally from Lenkoran, Province of Baku, in Transcaucasia. Shape, oval; outside bright yellow with small dark spots; flesh green; ripens late and keeps well."
+    },
+    {
+      "pi_number": 20,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "\"Favorite of the Pjatigorsk farm;\" a Russian variety. Round, skin green with dark stripes, flesh orange; very early. Variety obtained direct from its native locality."
+    },
+    {
+      "pi_number": 21,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "\"General Skobeleff II;\" an Asiatic variety introduced into Russia from Khiva, Turkestan. Round, rind white, flesh orange; medium early."
+    },
+    {
+      "pi_number": 22,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "\"The Czar of Baktcha;\" a Russian variety. Very large, bright green with dark stripes, flesh red; rather late."
+    },
+    {
+      "pi_number": 23,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "\"Favorite of the Pjatigorsk farm;\" a Russian variety. Round, skin green with dark stripes, flesh dark red; very early; further described as \"magnificent.\" Evidently the same as No. 20."
+    },
+    {
+      "pi_number": 24,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia",
+      "received_date": "January, 1898",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "\"Jea Teveam;\" originally from China. Blackish green, flesh rose-colored; moderately late."
+    }
+  ]
+}

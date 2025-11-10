@@ -1,0 +1,156 @@
+{
+  "generated_at": "2025-07-30T18-52-24",
+  "model": "gpt-3.5-turbo",
+  "input_file": "input18.md",
+  "duration_sec": 12.9,
+  "token_usage": {
+    "prompt_tokens": 1242,
+    "completion_tokens": 1724,
+    "total_tokens": 2966
+  },
+  "crops": [
+    {
+      "pi_number": 105933,
+      "name_of_crop": "Cynodon spp.",
+      "type": "Kweek grass",
+      "origin": "Union of South Africa",
+      "received_date": "July 9, 1934",
+      "presented_by": "I. B. Pole Evans",
+      "institution_involved": "Department of Agriculture, Pretoria",
+      "experiment_name": null,
+      "description": "Seeds and plants presented by I. B. Pole Evans, Chief, Division of Plant Industry, Department of Agriculture, Pretoria."
+    },
+    {
+      "pi_number": 105934,
+      "name_of_crop": "Cynodon sp.",
+      "type": null,
+      "origin": "Near Vereening, at nearly 3,000 feet altitude",
+      "received_date": "July 9, 1934",
+      "presented_by": "Ellis Thomas, School of Agriculture, Grootfontein, Middleburg Cape",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Plants collected near Vereening, at nearly 3,000 feet altitude."
+    },
+    {
+      "pi_number": 105935,
+      "name_of_crop": "Cynodon Sp.",
+      "type": null,
+      "origin": "Rietondale Pasture Station, Pretoria",
+      "received_date": "July 9, 1934",
+      "presented_by": "Ellis Thomas, School of Agriculture, Grootfontein, Middleburg Cape",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Seed from the Rietondale Pasture Station, Pretoria."
+    },
+    {
+      "pi_number": 105936,
+      "name_of_crop": "Atriplex hortensis L.",
+      "type": "Garden orach",
+      "origin": "Vaalbrak",
+      "received_date": "July 9, 1934",
+      "presented_by": "Ellis Thomas, School of Agriculture, Grootfontein, Middleburg Cape",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Collected by Ellis Thomas, School of Agriculture, Grootfontein, Middleburg Cape."
+    },
+    {
+      "pi_number": 105937,
+      "name_of_crop": "Euryops multifidus (Thunb.) DC",
+      "type": null,
+      "origin": null,
+      "received_date": "July 9, 1934",
+      "presented_by": "Ellis Thomas, School of Agriculture, Grootfontein, Middleburg Cape",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A stout bush a foot or more high, with linear-filiform leaves one-half to 11% inches long and numerous small yellow flower heads on slender stems an inch long."
+    },
+    {
+      "pi_number": 105938,
+      "name_of_crop": "Pegolettia sp.",
+      "type": null,
+      "origin": null,
+      "received_date": "July 9, 1934",
+      "presented_by": "Ellis Thomas, School of Agriculture, Grootfontein, Middleburg Cape",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Members of this genus are small, rigid, shrubby plants with yellow flower heads."
+    },
+    {
+      "pi_number": 105939,
+      "name_of_crop": "Pentzia sphaerocephala DC",
+      "type": null,
+      "origin": null,
+      "received_date": "July 9, 1934",
+      "presented_by": "Ellis Thomas, School of Agriculture, Grootfontein, Middleburg Cape",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A rigid twiggy shrub with long erect branches and trifid leaves an inch or more long with linear lobes. The yellow flower heads are half an inch across."
+    },
+    {
+      "pi_number": 105940,
+      "name_of_crop": "Phymaspermum parvifolium (DC.) Benth. and Hook",
+      "type": null,
+      "origin": null,
+      "received_date": "July 9, 1934",
+      "presented_by": "Ellis Thomas, School of Agriculture, Grootfontein, Middleburg Cape",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A rigid, much-branched shrub, 1 to 2 feet high, with thinly silky tufted linear leaves up to an inch long and chrysanthemumlike flowers having reddish or yellow disk flowers and white rays. It is said to be a valuable pasture plant for sheep."
+    },
+    {
+      "pi_number": 105941,
+      "name_of_crop": "Salsola glabrescens Burtt-Davy",
+      "type": null,
+      "origin": null,
+      "received_date": "July 9, 1934",
+      "presented_by": "Ellis Thomas, School of Agriculture, Grootfontein, Middleburg Cape",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A dwarf shrub 1 to 3 feet high, with very small ovate or triangular, spirally arranged leaves and inconspicuous flowers."
+    },
+    {
+      "pi_number": 105942,
+      "name_of_crop": "Tetragonia arbuscula Fenzl",
+      "type": null,
+      "origin": null,
+      "received_date": "July 9, 1934",
+      "presented_by": "Ellis Thomas, School of Agriculture, Grootfontein, Middleburg Cape",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A much-branched, semishrubby perennial with fleshy leaves less than 1 inch long, varying from linear to ovate-oblong. The small inconspicuous flowers are borne in leafy racemes and are followed by 3- to 4-winged nutlike fruits."
+    },
+    {
+      "pi_number": 105943,
+      "name_of_crop": "Tripteris pachypteris Harv",
+      "type": null,
+      "origin": null,
+      "received_date": "July 9, 1934",
+      "presented_by": "Ellis Thomas, School of Agriculture, Grootfontein, Middleburg Cape",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A bushy shrub 1 to 3 feet high, with alternate linear leaves, entire or 3-toothed, and numerous small flower heads."
+    },
+    {
+      "pi_number": 105944,
+      "name_of_crop": "Saccharum officinarum L.",
+      "type": "Sugarcane",
+      "origin": "Dominican Republic",
+      "received_date": "July 14, 1934",
+      "presented_by": "James C. Scarffe, San Pedro de Macoris",
+      "institution_involved": null,
+      "experiment_name": "Porvenir-30",
+      "description": "An erect vigorous variety which becomes 7 to 9 feet high. It matures in 5 months, is fairly drought resistant, and has never been seen with mosaic. Introduced for the use of Department specialists working with sugarcane."
+    },
+    {
+      "pi_number": 105945,
+      "name_of_crop": "Ipomoea batatas (L.) Lam",
+      "type": "Sweetpotato",
+      "origin": null,
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": null
+    }
+  ]
+}

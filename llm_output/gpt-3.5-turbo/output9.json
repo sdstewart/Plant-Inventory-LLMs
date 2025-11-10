@@ -1,0 +1,200 @@
+{
+  "generated_at": "2025-07-30T18-56-22",
+  "model": "gpt-3.5-turbo",
+  "input_file": "input9.md",
+  "duration_sec": 11.28,
+  "token_usage": {
+    "prompt_tokens": 2477,
+    "completion_tokens": 1913,
+    "total_tokens": 4390
+  },
+  "crops": [
+    {
+      "pi_number": 32404,
+      "name_of_crop": "Solanum nigrum",
+      "type": "Nightshade",
+      "origin": "Kew, England",
+      "received_date": "August 31, 1911",
+      "presented_by": "Prof. William R. Lazenby",
+      "institution_involved": "Ohio State University, Columbus, Ohio",
+      "experiment_name": null,
+      "description": "Procured from the Herbaceous Botanical Garden at Kew."
+    },
+    {
+      "pi_number": 32405,
+      "name_of_crop": "Triticum aestivum",
+      "type": "Wheat",
+      "origin": "Krasny Koot, Samara Government, Russia",
+      "received_date": "January 11 and 12, 1912",
+      "presented_by": "Mr. Frank N. Meyer",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Variety graceum, a variety of soft summer wheat, called Khivinskaia, coming originally from dry and hot Khiva, Russian Turkestan."
+    },
+    {
+      "pi_number": 32406,
+      "name_of_crop": "Agropyron cristatum",
+      "type": null,
+      "origin": "Near Sarepta, Saratov Government, Russia",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A form of this very promising fodder grass, occurring on very sandy, dry hill slopes in the vicinity of Sarepta."
+    },
+    {
+      "pi_number": 32407,
+      "name_of_crop": "Agropyron sp.",
+      "type": null,
+      "origin": "Near Sarepta, Saratov Government, Russia",
+      "received_date": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A grass occurring here and there on very sandy soil. Grows in clumps."
+    },
+    {
+      "pi_number": 32408,
+      "name_of_crop": "Medicago sativa varia",
+      "type": "Sand lucern",
+      "origin": "Kramny Koot, Samara Government, Russia",
+      "received_date": "November 20, 1911",
+      "presented_by": "Mr. W. S. Bogdan",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A very strong growing hybrid alfalfa having erect heavy stems which are well supplied with foliage."
+    },
+    {
+      "pi_number": 32409,
+      "name_of_crop": "Medicago falcata",
+      "type": null,
+      "origin": "Near Sarepta, Saratov Government, Russia",
+      "received_date": "November 28, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "An alfalfa of moderate growth occurring on very sandy, dry hill slopes."
+    },
+    {
+      "pi_number": 32410,
+      "name_of_crop": "Medicago sp.",
+      "type": null,
+      "origin": "Near Sarepta, Saratov Government, Russia",
+      "received_date": "December 1, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "An alfalfa occurring on dry, elevated lands along a ditch, of robust almost erect growth."
+    },
+    {
+      "pi_number": 32411,
+      "name_of_crop": "Medicago falcata la",
+      "type": null,
+      "origin": "Near Saratov, Russia",
+      "received_date": "November 23, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "An alfalfa of erect growth, found on dry, stony places on the hills near Saratov."
+    },
+    {
+      "pi_number": 32412,
+      "name_of_crop": "Medicago falcata",
+      "type": null,
+      "origin": "Krasny Koot, Samara Government, Russia",
+      "received_date": "November 29, 1911",
+      "presented_by": "Mr. W. S. Bogdan",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "This seed was presented by Mr. W. S. Bogdan. Among it there are all possible types, and it is recommended, therefore, for general naturalization purposes."
+    },
+    {
+      "pi_number": 32413,
+      "name_of_crop": "Astragalus albicaulis",
+      "type": null,
+      "origin": "Near Sarepta, Saratov Government, Russia",
+      "received_date": "November 28, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "This plant occurs on dry, sandy hill slopes. Looks to be promising as a possible fodder plant for semiarid regions."
+    },
+    {
+      "pi_number": 32414,
+      "name_of_crop": "Coronilla varia",
+      "type": null,
+      "origin": "Near Saratov, Russia",
+      "received_date": "November 23, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A perennial legume, found on dry hill slopes and in locss ravines."
+    },
+    {
+      "pi_number": 32415,
+      "name_of_crop": "Lathyrus sylvestris",
+      "type": null,
+      "origin": "Near Penza, Russia",
+      "received_date": "November 17, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A very strong-growing perennial Lathyrus found between scrub."
+    },
+    {
+      "pi_number": 32416,
+      "name_of_crop": "Brassica juncea",
+      "type": "Mustard",
+      "origin": "Sarepta, Saratov Government, Russia",
+      "received_date": "December 1, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Seed of the famous Sarepta mustard, which is extraordinarily strong and in great favor throughout Russia."
+    },
+    {
+      "pi_number": 32417,
+      "name_of_crop": "Malus sp.",
+      "type": "Apple",
+      "origin": "Near Sarepta, Saratov Government, Russia",
+      "received_date": "November 28, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A genuine wild apple, occurring in the ravines in the vicinity of Sarepta."
+    },
+    {
+      "pi_number": 32418,
+      "name_of_crop": "Juglans regia",
+      "type": "Walnut",
+      "origin": "Rostov, Russia",
+      "received_date": "December 12, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A very large variety of walnut, being imported from Constantinople."
+    },
+    {
+      "pi_number": 32419,
+      "name_of_crop": "Corylus avellana",
+      "type": "Hazelnut",
+      "origin": "Rostov, Russia",
+      "received_date": "December 12, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A very large variety of hazelnut, said to come from Persia, called Persisty kurishowi."
+    },
+    {
+      "pi_number": 32420,
+      "name_of_crop": "Corylus avellana",
+      "type": "Hazelnut",
+      "origin": "Rostov, Russia",
+      "received_date": "December 12, 1911",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A very large variety of hazelnut, said to come from Constantinople."
+    }
+  ]
+}
