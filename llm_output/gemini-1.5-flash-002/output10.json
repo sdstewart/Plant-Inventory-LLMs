@@ -1,0 +1,211 @@
+{
+  "generated_at": "2025-07-30T19-44-53",
+  "model": "gemini-1.5-flash-002",
+  "input_file": "input10.md",
+  "duration_sec": 36.97,
+  "token_usage": {
+    "prompt_tokens": 3058,
+    "completion_tokens": 3283,
+    "total_tokens": 6341
+  },
+  "crops": [
+    {
+      "pi_number": "32429",
+      "name_of_crop": "Brachiaria kruciformis",
+      "type": "pasture grasses",
+      "origin": "Kirki, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "One of the best pasture grasses in India, each plant producing a dense mass of fine stems a foot or more high. It produces seed in great abundance. Distribution .- Southern Europe and Asia, extending from Italy eastward through Greece, Asia Minor, and northern Persia to India; also in Egypt, Abyssinia, and South Africa."
+    },
+    {
+      "pi_number": "32430",
+      "name_of_crop": "Rytilix granularis",
+      "type": "grass",
+      "origin": "Kirki, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "The seeds of this grass were received under the name Meniauris granularis Swartz, 1738 (Nova Genera et Species Plantarum, p. 25), which is based on Cencheus granularis L .. However, Linnaeus had published in 1771 (Mantina Plantarum, pp. 161, 300) the generic name Mamisuris with one species Af. myurus, which is not now considered to be congeneric with Cenekrus granularis L., thus invalidating the use of the generic name Mamisuris for the latter species. This fact was recognized by Kuntze, who proposed foe Cenekeus granmlerix La. the name Harkelochloa (Revis\u00e3o Generum Plantaruan, 1891, pt. 2, p. 776). However, in 1830, Seringe (Bulletin Botanique, vol. 1. p. 219) had published the generic name Rytilix, citing \" Manicuris granularis et myurus Auct.\" and listing one species, R. glanduloss. While there is no description, the facts that M. granularis was cited first, that the name R, glandulost is proposed and that \"giandulosa\" and \"granularis\" are considered to refer to the same plant characteristic, lead one to consider Maniauris granularis to be the type of the genus Rytilix. An annual grams that may be valuable after the manner of crab-grass. Distribution .- Found throughout the tropical region of India and is generally distributed in the Tropics of both hemispheres,"
+    },
+    {
+      "pi_number": "32431",
+      "name_of_crop": "Indigofera linifolia",
+      "type": "pasture legumes",
+      "origin": "Kirki, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Said to be one of the best pasture legumes in India. Distribution .- Throughout India from the Himalayas to Ceylon; also in Abys- sinia, Afghanistan, the Malay Archipelago, and northern Australia,"
+    },
+    {
+      "pi_number": "32432",
+      "name_of_crop": "Alysicarpus longifoliis",
+      "type": "hay",
+      "origin": "Kirki, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A tall, erect species being tested for hay at Kirki. Distribution. Throughout the plains of British India."
+    },
+    {
+      "pi_number": "32433",
+      "name_of_crop": "Synthereama sanguinalis",
+      "type": "crab-grass",
+      "origin": "Kirki, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Similar to our common crab-grass."
+    },
+    {
+      "pi_number": "32434",
+      "name_of_crop": "Crotalaria orixensis",
+      "type": null,
+      "origin": "Kirki, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A creeping species abundant in sorghum, etc., at Kirki. The green pods are eaten by boys. Distribution .- Throughout the plains of India and in Abyssinia."
+    },
+    {
+      "pi_number": "32435",
+      "name_of_crop": "Mnesithea exaltata",
+      "type": "grass",
+      "origin": "Poona, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "The seeds of this grass were received under the name Ophiuros corymbosus (L. f.) Gaertn. f. In publishing the genus Ophiuros, Gaertner cited Rott- boellia Linn, and Jums,, and described and figured two species, Under the first, O, incurrata, are cited the descriptions of Aegilops incurvata L, and Rott- borllia incurrala L. f. Under the second. O. corymboas, are cited the descrip- tions of Argilopa ezaltata L. and Rottboellie corymbosa L., f., the latter of which is based on Argilopa czeltota, the specific name being changed because of Rott- boellia eralista I. t. appearing earlier on the same page of the Supplementum (1781, p. 114). The generic characterization covers both graves; but the first species is more completely described, Gaertner not having any fertile flowers of the second, of which he remarks that it might prove to be very closely related to Digitaria if the flowers were better known, It would therefore reem neces- vary to consider the first species, O. incurrots, as the type of the genus Ophiuros, As Aegilops exaltata is not now considered to be congeneric with O. incurvala it must be referred to another gervas. In 1829, Kunth (Revision des Gramin\u00e9es, vol. 1, p. 153) published the genus Mmesithea with one species, M. ferris, based on Rottboellia lorris Retzius. As this grass is considered to be congeneric with the speeles received as Ophiuros corymboss, the latter is here placed in the genus Mnesithea, the earliest specific name, ezaltofu, being restored. A rather coarse grass, bat cut for fodder. Distribution. Found on dry hills at the base of the Himalayas, where it rises to an elevation of 3,500 feet, in the Khasi Hills and southward in the Dekkan Peninsula of India; also in the States of North Australia and Queensland in Australia."
+    },
+    {
+      "pi_number": "32436",
+      "name_of_crop": "Heylandia latebrosa",
+      "type": "legume",
+      "origin": "Kirki, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A prostrate legume abundant in the Dekkan, Said to be good fodder. Distribution .- Throughout the tropical region of India from the valley of the Ganges to Ceylon."
+    },
+    {
+      "pi_number": "32437",
+      "name_of_crop": "Panicum thyrsoides",
+      "type": "Panicum",
+      "origin": "Kirki, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A large annual Panicum producing enormous panicles 12 to 18 inches long and nearly as broad. These panieles break off and drift over the country after the manner of tumbleweeds. The grass is considered fair forage. Distribution,-From India eastward to China and Borneo, and in tropical Africa."
+    },
+    {
+      "pi_number": "32438",
+      "name_of_crop": "Ischaemum pilosum",
+      "type": "grass",
+      "origin": "Kirki, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A tall, rather ccarse grass growing en com- paratively low ground. It makes only fair forage. Distribution,-In the Central Provinces and in the Dekkan Peninsula of India."
+    },
+    {
+      "pi_number": "32439",
+      "name_of_crop": "Arthraxon lanceolatus",
+      "type": "grass",
+      "origin": "Poona, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A grass growing about Poona in more or less shaded places, especially where somewhat moist. Distribution .- From the western Himalayas, where it rises to an elevation of 8,000 feet. southward to the Coromandel Coast of India, and eastward to the provinces of Chilli, Klangsu, Hupeh, and Yunnan in China; also in Nubia and Abyssinia in northern Africa,"
+    },
+    {
+      "pi_number": "32440",
+      "name_of_crop": "Andropogon caricosus",
+      "type": "forage",
+      "origin": "Kirki, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A grass abundant throughout northern and central India and considered excellent forage. Much of it is cut for hay."
+    },
+    {
+      "pi_number": "32441",
+      "name_of_crop": "Andropogon annulatus",
+      "type": null,
+      "origin": "Kirki, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Very similar to the preceding, but with much more slender stems. Distribution .- Throughout the plains and hills of India, and in tropical Africa, China, the Pacific islands, and in Australia,"
+    },
+    {
+      "pi_number": "32442",
+      "name_of_crop": "Parochetus communis",
+      "type": null,
+      "origin": "Utakamand, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Collected on wet banks, The leaves are like white clover and the scapes bear one or two bright-blue flowers. Distribution .- From the alpine slopes of the Himalayas southward and eastward to Ceylon and Burma in India, and in the Malay Archipelago to Java, also in tropical Africa."
+    },
+    {
+      "pi_number": "32443",
+      "name_of_crop": "Themeda triandra",
+      "type": "grass",
+      "origin": "Utakamand, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "A collection of grasses from Utakamand. All grow on the meadowy tops of the Nilgiri Hills. The climatic conditions in the Nilgiri Hills are very much like those of the coast region in California, the principal trees being Australian eucalypts and acacias and such California trees as the Monterey pine and Cupresnus macrocarpa. A perennial grass forming a considerable element of the gramy meadows. Distribution,-In India on the temperate slopes of the Himalayas at an elevation of 5,000 to 10,000 feet, between Dalhousie and Bhutan and on the Khasi Hills."
+    },
+    {
+      "pi_number": "32444",
+      "name_of_crop": "Themeda triandra",
+      "type": "forage",
+      "origin": "Utakamand, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Probably variety Themeda roglei Hook, f. An abundant element of the gramy meadows of the Nilgiri Hills and considered good forage. Distribution. -- In the drier parts of India from the lower Himalayas to Burma and Ceylon, and generally distributed in the Tropics of the Eastern Hemisphere,"
+    },
+    {
+      "pi_number": "32445",
+      "name_of_crop": "Ischaemum ciliare villosum",
+      "type": null,
+      "origin": "Utakamand, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Locally abundant in the grassy meadows of the Nilgiri Hills. Distribution .- From the eastern part of India southeastward through the Malay Archipelago to China and Australia."
+    },
+    {
+      "pi_number": "32446",
+      "name_of_crop": "Echinopogon sylvaticus",
+      "type": null,
+      "origin": "Utakamand, India",
+      "presented_by": "Mr. C. V. Piper",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 12, 1912",
+      "description": "Common in shady places in the Nilgiri Hills at 6,000 feet altitude."
+    }
+  ]
+}

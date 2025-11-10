@@ -1,0 +1,156 @@
+{
+  "generated_at": "2025-07-30T19-32-40",
+  "model": "gemini-1.5-pro-002",
+  "input_file": "input12.md",
+  "duration_sec": 22.69,
+  "token_usage": {
+    "prompt_tokens": 1695,
+    "completion_tokens": 2112,
+    "total_tokens": 3807
+  },
+  "crops": [
+    {
+      "pi_number": 32901,
+      "name_of_crop": "Diospyros kaki L. f.",
+      "type": "Persimmon",
+      "origin": "Algiers, Algeria",
+      "presented_by": "Dr. L. Trabut",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March 2, 1912",
+      "description": "\"Boufarik. A new variety. Fruit green, large, round, flattened, very good.\" (Trabut.)"
+    },
+    {
+      "pi_number": 32902,
+      "name_of_crop": "Nephelium lappaceum L.",
+      "type": "Rambutan",
+      "origin": "Buitenzorg, Java",
+      "presented_by": "Mr. W. G. Gobius, Secretary to the Department of Agriculture",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March 1, 1912",
+      "description": "See No. 25165 for general description of this fruit."
+    },
+    {
+      "pi_number": 32906,
+      "name_of_crop": "Glycine hispida (Moench) Maxim.",
+      "type": "Soy bean",
+      "origin": "Arlington Experimental Farm, Virginia",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March 4, 1912",
+      "description": "Grown under No. 19186D. A pure field selection at Arlington farm in 1907 out of S. P. I. No. 19186, from Newchwang, Manchuria, 1906. A medium-late brown-seeded variety of considerable promise. (W. J. Morse)"
+    },
+    {
+      "pi_number": 32907,
+      "name_of_crop": "Glycine hispida (Moench) Maxim.",
+      "type": "Soy bean",
+      "origin": "Arlington Experimental Farm, Virginia",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March 4, 1912",
+      "description": "Grown under No. 17852B. A pure field selection at Arlington Experimental Farm in 1907 out of S. P. I. No. 17852, Meyer, from Peking, China. A medium-late variety with small black seeds. Very prolific and especially promising as a hay variety. (W. J. Morse)"
+    },
+    {
+      "pi_number": 32908,
+      "name_of_crop": "Glycine hispida (Moench) Maxim.",
+      "type": "Soy bean",
+      "origin": "Arlington Experimental Farm, Virginia",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March 4, 1912",
+      "description": "Grown under No. 20405B. A field mass selection at Arlington Experimental Farm in 1907 out of S. P. I. No. 20405, Habaro, from Khabarovsk, Siberia, 1906. A medium-early brown-seeded variety of promise in the more northern States. (W. J. Morse)"
+    },
+    {
+      "pi_number": 32909,
+      "name_of_crop": "Glycine hispida (Moench) Maxim.",
+      "type": "Soy bean",
+      "origin": "Arlington Experimental Farm, Virginia",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March 4, 1912",
+      "description": "Grown under No. 21079A. A field mass selection at Arlington Experimental Farm in 1907 out of S. P. I. No. 21079, Shingto, from Tieling, Manchuria, 1907. A black-seeded variety in Pennsylvania and New York. (W. J. Morse)"
+    },
+    {
+      "pi_number": 32910,
+      "name_of_crop": "Phytelephas aequitorialis Spruce",
+      "type": "Ivory-nut palm",
+      "origin": "Guayaquil, Ecuador",
+      "presented_by": "Mr. Herman R. Dietrich, American consul general",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March 1, 1912",
+      "description": "An erect palm, sometimes 20 feet high, found on the plains in the vicinity of Guayaquil and extending up the valleys in the Andes to an elevation of 5,000 feet, especially toward Mount Chimborazo, in Ecuador."
+    },
+    {
+      "pi_number": 32911,
+      "name_of_crop": "Aesculus turbinata Blume",
+      "type": null,
+      "origin": "Lawang, Java",
+      "presented_by": "Mr. M. Buysman",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February 26, 1912",
+      "description": "A tree found on wooded mountain slopes in the provinces of Kiangsu and Chekiang in China and in the islands of Japan."
+    },
+    {
+      "pi_number": 32912,
+      "name_of_crop": "Pterocarya sorbifolia Sieb. and Zucc.",
+      "type": null,
+      "origin": "Lawang, Java",
+      "presented_by": "Mr. M. Buysman",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February 26, 1912",
+      "description": "Wooded mountain slopes of Japan."
+    },
+    {
+      "pi_number": 32913,
+      "name_of_crop": "Randia formosa (Jacq.) Schum.",
+      "type": null,
+      "origin": "Lawang, Java",
+      "presented_by": "Mr. M. Buysman",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February 26, 1912",
+      "description": "The countries in the northern part of South America, including Guiana, Colombia, Venezuela, and Peru, and the islands of the Caribbean Sea."
+    },
+    {
+      "pi_number": 32914,
+      "name_of_crop": "Sapindus sp.",
+      "type": null,
+      "origin": "Santarem, Brazil",
+      "presented_by": "Mr. Walter Fischer",
+      "institution_involved": "Campo de Cultura Experimental Paraense",
+      "experiment_name": null,
+      "received_date": "February 27, 1912",
+      "description": "A species of Sapindus, which I found along a roadside about 6 miles from Santarem. The tree grows to a height of 30 to 40 feet and is found along the borders of clearings. The natives were familiar with the saponifying property of the seeds, but as far as I could learn made no use of them. Santarem is located at the north of the Tapajos on the Amazon, about 500 miles from Para. (Walter Fischer)"
+    },
+    {
+      "pi_number": 32915,
+      "name_of_crop": "Pithecolobium unguis-cati (L.) Benth.",
+      "type": null,
+      "origin": "Barbados",
+      "presented_by": "Mr. Walter Fischer",
+      "institution_involved": "Campo de Cultura Experimental Paraense",
+      "experiment_name": null,
+      "received_date": "February 27, 1912",
+      "description": "Seed with white aril. Two varieties of seeds that I found and collected in Barbados. The local name is 'bread and cheese.' The seeds are from a very attractive ornamental small tree much used as a border shrub and as a hedge plant for which latter purpose it is well adapted. It has a clean foliage of compound leaves, each leaf consisting of a twin pair of obovate leaflets. What makes the plant most conspicuous and attractive is its heavy burden of dense panicles of pods, open and twisted when ripe and showing the shiny-black small seeds to each of which is attached a red or a white arillus. This hedge plant would be excellently adapted to southern Florida where it may already exist. Sandy soil in southern Florida and in the West Indies and the tropical part of South America. (Walter Fischer)"
+    },
+    {
+      "pi_number": 32916,
+      "name_of_crop": "Pithecolobium unguis-cati (L.) Benth.",
+      "type": null,
+      "origin": "Barbados",
+      "presented_by": "Mr. Walter Fischer",
+      "institution_involved": "Campo de Cultura Experimental Paraense",
+      "experiment_name": null,
+      "received_date": "February 27, 1912",
+      "description": "Seed with red aril. Two varieties of seeds that I found and collected in Barbados. The local name is 'bread and cheese.' The seeds are from a very attractive ornamental small tree much used as a border shrub and as a hedge plant for which latter purpose it is well adapted. It has a clean foliage of compound leaves, each leaf consisting of a twin pair of obovate leaflets. What makes the plant most conspicuous and attractive is its heavy burden of dense panicles of pods, open and twisted when ripe and showing the shiny-black small seeds to each of which is attached a red or a white arillus. This hedge plant would be excellently adapted to southern Florida where it may already exist. Sandy soil in southern Florida and in the West Indies and the tropical part of South America. (Walter Fischer)"
+    }
+  ]
+}

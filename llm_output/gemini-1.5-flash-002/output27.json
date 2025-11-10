@@ -1,0 +1,167 @@
+{
+  "generated_at": "2025-07-30T19-51-34",
+  "model": "gemini-1.5-flash-002",
+  "input_file": "input27.md",
+  "duration_sec": 12.36,
+  "token_usage": {
+    "prompt_tokens": 1392,
+    "completion_tokens": 1716,
+    "total_tokens": 3108
+  },
+  "crops": [
+    {
+      "pi_number": "615215",
+      "name_of_crop": "Oryza sativa L.",
+      "type": "Cultivar. Pureline.",
+      "origin": "China",
+      "presented_by": "Chengdu Institute of Biology, Academia Sinica",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "09/05/1996",
+      "description": "\"MPH 501\"; SQ96-75; NSGC 6216. Developed in China."
+    },
+    {
+      "pi_number": "615216",
+      "name_of_crop": "Oryza sativa L.",
+      "type": "Cultivar. Pureline.",
+      "origin": "China",
+      "presented_by": "Chengdu Institute of Biology, Academia Sinica",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "09/05/1996",
+      "description": "\"97B\"; SQ96-79; NSGC 6220. Developed in China."
+    },
+    {
+      "pi_number": "615217",
+      "name_of_crop": "Oryza sativa L.",
+      "type": "Cultivar. Pureline.",
+      "origin": "China",
+      "presented_by": "Chengdu Institute of Biology, Academia Sinica",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "09/05/1996",
+      "description": "\"II-32B\"; SQ96-80; NSGC 6221. Developed in China."
+    },
+    {
+      "pi_number": "615218",
+      "name_of_crop": "Oryza sativa L.",
+      "type": "Cultivar. Pureline.",
+      "origin": "China",
+      "presented_by": "Chengdu Institute of Biology, Academia Sinica",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "09/05/1996",
+      "description": "\"ZAO 402\"; SQ96-81; NSGC 6222. Developed in China."
+    },
+    {
+      "pi_number": "615219",
+      "name_of_crop": "Oryza sativa L.",
+      "type": "Cultivar. Pureline.",
+      "origin": "China",
+      "presented_by": "Chengdu Institute of Biology, Academia Sinica",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "09/05/1996",
+      "description": "\"CHAOYANG NO. 1\"; SQ96-92; NSGC 6233. Developed in China."
+    },
+    {
+      "pi_number": "615220",
+      "name_of_crop": "Oryza sativa L.",
+      "type": "Cultivar. Pureline.",
+      "origin": "China",
+      "presented_by": "Chengdu Institute of Biology, Academia Sinica",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "09/05/1996",
+      "description": "\"VRH 701\"; SQ96-95; NSGC 6236. Developed in China."
+    },
+    {
+      "pi_number": "615221",
+      "name_of_crop": "Oryza sativa L.",
+      "type": "Cultivar. Pureline.",
+      "origin": "China",
+      "presented_by": "Chengdu Institute of Biology, Academia Sinica",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "09/05/1996",
+      "description": "\"SHENG H411\"; SQ96-101; NSGC 6242. Developed in China."
+    },
+    {
+      "pi_number": "615222",
+      "name_of_crop": "Oryza sativa L.",
+      "type": "Cultivar. Pureline.",
+      "origin": "China",
+      "presented_by": "Chengdu Institute of Biology, Academia Sinica",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "09/05/1996",
+      "description": "\"ZHONGBAI NO. 4\"; SQ96-104; NSGC 6245. Developed in China. Pedigree - Kiho/Nanjing 15."
+    },
+    {
+      "pi_number": "615223",
+      "name_of_crop": "Oryza sativa L.",
+      "type": "Cultivar. Pureline.",
+      "origin": "China",
+      "presented_by": "Sichuan Agricultural University, Rice Research Institute",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "09/05/1996",
+      "description": "\"DUOYINGLINSHUIDAO\"; SQ96-120; NSGC 6261. Developed in China."
+    },
+    {
+      "pi_number": "615224",
+      "name_of_crop": "Oryza sativa L.",
+      "type": "Breeding. Pureline.",
+      "origin": "China",
+      "presented_by": "Joshua Tao",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "09/05/1996",
+      "description": "GL 2; SQ96-169; NSGC 6310. Developed in China."
+    },
+    {
+      "pi_number": "615225",
+      "name_of_crop": "Oryza sativa L.",
+      "type": "Breeding. Pureline.",
+      "origin": "China",
+      "presented_by": "Joshua Tao",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "09/05/1996",
+      "description": "493; SQ96-172; NSGC 6313. Developed in China."
+    },
+    {
+      "pi_number": "615226",
+      "name_of_crop": "Oryza sativa L.",
+      "type": "Breeding. Pureline.",
+      "origin": "China",
+      "presented_by": "Joshua Tao",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "09/05/1996",
+      "description": "4429-3; SQ96-176; NSGC 6317. Developed in China."
+    },
+    {
+      "pi_number": "615227",
+      "name_of_crop": "Triticum aestivum L. subsp. aestivum",
+      "type": "Landrace.",
+      "origin": "Hungary",
+      "presented_by": "Institute for Plant Production & Qualification, Research Centre for Agrobotany",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "10/26/1995",
+      "description": "28749; RCAT004795; Nagyatadi TF. Collected in Hungary. Latitude 47\u00b0 0' N. Longitude 20\u00b0 0' E."
+    },
+    {
+      "pi_number": "615228",
+      "name_of_crop": "Hordeum vulgare L. subsp. vulgare",
+      "type": "Cultivar.",
+      "origin": "Zhejiang, China. Japan",
+      "presented_by": "Chia-Tsang Liu",
+      "institution_involved": "Zhejiang Agricultural University",
+      "experiment_name": null,
+      "received_date": "09/21/1998",
+      "description": "\"ZHE PA TA MAI\"; NSGC 7386. Collected in Zhejiang, China. Collected in Japan."
+    }
+  ]
+}

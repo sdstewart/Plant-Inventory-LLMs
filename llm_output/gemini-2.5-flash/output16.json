@@ -1,0 +1,233 @@
+{
+  "generated_at": "2025-10-02T16-50-50",
+  "model": "gemini-2.5-flash",
+  "input_file": "input16.md",
+  "duration_sec": 83.68,
+  "token_usage": {
+    "prompt_tokens": 1912,
+    "completion_tokens": 3833,
+    "total_tokens": 17580
+  },
+  "crops": [
+    {
+      "pi_number": 105798,
+      "name_of_crop": "ACER NIVEUM Blume",
+      "type": "Maple",
+      "origin": "Philippine Islands",
+      "presented_by": "Arthur F. Fischer",
+      "institution_involved": "Department of Agriculture, Manila",
+      "experiment_name": null,
+      "received_date": "June 12, 1934",
+      "description": "Seeds presented by Arthur F. Fischer, Director of forestry, Department of Agriculture, Manila. Collected in Bakiling National Park, Laguna. A large ornamental maple, sometimes over 100 feet tall, with undivided elliptic or oblong leaves 8 inches long, white glaucous beneath, and yellowish-green flowers in lax racemes. Native to upper Assam, India."
+    },
+    {
+      "pi_number": 105799,
+      "name_of_crop": "ALLIUM PORRUM L.",
+      "type": "Leek",
+      "origin": "Java",
+      "presented_by": "A. M. Cramer",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "June 1, 1934",
+      "description": "Seeds presented by A. M. Cramer, Wonosobo. Shimonita. A large, fast-growing, hollow-leaved Japanese variety of good flavor. It is grown from seed and seeds abundantly."
+    },
+    {
+      "pi_number": 105800,
+      "name_of_crop": "BRASSICA PEKINENSIS (Lour.) Rupr.",
+      "type": "Pe'tsaf",
+      "origin": "Java",
+      "presented_by": "A. M. Cramer",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "June 1, 1934",
+      "description": "Seeds presented by A. M. Cramer, Wonosobo. White Longhead. The seed of this variety is imported from and grown in the Netherlands, where the seed is not sown before early July, to prevent flowering. This is the best of all varieties of pe'tsal; very sweet and of a fine flavor."
+    },
+    {
+      "pi_number": 105801,
+      "name_of_crop": "BRASSICA PEKINENSIS (Lour.) Rupr.",
+      "type": "Pe'tsaf",
+      "origin": "Java",
+      "presented_by": "A. M. Cramer",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "June 1, 1934",
+      "description": "Seeds presented by A. M. Cramer, Wonosobo. Witte Reuzen or Giant Round. A variety grown in Japan which forms a very large round head."
+    },
+    {
+      "pi_number": 105802,
+      "name_of_crop": "AMYGDALUS COMMUNIS L.",
+      "type": "Almond",
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists."
+    },
+    {
+      "pi_number": 105803,
+      "name_of_crop": "AMYGDALUS FENZLIANA (Fritsch) Korsh.",
+      "type": null,
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. A shrubby tree with long purplish branches and narrowly ovate leaves. The reddish flowers appear before the leaves in few-flowered clusters and are smaller than those of Amygdalus communis. The small peachlike fruits have rather dry flesh. Native to the Caucasus region. For previous introduction see 43302."
+    },
+    {
+      "pi_number": 105804,
+      "name_of_crop": "ARISTIDA PENNATA Trin.",
+      "type": "Grass",
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. A grass, native to Turkistan, where it is found in dry sandy places. For previous introduction see 101979."
+    },
+    {
+      "pi_number": 105805,
+      "name_of_crop": "ATRIPLEX INCISA Bieb.",
+      "type": null,
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. A desert-loving annual, native to the Caucasus region, with rhombic-sinuate, shallowly incised leaves and small four-angled fruits."
+    },
+    {
+      "pi_number": 105806,
+      "name_of_crop": "ATRIPLEX DESERTORUM '(Iljin) D. Sosn.",
+      "type": null,
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. A succulent desert plant."
+    },
+    {
+      "pi_number": 105807,
+      "name_of_crop": "CALLIGONUM CAPUT-MEDUSAE Schrenk.",
+      "type": null,
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. Native to northern and central Asia, where it is used as a sand binder."
+    },
+    {
+      "pi_number": 105808,
+      "name_of_crop": "CALLIGONUM COMOSUM L'Her.",
+      "type": null,
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. A densely branched shrub 10 to 15 feet high, with minute subulate leaves and small, ovate, densely-spiny, nut-like fruits. Native to the eastern Mediterranean region. For previous introduction see 98208."
+    },
+    {
+      "pi_number": 105809,
+      "name_of_crop": "CALLIGONUM ERIOPODUM Bunge.",
+      "type": null,
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. A slender-branched shrub with whitish branchlets and linear-subulate, minute leaves which are early deciduous. Native to Turkistan, where it is used as a sand binder. For previous introduction see 94931."
+    },
+    {
+      "pi_number": 105810,
+      "name_of_crop": "CALLIGONUM SETOSUM Litv.",
+      "type": null,
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. A leafless shrub native to the Caspian region, where it is used as a sand binder. For previous introduction see 98209."
+    },
+    {
+      "pi_number": 105811,
+      "name_of_crop": "EPHEDRA MAJOR PROCERA (Fisch. and Mey.) Aschers and Graebn.",
+      "type": "Jointfir",
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. A leafless shrub, 4 to 5 feet high, native to the Caucasus, with stiff branches and nearly sessile flower clusters, followed by red fruits. For previous introduction see 79906."
+    },
+    {
+      "pi_number": 105812,
+      "name_of_crop": "HALIMODENDRON HALODENDRON (Pall.) Voss.",
+      "type": "Salt-tree",
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. A hardy, drought-resistant, ornamental shrub 6 feet high, with pink flowers. Native to Turkistan. For previous introduction see 73604."
+    },
+    {
+      "pi_number": 105813,
+      "name_of_crop": "HALOXYLON AMMODENDRON (Meyer) Bunge.",
+      "type": "Saxaul",
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. A Persian shrub or sometimes a small tree with a thick gnarled trunk, either leafless or with rudimentary leaves, and small fruits with thin papery wings. For previous introduction see 78481."
+    },
+    {
+      "pi_number": 105814,
+      "name_of_crop": "LOTUS CORNICULATUS CILIATUS (Tenore) C. Koch.",
+      "type": null,
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. A variety with hairy leaflets and calyx."
+    },
+    {
+      "pi_number": 105815,
+      "name_of_crop": "ONOBRYCHIS MICHAUXII DC.",
+      "type": null,
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. An erect perennial with oblong-elliptic, mucronate leaflets and elongate spikes of yellowish flowers. Native to Asia Minor."
+    },
+    {
+      "pi_number": 105816,
+      "name_of_crop": "PROSOPIS STEPHANIANA (Bieb.) Kunth.",
+      "type": null,
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. A deep-rooted shrubby legume which grows abundantly on dry lands in the interior plain of the island of Cyprus. Sheep and cattle browse on it, and the bees make good honey from its abundant flowers. For previous introduction see 88697."
+    },
+    {
+      "pi_number": 105817,
+      "name_of_crop": "RHAMNUS PALLASII Fisch.",
+      "type": null,
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Hortus Botanicus Bakuensis",
+      "institution_involved": "Hortus Botanicus Bakuensis, Baku, Azerbaidzhan",
+      "experiment_name": null,
+      "received_date": "June 15, 1934",
+      "description": "Seeds presented by Hortus Botanicus Bakuensis, Baku, Azerbaidzhan. Introduced for testing by soil-erosion specialists. An ornamental deciduous shrub, native to very dry sterile places in the Caucasus region. For previous introduction see 33002."
+    }
+  ]
+}

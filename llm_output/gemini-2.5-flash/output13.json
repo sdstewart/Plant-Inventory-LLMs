@@ -1,0 +1,244 @@
+{
+  "generated_at": "2025-10-02T16-47-25",
+  "model": "gemini-2.5-flash",
+  "input_file": "input13.md",
+  "duration_sec": 50.4,
+  "token_usage": {
+    "prompt_tokens": 1937,
+    "completion_tokens": 3859,
+    "total_tokens": 11308
+  },
+  "crops": [
+    {
+      "pi_number": 105442,
+      "name_of_crop": "ABELMOSCHUS ESCULENTUS (L.) Moench.",
+      "type": "Okra",
+      "origin": "Turkey",
+      "received_date": "April 26, 1934",
+      "presented_by": "Harold T. Pence",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "A collection of locally grown vegetable seeds, collected at Merzifon; introduced for the use of Department specialists working in the north-central part of the United States. Flowering okra."
+    },
+    {
+      "pi_number": 105443,
+      "name_of_crop": "ALLIUM CEPA L.",
+      "type": "Onion",
+      "origin": "Turkey",
+      "received_date": "April 26, 1934",
+      "presented_by": "Harold T. Pence",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "A collection of locally grown vegetable seeds, collected at Merzifon; introduced for the use of Department specialists working in the north-central part of the United States. Kelle; a large onion."
+    },
+    {
+      "pi_number": 105444,
+      "name_of_crop": "CAPSICUM ANNUUM L.",
+      "type": "Common redpepper",
+      "origin": "Turkey",
+      "received_date": "April 26, 1934",
+      "presented_by": "Harold T. Pence",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "A collection of locally grown vegetable seeds, collected at Merzifon; introduced for the use of Department specialists working in the north-central part of the United States. A mild pepper."
+    },
+    {
+      "pi_number": 105445,
+      "name_of_crop": "CITRULLUS VULGARIS Schrad.",
+      "type": "Watermelon",
+      "origin": "Turkey",
+      "received_date": "April 26, 1934",
+      "presented_by": "Harold T. Pence",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "A collection of locally grown vegetable seeds, collected at Merzifon; introduced for the use of Department specialists working in the north-central part of the United States."
+    },
+    {
+      "pi_number": 105446,
+      "name_of_crop": "SOLANUM MELONGENA L.",
+      "type": "Eggplant",
+      "origin": "Turkey",
+      "received_date": "April 26, 1934",
+      "presented_by": "Harold T. Pence",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "A collection of locally grown vegetable seeds, collected at Merzifon; introduced for the use of Department specialists working in the north-central part of the United States."
+    },
+    {
+      "pi_number": 105447,
+      "name_of_crop": "SPINACIA OLERACEA L.",
+      "type": "Spinach",
+      "origin": "Turkey",
+      "received_date": "April 26, 1934",
+      "presented_by": "Harold T. Pence",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "A collection of locally grown vegetable seeds, collected at Merzifon; introduced for the use of Department specialists working in the north-central part of the United States."
+    },
+    {
+      "pi_number": 105448,
+      "name_of_crop": "ADENIUM OBESUM (Forsk.) Roem. and Schult.",
+      "type": null,
+      "origin": "From Jamaica, British West Indies; native to the dry regions of Arabia",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Cuttings collected in Hope Garden, Kingston. A slow-growing shrub, not over 3 feet high, native to the dry regions of Arabia and named after the desert port of Aden. The gorgeous rose-pink to white flowers are 3 inches across and remind one of enormous oleander blossoms. The flowers are borne so abundantly that they cover the entire shrub. For previous introduction see 102644."
+    },
+    {
+      "pi_number": 105449,
+      "name_of_crop": "AMHERSTIA NOBILIS Wall.",
+      "type": null,
+      "origin": "From Jamaica, British West Indies; native to the Malay Peninsula",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Plants collected in the Castleton Gardens, Kingston. This gorgeous red-flowered tree is considered by some to be the most beautiful of all the flowering trees. It is native to the Malay Peninsula, and was named after Lady Amherst."
+    },
+    {
+      "pi_number": 105450,
+      "name_of_crop": "ANANAS SATIVUS Schult. f.",
+      "type": "Pineapple",
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Seeds collected in Kingston."
+    },
+    {
+      "pi_number": 105451,
+      "name_of_crop": "ANANAS SATIVUS Schult. f.",
+      "type": "Pineapple",
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Sugarloaf_pineapple; purchased in the market at Kingston."
+    },
+    {
+      "pi_number": 105452,
+      "name_of_crop": "ARTOCARPUS INTEGRA (Thunb.) Skeels.",
+      "type": "Jackfruit",
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Seeds bought in the public market at Kingston."
+    },
+    {
+      "pi_number": 105453,
+      "name_of_crop": "ASTROCARYUM VULGARE Mart.",
+      "type": null,
+      "origin": "From Jamaica, British West Indies; native to northern Brazil",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Plants purchased in the Castleton Gardens, Kingston. A spiny pinnate-leaved palm, 20 to 40 feet high, native to northern Brazil. The 8 to 10 leaves are about 9 feet long, with lanceolate shining-green segments, silvery white beneath."
+    },
+    {
+      "pi_number": 105454,
+      "name_of_crop": "BUGINVILLEA sp.",
+      "type": null,
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Cuttings, collected in the Hope Gardens, of a hybrid buginvillea (a seedling of B. spectabilis lateritia) with large bracts of a soft rosy-orange color."
+    },
+    {
+      "pi_number": 105455,
+      "name_of_crop": "Undetermined",
+      "type": null,
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Cuttings, collected in the Hope Gardens, of a large erect cactus, said to be a native species and to produce large white nocturnal flowers."
+    },
+    {
+      "pi_number": 105456,
+      "name_of_crop": "CHRYSOPHYLLUM CAINITO L.",
+      "type": "Star-apple",
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Seeds from a very large fruit of the purple variety served in a hotel at Kingston. The star-apple is a handsome West Indian tree with striking dark-green leaves, copper-colored underneath. The smooth, round, dark-purple fruit is about 3 inches in diameter. When the fruit is ripe, the white jellylike substance surrounding the seed is sweet and agreeable. For previous introduction see 73003."
+    },
+    {
+      "pi_number": 105457,
+      "name_of_crop": "DILLENIA BURBIDGEI (Hook. f.) Gilg.",
+      "type": null,
+      "origin": "From Jamaica, British West Indies; native to Borneo",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Plants purchased in the Castleton Gardens, Kingston. A small ornamental tree, native to Borneo, with large leaves and very beautiful bright-yellow flowers 2 inches in diameter. For previous introduction see 66213."
+    },
+    {
+      "pi_number": 105458,
+      "name_of_crop": "LICUALA ELEGANS Blume.",
+      "type": "Palm",
+      "origin": "From Jamaica, British West Indies; native to Sumatra",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Plants purchased in the Castleton Gardens, Kingston. A fan palm, native to Sumatra, with a short thick trunk about 4 feet high, a crown of orbicular leaves on petioles 3 to 5 feet long, with linear-lanceolate lobes obliquely truncate at the end. For previous introduction see 80764."
+    },
+    {
+      "pi_number": 105459,
+      "name_of_crop": "NAPOLEONA IMPERIALIS Beauv.",
+      "type": null,
+      "origin": "From Jamaica, British West Indies; from west Africa",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Plant purchased in the Castleton Gardens, Kingston. An interesting ornamental tree from west Africa with oblong leaves, sometimes 18 inches in length, and solitary, saucer-shaped axillary flowers, dominantly reddish and bluish, and about 2 inches across; these are borne on the trunk and larger branches. For previous introduction see 60439."
+    },
+    {
+      "pi_number": 105460,
+      "name_of_crop": "ONCOSPERMA FASCICULATUM Thwaites.",
+      "type": "Palm",
+      "origin": "From Jamaica, British West Indies; native to Ceylon",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Seeds collected in Kingston. A graceful cluster palm, 40 to 60 feet high, with spiny stems and equally pinnate leaves about 18 feet long. Native to Ceylon. For previous introduction see 103730."
+    },
+    {
+      "pi_number": 105461,
+      "name_of_crop": "THUNBERGIA ERECTA (Benth.) T. Anders.",
+      "type": null,
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, Director, Coconut Grove arboretum; T. A. Fennell, Bureau of Plant Industry",
+      "institution_involved": "Coconut Grove arboretum; Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Plants purchased in the Castleton Gardens, Kingston. Variety alba, a form with white flowers. For previous introduction see 103933."
+    },
+    {
+      "pi_number": 105462,
+      "name_of_crop": "DIOSCOREA ALATA L.",
+      "type": "Winged yam",
+      "origin": "From Florida; originally from Hawaii",
+      "received_date": "May 3, 1934",
+      "presented_by": "H. O. Albert",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "Tubers presented by H. O. Albert, Brooksville. A strain of the Hawaiian purple-skinned yam (F. P. I. 47446) with nearly pure white flesh instead of the purple-streaked or tinted flesh common in the ordinary form of this yam."
+    }
+  ]
+}

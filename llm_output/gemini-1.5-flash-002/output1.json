@@ -1,0 +1,156 @@
+{
+  "generated_at": "2025-07-30T19-44-16",
+  "model": "gemini-1.5-flash-002",
+  "input_file": "input1.md",
+  "duration_sec": 13.23,
+  "token_usage": {
+    "prompt_tokens": 1288,
+    "completion_tokens": 1469,
+    "total_tokens": 2757
+  },
+  "crops": [
+    {
+      "pi_number": 1,
+      "name_of_crop": "Brassica oleracea",
+      "type": "Cabbage",
+      "origin": "Moscow, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "State Board of Agriculture of South Dakota",
+      "experiment_name": null,
+      "received_date": "February, 1898",
+      "description": "(29 packages.) \"Bronka;\" early variety. According to Mr. H. C. Warner, of the State Board of Agriculture of South Dakota, this variety produced heads a little earlier than the Jersey Wakefield, but they were too small for market."
+    },
+    {
+      "pi_number": 2,
+      "name_of_crop": "Brassica oleracea",
+      "type": "Cabbage",
+      "origin": "Moscow, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February, 1808",
+      "description": "(62 packages.) \"Genuine white Bulgarian.\""
+    },
+    {
+      "pi_number": 3,
+      "name_of_crop": "Brassica oleracea",
+      "type": "Cabbage",
+      "origin": "Moscow, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February, 1858",
+      "description": "(7 packages.) A white variety from Ladoga Lake region. Mr. Warner also experimented with this number and found it of medium quality, Imat with the type not well fixed and the heads mostly louse. He states that it is not to be compared for value with Succession, Vandergaw, or Flat Dutch."
+    },
+    {
+      "pi_number": 4,
+      "name_of_crop": "Brassica oleracea",
+      "type": "Cabbage",
+      "origin": "Moscow, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February, 1898",
+      "description": "(5 packages.) \"White Reval.\""
+    },
+    {
+      "pi_number": 5,
+      "name_of_crop": "Brassica oleracea",
+      "type": "Cabbage",
+      "origin": "Moscow, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February, 1858",
+      "description": "(61 packages.) \"Genuine white Saburovka, fine for sauerkraut.\""
+    },
+    {
+      "pi_number": 6,
+      "name_of_crop": "Brassica oleracea",
+      "type": "Cabbage",
+      "origin": "Moscow, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February, 1898",
+      "description": "(40 packages.) \"Earliest white.\""
+    },
+    {
+      "pi_number": 7,
+      "name_of_crop": "Cucumis sativus",
+      "type": "Cucumber",
+      "origin": "Kiakuta, Siberia, on border of Mongolia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February, 1898",
+      "description": "\"Prof. Rytow;\" said to be a peculiar dwarf variety for culture in dwellings. From Kiakuta, Siberia, on border of Mongolia. (30 packages.)"
+    },
+    {
+      "pi_number": 8,
+      "name_of_crop": "Cucumis sativus",
+      "type": "Cucumber",
+      "origin": "Province of Perm",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February, 1898",
+      "description": "(260 packages.) \"Aksel Dwarf.\" Very early; originated in the Province of Perm."
+    },
+    {
+      "pi_number": 9,
+      "name_of_crop": "Cucumis sativus",
+      "type": "Cucumber",
+      "origin": "Moscow, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February, 1898",
+      "description": "(58 packages.) \"Galachov Dwarf.\""
+    },
+    {
+      "pi_number": 10,
+      "name_of_crop": "Brassica campestris",
+      "type": "Turnip",
+      "origin": "Moscow, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "Experiment Station at Uniontown, Ala.",
+      "experiment_name": null,
+      "received_date": "February, 1898",
+      "description": "(823 packages.) \"Krasnoselki cabbage turnip.\" Mr. H. Benton, of the Experiment Station at Uniontown, Ala., reports: \"Quantity equal to any other variety; quality best of fourteen varieties grown on the station farm this season.\" A Kansas correspondent, on the other hand, says that the quality is poor, tough, and woody."
+    },
+    {
+      "pi_number": 11,
+      "name_of_crop": "Brassica campestris",
+      "type": "Turnip",
+      "origin": "Moscow, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February, 1898",
+      "description": "\"Genuine Petrovski table.\""
+    },
+    {
+      "pi_number": 12,
+      "name_of_crop": "Pisum sativum",
+      "type": "Pea",
+      "origin": "Moscow, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February, 1898",
+      "description": "(64 packages.) \"Rostov Sugar.\" Best Russian variety for drying."
+    },
+    {
+      "pi_number": 13,
+      "name_of_crop": "Zea mays",
+      "type": "Corn",
+      "origin": "Malachows",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February, 1898",
+      "description": "(6 packages.) Earliest sweet corn from Malachows. Reported from Alabama as \"worthless in this locality.\" Report from Kansas: \"Yield good, quality fine, variety very early.\""
+    }
+  ]
+}
