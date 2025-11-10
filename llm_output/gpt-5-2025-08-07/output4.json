@@ -1,0 +1,79 @@
+{
+  "generated_at": "2025-10-02T13-36-12",
+  "model": "gpt-5-2025-08-07",
+  "input_file": "input4.md",
+  "duration_sec": 50.35,
+  "token_usage": {
+    "prompt_tokens": 1453,
+    "completion_tokens": 4954,
+    "total_tokens": 6407
+  },
+  "crops": [
+    {
+      "pi_number": 656,
+      "name_of_crop": "Glycine hispida",
+      "type": "Soy bean",
+      "origin": "Tokyo, Japan",
+      "presented_by": "Hon. A. E. Buck",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March 4, 1898",
+      "description": "Variety noted as \"Asahi;\" late."
+    },
+    {
+      "pi_number": 657,
+      "name_of_crop": "Pithecolobium dulce",
+      "type": null,
+      "origin": "Guaymas, Sonora, Mexico",
+      "presented_by": "Dr. Edward Palmer",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Collected May, 1897 (68 packages). Fruit edible. Bark used for tanning. Wood useful for many purposes. Fine shade tree. Widely disseminated along both sides of the Gulf of California and along the west coast of Mexico, commonly found about settlements. Very conspicuous and adapted to all sorts of soils and climatic conditions, enduring both drought and moisture. A large tree with wide-spreading branches, growing 10 to 50 feet high and 1 to 4 feet in diameter. Can be topped without injury so that branches can be used for posts and poles. Wood is sawed, makes good planks for many uses, and is good fuel. The bark is much used, alone or in combination, by all the tanners of Mexico. With ordinary care the guaymochle bark makes a beautiful, strong, white, elastic tan, not as strong as oak but one of the safest and best tanning materials. A yellow dye is prepared from the bark. The fruit is much sought as food; very prolific; the white manna-like substance adhering to the black seed is widely eaten and considered beneficial by those with consumption. In Colima it is so abundant it sells for 1 cent a kilo; in Acapulco there is ample supply and it remains a favorite despite many tropical fruits on the market. Remarkably productive even in desert regions with not more than 2 inches of rain a year, and grows from the Tropics to regions where there is an inch of ice. It has as wide a distribution as any tree known because of its adaptability to human needs. This useful and ornamental tree should receive a thorough trial in the warmer parts of the United States from Florida to California."
+    },
+    {
+      "pi_number": 658,
+      "name_of_crop": "Byrsonima crassifolia",
+      "type": "Nance",
+      "origin": "Colima, Mexico",
+      "presented_by": "Dr. Edward Palmer",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Collected July, 1897. A large shrub or small tree about 15 feet high and 3 to 8 inches in diameter, found growing in the mountains. Flowers are yellow, becoming bronze or amber with age. The yellow fruit is eaten raw with salt; flavor likened to overacid pulque or overripe cheese. Used in soups and for stuffing meats. Found for sale in the markets at Acapulco and Colima for about three months each year."
+    },
+    {
+      "pi_number": 659,
+      "name_of_crop": "Ceratonia siliqua",
+      "type": "St. John's bread",
+      "origin": "Mexico",
+      "presented_by": "Dr. Edward Palmer",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Collected October, 1897 (8 packages). Cultivated at San Jose de Guaymas by Mr. A. Parode, who obtained the seed from Africa. The tree thrives well, has a large top suitable for shade, and produces abundant fruit relished by all kinds of domestic animals. There is considerable demand along the Jacqua River settlements and in the uplands of Sonora."
+    },
+    {
+      "pi_number": 660,
+      "name_of_crop": "Tabebuia donnell-smithii",
+      "type": "White mahogany",
+      "origin": "Colima, Mexico",
+      "presented_by": "Dr. Edward Palmer",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Collected July, 1897 (49 packages). Trees around Colima are 40 to 50 feet high and about 12 to 15 inches in diameter; common in the mountains and much cultivated as ornamentals, being very beautiful in full bloom with copious golden-yellow flowers. From large trees excellent lumber is obtained, but it can only be used when thoroughly dry. Drawers made of it will not open in rainy weather, and the wood decays quickly with dampness. It is much used for the interiors of houses and railroad carriages. Endures a long rainless season and is easily propagated by seed. Recommended for trial in practically frostless parts of the arid Southwest."
+    },
+    {
+      "pi_number": 661,
+      "name_of_crop": null,
+      "type": "Candelilla",
+      "origin": "Mexico",
+      "presented_by": "Dr. Edward Palmer",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Collected August, 1897. An ornamental plant growing from a large bush to a small tree 8 to 10 feet high. The profusion of yellow fruit gives a very showy appearance. The fruit is eaten by birds."
+    }
+  ]
+}

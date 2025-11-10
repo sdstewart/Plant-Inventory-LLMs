@@ -1,0 +1,266 @@
+{
+  "generated_at": "2025-10-02T14-36-49",
+  "model": "gpt-5-mini-2025-08-07",
+  "input_file": "input23.md",
+  "duration_sec": 99.02,
+  "token_usage": {
+    "prompt_tokens": 1665,
+    "completion_tokens": 6827,
+    "total_tokens": 8492
+  },
+  "crops": [
+    {
+      "pi_number": 106449,
+      "name_of_crop": "Guilielma sp.",
+      "type": "Palm",
+      "origin": "Valle del Cauca, Colombia",
+      "presented_by": "M. J. Rivero",
+      "institution_involved": "Estaci\u00f3n Agr\u00edcola Experimental, Palmira, Departamento del Valle del Cauca",
+      "experiment_name": null,
+      "received_date": "September 13, 1934",
+      "description": "Phoenicaceae. A palm, native to the Valle del Cauca, which is more ornamental than Guilielma utilis."
+    },
+    {
+      "pi_number": 106450,
+      "name_of_crop": "Juglans honorei",
+      "type": "Wild walnut",
+      "origin": "Highlands of northern South America (collected from Colombia)",
+      "presented_by": "M. J. Rivero",
+      "institution_involved": "Estaci\u00f3n Agr\u00edcola Experimental, Palmira, Departamento del Valle del Cauca",
+      "experiment_name": null,
+      "received_date": "September 13, 1934",
+      "description": "Juglandaceae. A wild walnut, native to the highlands of northern South America, which resembles closely the black walnut of the United States. The thick-shelled nut contains a kernel of mild pleasant flavor. For previous introduction see 73394."
+    },
+    {
+      "pi_number": 106451,
+      "name_of_crop": "Passiflora manicata",
+      "type": "Ornamental vine (passionflower)",
+      "origin": "Colombia",
+      "presented_by": "M. J. Rivero",
+      "institution_involved": "Estaci\u00f3n Agr\u00edcola Experimental, Palmira, Departamento del Valle del Cauca",
+      "experiment_name": null,
+      "received_date": "September 13, 1934",
+      "description": "Passifloraceae. An ornamental vine, native to Colombia, with red flowers which are followed by green fruits about 3 inches long. The seeds are smaller and the pulp is not so highly flavored as in some of the other varieties. For previous introduction see 51567."
+    },
+    {
+      "pi_number": 106452,
+      "name_of_crop": "Cassia sp.",
+      "type": null,
+      "origin": "Ruanda-Urundi, Belgian Congo",
+      "presented_by": "J. B. Lejeune",
+      "institution_involved": "Station Experimentale de Kisozi",
+      "experiment_name": null,
+      "received_date": "September 15, 1934",
+      "description": "Caesalpiniaceae."
+    },
+    {
+      "pi_number": 106453,
+      "name_of_crop": "Tephrosia sp.",
+      "type": null,
+      "origin": "Urundi District, Ruanda-Urundi, Belgian Congo",
+      "presented_by": "J. B. Lejeune",
+      "institution_involved": "Station Experimentale de Kisozi",
+      "experiment_name": null,
+      "received_date": "September 15, 1934",
+      "description": "Fabaceae. Collected in Urundi District."
+    },
+    {
+      "pi_number": 106454,
+      "name_of_crop": "Tephrosia sp.",
+      "type": null,
+      "origin": "Ruanda District, Ruanda-Urundi, Belgian Congo",
+      "presented_by": "J. B. Lejeune",
+      "institution_involved": "Station Experimentale de Kisozi",
+      "experiment_name": null,
+      "received_date": "September 15, 1934",
+      "description": "Fabaceae. Collected in Ruanda District."
+    },
+    {
+      "pi_number": 106455,
+      "name_of_crop": "Crotalaria sp.",
+      "type": null,
+      "origin": "Urundi District, Ruanda-Urundi, Belgian Congo",
+      "presented_by": "J. B. Lejeune",
+      "institution_involved": "Station Experimentale de Kisozi",
+      "experiment_name": null,
+      "received_date": "September 15, 1934",
+      "description": "Fabaceae. Collected in Urundi District."
+    },
+    {
+      "pi_number": 106456,
+      "name_of_crop": "Crotalaria sp.",
+      "type": null,
+      "origin": "Urundi District, Ruanda-Urundi, Belgian Congo",
+      "presented_by": "J. B. Lejeune",
+      "institution_involved": "Station Experimentale de Kisozi",
+      "experiment_name": null,
+      "received_date": "September 15, 1934",
+      "description": "Fabaceae. Collected in Urundi District."
+    },
+    {
+      "pi_number": 106457,
+      "name_of_crop": "Eriosema sp.",
+      "type": null,
+      "origin": "Ruanda-Urundi, Belgian Congo",
+      "presented_by": "J. B. Lejeune",
+      "institution_involved": "Station Experimentale de Kisozi",
+      "experiment_name": null,
+      "received_date": "September 15, 1934",
+      "description": "Fabaceae. Received under the name Eriosema lejeunei."
+    },
+    {
+      "pi_number": 106458,
+      "name_of_crop": "Meibomia lasiocarpa",
+      "type": null,
+      "origin": "Belgian Congo",
+      "presented_by": "J. B. Lejeune",
+      "institution_involved": "Station Experimentale de Kisozi",
+      "experiment_name": null,
+      "received_date": "September 15, 1934",
+      "description": "Fabaceae. Collected in the Belgian Congo. For previous introduction see 103618."
+    },
+    {
+      "pi_number": 106459,
+      "name_of_crop": "Desmodium salicifolium",
+      "type": null,
+      "origin": "Collected in Ruanda-Urundi; native to the East Indies",
+      "presented_by": "J. B. Lejeune",
+      "institution_involved": "Station Experimentale de Kisozi",
+      "experiment_name": null,
+      "received_date": "September 15, 1934",
+      "description": "Fabaceae. A bushy shrub with lanceolate-oblong leaflets and flowers in terminal panicles. Native to the East Indies."
+    },
+    {
+      "pi_number": 106460,
+      "name_of_crop": "Vigna sp.",
+      "type": null,
+      "origin": "Urundi District, Ruanda-Urundi, Belgian Congo",
+      "presented_by": "J. B. Lejeune",
+      "institution_involved": "Station Experimentale de Kisozi",
+      "experiment_name": null,
+      "received_date": "September 15, 1934",
+      "description": "Fabaceae. Collected in Urundi District."
+    },
+    {
+      "pi_number": 106461,
+      "name_of_crop": null,
+      "type": "Perennial leguminous plant",
+      "origin": "Urundi District, Ruanda-Urundi, Belgian Congo",
+      "presented_by": "J. B. Lejeune",
+      "institution_involved": "Station Experimentale de Kisozi",
+      "experiment_name": null,
+      "received_date": "September 15, 1934",
+      "description": "Undetermined. A perennial leguminous plant collected in Urundi District."
+    },
+    {
+      "pi_number": 106462,
+      "name_of_crop": "Arum elongatum",
+      "type": null,
+      "origin": "Asia Minor; introduced from Sukhum, Transcaucasia (USSR)",
+      "presented_by": "Institute of Sub-tropical Cultures, Sukhum, Transcaucasia (through the Institute of Plant Industry, Leningrad)",
+      "institution_involved": "Institute of Sub-tropical Cultures, Sukhum; Institute of Plant Industry, Leningrad",
+      "experiment_name": null,
+      "received_date": "September 14, 1934",
+      "description": "Araceae. An arum from Asia Minor, about a foot high, with brownish, broadly hastate-sagittate leaves. The spathe tube is oblong ovoid, white within, with the limb intense black purple."
+    },
+    {
+      "pi_number": 106463,
+      "name_of_crop": "Colchicum umbrosum",
+      "type": "Autumn crocus",
+      "origin": "Caucasus; introduced from Sukhum, Transcaucasia (USSR)",
+      "presented_by": "Institute of Sub-tropical Cultures, Sukhum, Transcaucasia (through the Institute of Plant Industry, Leningrad)",
+      "institution_involved": "Institute of Sub-tropical Cultures, Sukhum; Institute of Plant Industry, Leningrad",
+      "experiment_name": null,
+      "received_date": "September 14, 1934",
+      "description": "Melanthiaceae. A low bulbous plant, native to the Caucasus, with about five narrow leaves and small clusters of lilac flowers. For previous introduction see 67014."
+    },
+    {
+      "pi_number": 106464,
+      "name_of_crop": "Crocus scharojani",
+      "type": null,
+      "origin": "Caucasus; introduced from Sukhum, Transcaucasia (USSR)",
+      "presented_by": "Institute of Sub-tropical Cultures, Sukhum, Transcaucasia (through the Institute of Plant Industry, Leningrad)",
+      "institution_involved": "Institute of Sub-tropical Cultures, Sukhum; Institute of Plant Industry, Leningrad",
+      "experiment_name": null,
+      "received_date": "September 14, 1934",
+      "description": "Iridaceae. A crocus with a very small globose bulb. In the Caucasus region, where it is native, the leaves appear in the spring and remain until the bright-yellow flowers appear the latter part of July and August. The throat of the corolla is yellowish white, the anthers are pale yellow, and the style branches are orange red. For previous introduction see 90616."
+    },
+    {
+      "pi_number": 106465,
+      "name_of_crop": "Ornithogalum balansae",
+      "type": null,
+      "origin": "Armenia; introduced from Sukhum, Transcaucasia (USSR)",
+      "presented_by": "Institute of Sub-tropical Cultures, Sukhum, Transcaucasia (through the Institute of Plant Industry, Leningrad)",
+      "institution_involved": "Institute of Sub-tropical Cultures, Sukhum; Institute of Plant Industry, Leningrad",
+      "experiment_name": null,
+      "received_date": "September 14, 1934",
+      "description": "Liliaceae. A low bulbous plant with two or three linear leaves 3 to 4 inches long and small white flowers in a small dense raceme, on a scape about as long as the leaves. Native to Armenia."
+    },
+    {
+      "pi_number": 106466,
+      "name_of_crop": "Scilla winogradowii",
+      "type": null,
+      "origin": "Caucasus; introduced from Sukhum, Transcaucasia (USSR)",
+      "presented_by": "Institute of Sub-tropical Cultures, Sukhum, Transcaucasia (through the Institute of Plant Industry, Leningrad)",
+      "institution_involved": "Institute of Sub-tropical Cultures, Sukhum; Institute of Plant Industry, Leningrad",
+      "experiment_name": null,
+      "received_date": "September 14, 1934",
+      "description": "Liliaceae. A squill from the Caucasus with one to three pale-blue suberect flowers more than three-fifths of an inch long. The leaves are oblong-linear or linear lanceolate."
+    },
+    {
+      "pi_number": 106467,
+      "name_of_crop": "Brachiaria gilesii",
+      "type": "Grass",
+      "origin": "MacDonnell Ranges, central Australia",
+      "presented_by": null,
+      "institution_involved": "Collected by Dr. T. G. Strehlow, University of Adelaide, Adelaide",
+      "experiment_name": null,
+      "received_date": "September 14, 1934",
+      "description": "Poaceae. Naljara. Collected in the MacDonnell Ranges. A perennial grass with long leafy stolons and short firm leaves. The flowering culms, erect or ascending, are 6 to 18 inches high, and the edible seeds are eaten by the natives."
+    },
+    {
+      "pi_number": 106468,
+      "name_of_crop": "Chloris virgata",
+      "type": "Feather fingergrass",
+      "origin": "Alice Springs, central Australia",
+      "presented_by": null,
+      "institution_involved": "Collected by Dr. T. G. Strehlow, University of Adelaide, Adelaide",
+      "experiment_name": null,
+      "received_date": "September 14, 1934",
+      "description": "Poaceae. Collected at Alice Springs. A fine grazing grass."
+    },
+    {
+      "pi_number": 106469,
+      "name_of_crop": "Dactyloctenium aegyptium",
+      "type": null,
+      "origin": "Alice Springs, central Australia",
+      "presented_by": null,
+      "institution_involved": "Collected by Dr. T. G. Strehlow, University of Adelaide, Adelaide",
+      "experiment_name": null,
+      "received_date": "September 14, 1934",
+      "description": "Poaceae. (Eleusine aegyptiaca Desf.). Collected at Alice Springs. A tropical prostrate annual grass which forms mats by rooting at the nodes. For previous introduction see 73115."
+    },
+    {
+      "pi_number": 106470,
+      "name_of_crop": "Eragrostis sp.",
+      "type": null,
+      "origin": "Alice Springs, central Australia",
+      "presented_by": null,
+      "institution_involved": "Collected by Dr. T. G. Strehlow, University of Adelaide, Adelaide",
+      "experiment_name": null,
+      "received_date": "September 14, 1934",
+      "description": "Poaceae. Collected at Alice Springs. A very nutritious fodder."
+    },
+    {
+      "pi_number": 106471,
+      "name_of_crop": "Erythrina sp.",
+      "type": "Ininta (bean tree)",
+      "origin": "North of Alice Springs, northern part of central Australia",
+      "presented_by": null,
+      "institution_involved": "Collected by Dr. T. G. Strehlow, University of Adelaide, Adelaide",
+      "experiment_name": null,
+      "received_date": "September 14, 1934",
+      "description": "Fabaceae. Collected north of Alice Springs, in the northern part of central Australia. Ininta, or bean tree. The red seeds of this tree are used as ornaments by the natives, and the wood is used in the manufacture of shields and putchis (vessels) of all kinds. The beanwood is very light, one of the few soft woods found in central Australia."
+    }
+  ]
+}

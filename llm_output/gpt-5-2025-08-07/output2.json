@@ -1,0 +1,134 @@
+{
+  "generated_at": "2025-10-02T13-20-30",
+  "model": "gpt-5-2025-08-07",
+  "input_file": "input2.md",
+  "duration_sec": 108.53,
+  "token_usage": {
+    "prompt_tokens": 1327,
+    "completion_tokens": 6678,
+    "total_tokens": 8005
+  },
+  "crops": [
+    {
+      "pi_number": 14,
+      "name_of_crop": "Cucurbita maxima",
+      "type": "Pumpkin",
+      "origin": "Moscow, Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": "State Board of Agriculture of South Dakota",
+      "experiment_name": null,
+      "received_date": "February, 1898",
+      "description": "Variety Honey, introduced from Bulgaria. Supplied as 16 1-ounce packages. Evaluated by Mr. H. C. Warner of the State Board of Agriculture of South Dakota, who tested it alongside Connectient, Field, Potiron, Etampes, Tours, Large Cheese, Japanese, Cushow, Black Sugar, Gray Bologne, and Pie; while some comparators were more productive, this variety led in quality. Recommended for wide distribution for culinary use and for feeding milch cows. Reported success on rich, sandy loam; vines endured drought; fruit ripened by the beginning of September. Similar excellence was not observed in California."
+    },
+    {
+      "pi_number": 15,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January, 1898",
+      "description": "Variety Kochanka, a Russian type. Supplied as 27 packages. Oval fruit with green flesh; very productive; medium early; sweet and juicy. Extensively used for confectionery, cooked in sugar by a distinctive process."
+    },
+    {
+      "pi_number": 16,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia; from Belbek, Crimea",
+      "presented_by": "Prof. N. E. Hausen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January, 1898",
+      "description": "Russian variety from Belbek, Crimea. Supplied as 38 packages. Oblong fruit, dark green rind; bright red flesh; early."
+    },
+    {
+      "pi_number": 17,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January, 1898",
+      "description": "Variety Empress of Melons, a Russian type. Supplied as 57 packages. Oval fruit with variegated surface; green flesh that is delicate, melting, and very sweet; extremely early and highly productive."
+    },
+    {
+      "pi_number": 18,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia (originally from Yokohama, Japan)",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January, 1898",
+      "description": "Supplied as 42 packages. Dark green rind with red flesh; moderately late."
+    },
+    {
+      "pi_number": 19,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Russia (originally from Lenkoran, Province of Baku, Transcaucasia)",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January, 1898",
+      "description": "Variety Lenkoran No. 2. Supplied as 227 packages. Oval shape; exterior bright yellow with small dark spots; green flesh; ripens late and keeps well."
+    },
+    {
+      "pi_number": 20,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January, 1898",
+      "description": "Variety Favorite of the Pjatigorsk farm, a Russian type, obtained directly from its native locality. Supplied as 26 packages. Round fruit; green rind with dark stripes; orange flesh; very early."
+    },
+    {
+      "pi_number": 21,
+      "name_of_crop": "Cucumis melo",
+      "type": "Muskmelon",
+      "origin": "Russia (introduced from Khiva, Turkestan)",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January, 1898",
+      "description": "Variety General Skobeleff II, an Asiatic type introduced into Russia from Khiva, Turkestan. Supplied as 31 packages. Round fruit; white rind; orange flesh; medium early."
+    },
+    {
+      "pi_number": 22,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January, 1898",
+      "description": "Variety The Czar of Baktcha, a Russian type. Supplied as 22 packages. Very large fruit; bright green rind with dark stripes; red flesh; rather late."
+    },
+    {
+      "pi_number": 23,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January, 1898",
+      "description": "Variety Favorite of the Pjatigorsk farm, a Russian type. Supplied as 20 packages. Round fruit; green rind with dark stripes; dark red flesh; very early; described as magnificent. Evidently the same as No. 20."
+    },
+    {
+      "pi_number": 24,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Russia (originally from China)",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January, 1898",
+      "description": "Variety Jea Teveam, originally from China. Supplied as 34 packages. Blackish green rind; rose-colored flesh; moderately late."
+    }
+  ]
+}

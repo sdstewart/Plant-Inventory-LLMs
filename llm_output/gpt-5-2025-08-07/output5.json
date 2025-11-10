@@ -1,0 +1,145 @@
+{
+  "generated_at": "2025-10-02T13-37-04",
+  "model": "gpt-5-2025-08-07",
+  "input_file": "input5.md",
+  "duration_sec": 50.86,
+  "token_usage": {
+    "prompt_tokens": 1240,
+    "completion_tokens": 4964,
+    "total_tokens": 6204
+  },
+  "crops": [
+    {
+      "pi_number": 202,
+      "name_of_crop": "Calligonum",
+      "type": "Ak-candym",
+      "origin": "Repetchek, near Amu Daria, Turkestan",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "Known locally as Ak-candym (a native Sart name in which 'ak' means white). Planted along the Transcaspian Railway to bind moving sands; these bushes are also valued as excellent fuel."
+    },
+    {
+      "pi_number": 203,
+      "name_of_crop": "Cucumis sativus",
+      "type": "Cucumber",
+      "origin": "Turkestan",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "Cucumber received in 6 packages."
+    },
+    {
+      "pi_number": 204,
+      "name_of_crop": "Calligonum",
+      "type": null,
+      "origin": "Amu Daria, Turkestan",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "A desert plant considered not valuable for binding moving sands but regarded as good on clay."
+    },
+    {
+      "pi_number": 205,
+      "name_of_crop": "Salsola arbuscula",
+      "type": null,
+      "origin": "Turkestan",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "Received in 4 packages. A native desert bush with linear leaves about 3 inches long that attains a height of roughly 15 feet. Much planted to hold moving sands along the Transcaspian Railway and esteemed the best for this purpose because of its quick growth. Mr. Palettsky, the Government forestry expert overseeing this work, reported one-year-old nursery plants 5 feet high and well branched. Thrives on sand and alkali deserts; grows better when partly covered by moving sand, as branches root quickly. Wood is heavier than water and makes excellent fuel, but is too brittle and hard for use in the arts."
+    },
+    {
+      "pi_number": 206,
+      "name_of_crop": "Aristida pungens",
+      "type": null,
+      "origin": "Repetchek, near Amu Daria, Turkestan",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "Received in 2 packages. Described as a variety. A desert plant used in the same manner as the entry referenced as No. 196."
+    },
+    {
+      "pi_number": 207,
+      "name_of_crop": "Haloxylon ammodendron",
+      "type": "Saxaool",
+      "origin": "Turkestan",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "Received in 2 packages. Used to bind moving sand dunes along the Transcaspian Railway. A native, large, bushy, fleshy, leafless tree that grows slowly at first but ultimately reaches about 8 to 10 meters (24 to 30 feet). Performs well in sand deserts and on alkali soils. The wood makes excellent fuel\u2014considered better than birch\u2014and is heavier than water, but is too brittle and hard for use in the arts."
+    },
+    {
+      "pi_number": 208,
+      "name_of_crop": null,
+      "type": null,
+      "origin": "Repetchek, near Amu Daria, Turkestan",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "Received in 4 packages. A desert plant (specific name label not provided)."
+    },
+    {
+      "pi_number": 209,
+      "name_of_crop": "Ephedra strobilacea",
+      "type": null,
+      "origin": "Repetchek, near Amu Daria, Turkestan",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "A desert plant used to bind moving sands along the Transcaspian Railway."
+    },
+    {
+      "pi_number": 210,
+      "name_of_crop": "Pyrus germanica",
+      "type": "Medlar",
+      "origin": "Caucasus",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "Received in 1 package."
+    },
+    {
+      "pi_number": 211,
+      "name_of_crop": "Pyrus sorbus",
+      "type": "Service tree",
+      "origin": "Yalta, Crimea",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "Received in 4 packages. Fruit somewhat pyriform, about 1 by 1.5 inches in diameter, yellow with a red cheek. The tree resembles mountain ash. The fruit is much eaten when softened by partial decay, but according to Professor Hansen the tree is valuable chiefly for ornament."
+    },
+    {
+      "pi_number": 212,
+      "name_of_crop": "Cucumis sativus",
+      "type": "Cucumber",
+      "origin": "Tiflis, Transcaucasia",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "Cucumber from Tiflis, Transcaucasia."
+    },
+    {
+      "pi_number": 213,
+      "name_of_crop": null,
+      "type": null,
+      "origin": "Turkestan",
+      "presented_by": "Prof. N. E. Hansen",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March, 1898",
+      "description": "Received in 1 package. A desert plant intended for binding moving sands; label missing."
+    }
+  ]
+}

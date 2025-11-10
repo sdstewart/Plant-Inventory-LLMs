@@ -1,0 +1,156 @@
+{
+  "generated_at": "2025-10-02T14-19-04",
+  "model": "gpt-5-mini-2025-08-07",
+  "input_file": "input12.md",
+  "duration_sec": 73.72,
+  "token_usage": {
+    "prompt_tokens": 1541,
+    "completion_tokens": 5947,
+    "total_tokens": 7488
+  },
+  "crops": [
+    {
+      "pi_number": 32901,
+      "name_of_crop": "Diospyros kaki",
+      "type": "Persimmon",
+      "origin": "Algiers, Algeria",
+      "presented_by": "Dr. L. Trabut",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March 2, 1912",
+      "description": "\"Boufarik. A new variety. Fruit green, large, round, flattened, very good.\" (Trabut.) Collected/presented from Algiers, Algeria; noted as from Boufarik; no experiment or institution specified in the entry."
+    },
+    {
+      "pi_number": 32902,
+      "name_of_crop": "Nephelium lappaceum",
+      "type": "Rambutan",
+      "origin": "Buitenzorg, Java",
+      "presented_by": "Mr. W. G. Gobius, Secretary to the Department of Agriculture",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "received_date": "March 1, 1912",
+      "description": "Presented by Mr. W. G. Gobius, Secretary to the Department of Agriculture. See No. 25165 for general description of this fruit."
+    },
+    {
+      "pi_number": 32906,
+      "name_of_crop": "Glycine hispida",
+      "type": "Soy bean",
+      "origin": "Arlington Experimental Farm, Virginia (varietal selections from multiple origins noted)",
+      "presented_by": null,
+      "institution_involved": "Arlington Experimental Farm",
+      "experiment_name": null,
+      "received_date": "March 4, 1912",
+      "description": "One of a group of promising soybean varieties grown in quantity at the Arlington Experimental Farm, Virginia, in 1911; numbered March 4, 1912 for distribution. Quoted note by Mr. W. J. Morse: \"Virginia. Grown under No. 19186D. A pure field selection at Arlington farm in 1907 out of S. P. I. No. 19186, from Newchwang, Manchuria, 1906. A medium-late brown-seeded variety of considerable promise.\""
+    },
+    {
+      "pi_number": 32907,
+      "name_of_crop": "Glycine hispida",
+      "type": "Soy bean",
+      "origin": "Arlington Experimental Farm, Virginia (selection originally from Peking, China)",
+      "presented_by": null,
+      "institution_involved": "Arlington Experimental Farm",
+      "experiment_name": null,
+      "received_date": "March 4, 1912",
+      "description": "One of a group of promising soybean varieties grown in quantity at the Arlington Experimental Farm, Virginia, in 1911; numbered March 4, 1912 for distribution. Quoted note by Mr. W. J. Morse: \"Peking. Grown under No. 17852B. A pure field selection at Arlington Experimental Farm in 1907 out of S. P. I. No. 17852, Meyer, from Peking, China. A medium-late variety with small black seeds. Very prolific and especially promising as a hay variety.\""
+    },
+    {
+      "pi_number": 32908,
+      "name_of_crop": "Glycine hispida",
+      "type": "Soy bean",
+      "origin": "Arlington Experimental Farm, Virginia (selection originally from Khabarovsk, Siberia)",
+      "presented_by": null,
+      "institution_involved": "Arlington Experimental Farm",
+      "experiment_name": null,
+      "received_date": "March 4, 1912",
+      "description": "One of a group of promising soybean varieties grown in quantity at the Arlington Experimental Farm, Virginia, in 1911; numbered March 4, 1912 for distribution. Quoted note by Mr. W. J. Morse: \"Chestnut. Grown under No. 20405B. A field mass selection at Arlington Experimental Farm in 1907 out of S. P. I. No. 20405, Habaro, from Khabarovsk, Siberia, 1906. A medium-early brown-seeded variety of promise in the more northern States.\""
+    },
+    {
+      "pi_number": 32909,
+      "name_of_crop": "Glycine hispida",
+      "type": "Soy bean",
+      "origin": "Arlington Experimental Farm, Virginia (selection originally from Tieling, Manchuria)",
+      "presented_by": null,
+      "institution_involved": "Arlington Experimental Farm",
+      "experiment_name": null,
+      "received_date": "March 4, 1912",
+      "description": "One of a group of promising soybean varieties grown in quantity at the Arlington Experimental Farm, Virginia, in 1911; numbered March 4, 1912 for distribution. Quoted note by Mr. W. J. Morse: \"Auburn. Grown under No. 21079A. A field mass selection at Arlington Experimental Farm in 1907 out of S. P. I. No. 21079, Shingto, from Tieling, Manchuria, 1907. A black-seeded variety in Pennsylvania and New York.\""
+    },
+    {
+      "pi_number": 32910,
+      "name_of_crop": "Phytelephas aequitorialis",
+      "type": "Ivory-nut palm",
+      "origin": "Guayaquil, Ecuador (also found on neighboring plains and up Andean valleys to about 5,000 ft, toward Mount Chimborazo)",
+      "presented_by": "Mr. Herman R. Dietrich, American consul general",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "March 1, 1912",
+      "description": "Distribution: An erect palm, sometimes 20 feet high, found on the plains in the vicinity of Guayaquil and extending up the valleys in the Andes to an elevation of 5,000 feet, especially toward Mount Chimborazo, in Ecuador. Presented by Mr. Herman R. Dietrich, American consul general, from Guayaquil, Ecuador."
+    },
+    {
+      "pi_number": 32911,
+      "name_of_crop": "Aesculus turbinata",
+      "type": null,
+      "origin": "Lawang, Java (distribution notes indicate occurrence on wooded mountain slopes in Kiangsu and Chekiang provinces, China, and in the islands of Japan)",
+      "presented_by": "Mr. M. Buysman",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February 26, 1912",
+      "description": "From Lawang, Java; presented by Mr. M. Buysman. Distribution: A tree found on wooded mountain slopes in the provinces of Kiangsu and Chekiang in China and in the islands of Japan."
+    },
+    {
+      "pi_number": 32912,
+      "name_of_crop": "Pterocarya sorbifolia",
+      "type": null,
+      "origin": "Lawang, Java (distribution notes indicate occurrence on wooded mountain slopes of Japan)",
+      "presented_by": "Mr. M. Buysman",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February 26, 1912",
+      "description": "From Lawang, Java; presented by Mr. M. Buysman. Distribution: Found on wooded mountain slopes of Japan."
+    },
+    {
+      "pi_number": 32913,
+      "name_of_crop": "Randia formosa",
+      "type": null,
+      "origin": "Lawang, Java (distribution notes indicate occurrence in northern South America and Caribbean islands)",
+      "presented_by": "Mr. M. Buysman",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "February 26, 1912",
+      "description": "From Lawang, Java; presented by Mr. M. Buysman. Distribution: Found in the countries in the northern part of South America, including Guiana, Colombia, Venezuela, and Peru, and the islands of the Caribbean Sea."
+    },
+    {
+      "pi_number": 32914,
+      "name_of_crop": "Sapindus sp.",
+      "type": null,
+      "origin": "Santarem area, on the Tapajos, Para, Brazil (found along a roadside about 6 miles from Santarem)",
+      "presented_by": "Mr. Walter Fischer, Campo de Cultura Experimental Paraense",
+      "institution_involved": "Campo de Cultura Experimental Paraense, Para, Brazil",
+      "experiment_name": null,
+      "received_date": "February 27, 1912",
+      "description": "A species of Sapindus found along a roadside about 6 miles from Santarem. The tree grows to a height of 30 to 40 feet and is found along the borders of clearings. Natives were familiar with the saponifying property of the seeds but, as far as the presenter could learn, made no use of them. Santarem is located north of the Tapajos on the Amazon, about 500 miles from Para. Presented by Mr. Walter Fischer, Campo de Cultura Experimental Paraense, Para, Brazil."
+    },
+    {
+      "pi_number": 32915,
+      "name_of_crop": "Pithecellobium unguis-cati",
+      "type": "Local name: \"bread and cheese\"",
+      "origin": "Barbados (collected in Barbados); distribution noted in sandy soil in southern Florida, the West Indies, and tropical South America",
+      "presented_by": "Mr. Walter Fischer, Campo de Cultura Experimental Paraense",
+      "institution_involved": "Campo de Cultura Experimental Paraense, Para, Brazil",
+      "experiment_name": null,
+      "received_date": "February 27, 1912",
+      "description": "One of two varieties of seeds found and collected in Barbados. Local name is 'bread and cheese.' Seeds are from an attractive ornamental small tree much used as a border shrub and as a hedge plant; foliage is clean and compound, each leaf with a twin pair of obovate leaflets. The plant bears dense panicles of pods which open and twist when ripe, showing shiny-black small seeds each with an attached aril. This hedge plant would be well adapted to southern Florida and may already exist there. Note for this lot: \"Seed with white aril.\" Distribution: sandy soil in southern Florida, the West Indies, and the tropical part of South America. Presented by Mr. Walter Fischer."
+    },
+    {
+      "pi_number": 32916,
+      "name_of_crop": "Pithecellobium unguis-cati",
+      "type": "Local name: \"bread and cheese\"",
+      "origin": "Barbados (collected in Barbados); distribution noted in sandy soil in southern Florida, the West Indies, and tropical South America",
+      "presented_by": "Mr. Walter Fischer, Campo de Cultura Experimental Paraense",
+      "institution_involved": "Campo de Cultura Experimental Paraense, Para, Brazil",
+      "experiment_name": null,
+      "received_date": "February 27, 1912",
+      "description": "One of two varieties of seeds found and collected in Barbados. Local name is 'bread and cheese.' Seeds are from an attractive ornamental small tree much used as a border shrub and as a hedge plant; foliage is clean and compound, each leaf with a twin pair of obovate leaflets. The plant bears dense panicles of pods which open and twist when ripe, showing shiny-black small seeds each with an attached aril. This hedge plant would be well adapted to southern Florida and may already exist there. Note for this lot: \"Seed with red aril.\" Distribution: sandy soil in southern Florida, the West Indies, and the tropical part of South America. Presented by Mr. Walter Fischer."
+    }
+  ]
+}

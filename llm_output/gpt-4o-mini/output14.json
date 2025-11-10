@@ -1,0 +1,156 @@
+{
+  "generated_at": "2025-07-30T19-13-17",
+  "model": "gpt-4o-mini",
+  "input_file": "input14.md",
+  "duration_sec": 35.92,
+  "token_usage": {
+    "prompt_tokens": 1664,
+    "completion_tokens": 1945,
+    "total_tokens": 3609
+  },
+  "crops": [
+    {
+      "pi_number": 105780,
+      "name_of_crop": "Melinus minutiflora",
+      "type": "Molasses grass",
+      "origin": "Brazil",
+      "presented_by": "B. H. Hunnicutt",
+      "institution_involved": "Mackenzie College, Sao Paulo",
+      "experiment_name": null,
+      "received_date": "June 18, 1934",
+      "description": "Gordura grass. Collected from the highest altitude at which this is known to grow in Brazil."
+    },
+    {
+      "pi_number": 105781,
+      "name_of_crop": "Magnolia portoricensis",
+      "type": "Magnolia",
+      "origin": "Puerto Rico",
+      "presented_by": "K. A. Ryerson",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "May 21, 1934",
+      "description": "Cuttings from a handsome tree, endemic in the forests of western Puerto Rico, with leathery, broadly oval leaves about 6 inches long and terminal, solitary white flowers 4 inches in diameter with about 12 perianth divisions."
+    },
+    {
+      "pi_number": 105782,
+      "name_of_crop": "Tillandsia sp.",
+      "type": "Plants",
+      "origin": "Puerto Rico",
+      "presented_by": "K. A. Ryerson",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "May 21, 1934",
+      "description": "Plants."
+    },
+    {
+      "pi_number": 105788,
+      "name_of_crop": "Heterophragma adenophyllum",
+      "type": "Ornamental African tree",
+      "origin": "Florida",
+      "presented_by": "W. D. Carrier",
+      "institution_involved": "Crescent City",
+      "experiment_name": null,
+      "received_date": "June 14, 1934",
+      "description": "An ornamental African tree related to the catalpa, but adapted for cultivation in subtropical regions only, as it is very susceptible to frost. It reaches a height of 30 to 50 feet, with large opposite pinnate leaves and brownish-yellow woolly flowers in terminal panicles."
+    },
+    {
+      "pi_number": 105787,
+      "name_of_crop": "Lespedeza satsumensis",
+      "type": "Bushy shrub",
+      "origin": "Japan",
+      "presented_by": "T. Nakai",
+      "institution_involved": "Director, Botanic Garden, Imperial University, Tokyo",
+      "experiment_name": null,
+      "received_date": "May 28, 1934",
+      "description": "Collected at Kinsin, on Mount Isoma, Satsuma Province. This bushy shrub is a rare species and is found only on the summit of Mount Isoma. It has oblong-obovate leaflets up to four-fifths of an inch long, retuse or emarginate, and very short axillary racemes of deep purple flowers. Allied to Lespedeza floribunda, but differing chiefly in its smaller size and in having shorter racemes."
+    },
+    {
+      "pi_number": 105789,
+      "name_of_crop": "Casuarina acuaria",
+      "type": "Leafless shrub",
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner",
+      "institution_involved": "Government botanist, State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "A leafless shrub with erect rigid branches and numerous deciduous branchlets; these are erect, slender but rigid, and each consists of but two internodes. The cones, globular and solitary or in small clusters, are about 1 inch in diameter."
+    },
+    {
+      "pi_number": 105790,
+      "name_of_crop": "Casuarina acutivalvis",
+      "type": "Erect branched shrub",
+      "origin": "Victoria, Australia",
+      "presented_by": "C. A. Gardner",
+      "institution_involved": "Government botanist, State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "An erect branched shrub with the internodes marked by 12 lines of low linear-subulate teeth and with rather large globular cones. The minute dark-brown leaves are easily dislodged."
+    },
+    {
+      "pi_number": 105791,
+      "name_of_crop": "Casuarina campestris",
+      "type": "Dioecious shrub",
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner",
+      "institution_involved": "Government botanist, State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "A dioecious shrub 3 to 6 feet high, with numerous erect branches; native to Western Australia. The internodes are glaucescent or shining green and striate."
+    },
+    {
+      "pi_number": 105792,
+      "name_of_crop": "Casuarina decussata",
+      "type": "Small tree",
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner",
+      "institution_involved": "Government botanist, State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "A small tree, native to Western Australia, closely allied to Casuarina torulosa, with slender elongated branches arranged in fours. The stems have a decussate appearance, owing to the prominence of alternate pairs of angles at the nodes."
+    },
+    {
+      "pi_number": 105794,
+      "name_of_crop": "Casuarina glauca",
+      "type": "Australian tree",
+      "origin": "Australia",
+      "presented_by": "C. A. Gardner",
+      "institution_involved": "Government botanist, State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "An Australian tree 60 to 70 feet high, usually straight and of rapid growth. The timber is red, beautifully marked, hard and tough and is there used for cabinetwork. In periods of drought the foliage is used for stock feed. When the trees are cut down, the young growth shoots up quickly from the stump. This variety grows in the coastal districts, marshy country, and frequently in land submerged with tidal water. It makes a very handsome shade tree."
+    },
+    {
+      "pi_number": 105795,
+      "name_of_crop": "Casuarina grevilleoides",
+      "type": "Low much-branched shrub",
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner",
+      "institution_involved": "Government botanist, State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "A low much-branched shrub about 1 foot high, with the branches and branchlets much-jointed and the younger joints white tomentose."
+    },
+    {
+      "pi_number": 105796,
+      "name_of_crop": "Casuarina humilis",
+      "type": "Erect shrub",
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner",
+      "institution_involved": "Government botanist, State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "An erect shrub 2 to 6 feet high, with the branchlets usually in whorls of four and the angles of the internodes prominent but obtuse."
+    },
+    {
+      "pi_number": 105797,
+      "name_of_crop": "Casuarina thuyoides",
+      "type": "Straggling shrub",
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner",
+      "institution_involved": "Government botanist, State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "A straggling shrub 3 to 5 feet high, with numerous spreading slender branchlets about 1 inch long arranged in whorls of four or five. The ribs on the nearly round internodes are scarcely noticeable."
+    }
+  ]
+}

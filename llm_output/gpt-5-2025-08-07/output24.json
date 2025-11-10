@@ -1,0 +1,233 @@
+{
+  "generated_at": "2025-10-02T13-31-15",
+  "model": "gpt-5-2025-08-07",
+  "input_file": "input24.md",
+  "duration_sec": 211.74,
+  "token_usage": {
+    "prompt_tokens": 1626,
+    "completion_tokens": 10052,
+    "total_tokens": 11678
+  },
+  "crops": [
+    {
+      "pi_number": 106499,
+      "name_of_crop": "Carica papaya L.",
+      "type": "Papaya",
+      "origin": "California",
+      "presented_by": "James Stewart",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "September 20, 1934",
+      "description": "Seeds presented by James Stewart, La Habra Heights. A fine-flavored South African papaya, pollinized by a plant from the Sandwich Islands."
+    },
+    {
+      "pi_number": 106500,
+      "name_of_crop": "Licania rigida Benth.",
+      "type": null,
+      "origin": "Ceara, Brazil",
+      "presented_by": "Institute of Paint and Varnish Research, Washington, D. C.",
+      "institution_involved": "Bureau of Chemistry and Soils",
+      "experiment_name": null,
+      "received_date": "September 26, 1934",
+      "description": "Seeds collected by H. A. Gardner and presented by the Institute of Paint and Varnish Research, Washington, D. C., through the Bureau of Chemistry and Soils. A large tropical tree of the Brazilian forests, with rigid leathery oblong leaves 3 to 5 inches long and shining green above. The greenish, ovoid-cylindrical fruits, about 2 inches long, yield an oil known as Oiticica oil, used in the paint and varnish industry."
+    },
+    {
+      "pi_number": 106501,
+      "name_of_crop": "Carica candamarcensis Hook. f.",
+      "type": null,
+      "origin": "Chile",
+      "presented_by": "Arthur W. Burrows",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "October 10, 1934",
+      "description": "Seeds purchased through Arthur W. Burrows, American consular agent, Coquimbo. A small papaya 3 1/2 by 4 1/2 inches, with very thin flesh which is highly acid and is used only in making preserves and sirups. The fruit is yellow when ripe with a spicy aromatic flavor and fragrance, but is never eaten fresh."
+    },
+    {
+      "pi_number": 106502,
+      "name_of_crop": "Oryza sativa L.",
+      "type": "Rice",
+      "origin": "Brazil",
+      "presented_by": "J. I. Case Co.",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "September 20, 1934",
+      "description": "From Brazil. Seeds presented by J. I. Case Co., through Reginald S. Castleman, American consul, Porto Alegre. Santa Maria. A new type of rice developed near Rio Pardo, State of Rio Grande do Sul, which develops abnormally large ears and is a heavy yielder."
+    },
+    {
+      "pi_number": 106503,
+      "name_of_crop": "Triticum aestivum L.",
+      "type": "Common wheat",
+      "origin": "Brazil",
+      "presented_by": "J. I. Case Co.",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "September 20, 1934",
+      "description": "From Brazil. Seeds presented by J. I. Case Co., through Reginald S. Castleman, American consul, Porto Alegre. Rust-immune wheat developed in Rio Grande do Sul. Variety: Fronteira."
+    },
+    {
+      "pi_number": 106504,
+      "name_of_crop": "Triticum aestivum L.",
+      "type": "Common wheat",
+      "origin": "Brazil",
+      "presented_by": "J. I. Case Co.",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "September 20, 1934",
+      "description": "From Brazil. Seeds presented by J. I. Case Co., through Reginald S. Castleman, American consul, Porto Alegre. Rust-immune wheat developed in Rio Grande do Sul. Variety: Frondoso."
+    },
+    {
+      "pi_number": 106505,
+      "name_of_crop": "Triticum aestivum L.",
+      "type": "Common wheat",
+      "origin": "Brazil",
+      "presented_by": "J. I. Case Co.",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "September 20, 1934",
+      "description": "From Brazil. Seeds presented by J. I. Case Co., through Reginald S. Castleman, American consul, Porto Alegre. Rust-immune wheat developed in Rio Grande do Sul. Variety: Surpreza."
+    },
+    {
+      "pi_number": 106506,
+      "name_of_crop": "Carapa guianensis Aubl.",
+      "type": null,
+      "origin": "Brazil",
+      "presented_by": "G. S. Jamieson",
+      "institution_involved": "Bureau of Chemistry and Soils",
+      "experiment_name": null,
+      "received_date": "September 27, 1934",
+      "description": "Seeds collected in the Jardim Botanico, Rio de Janeiro, by H. A. Gardner and presented by G. S. Jamieson, Bureau of Chemistry and Soils. For previous introduction and description see 106347."
+    },
+    {
+      "pi_number": 106507,
+      "name_of_crop": "Kigelia pinnata (Jacq.) DC.",
+      "type": "Sausage tree",
+      "origin": "East Africa",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "September 24, 1934",
+      "description": "Seeds collected by Mrs. Thomas Barbour on the road between Ressano Garcia and Louren\u00e7o Marques, Mozambique. The \"sausage tree\" of eastern tropical Africa becomes 30 to 50 feet high, with rough ternate leaves made up of seven to nine elliptic-oblong leaflets; the large claret-colored flowers are in long spikes, and the blunt sausagelike fruits are 12 to 18 inches long."
+    },
+    {
+      "pi_number": 106508,
+      "name_of_crop": "Trifolium subterraneum L.",
+      "type": "Subterranean clover",
+      "origin": "Australia",
+      "presented_by": "F. H. Brunning Pty. Ltd., Melbourne",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "September 28, 1934",
+      "description": "Dwalganup. An extra early strain."
+    },
+    {
+      "pi_number": 106509,
+      "name_of_crop": "Trifolium subterraneum L.",
+      "type": "Subterranean clover",
+      "origin": "Australia",
+      "presented_by": "F. H. Brunning Pty. Ltd., Melbourne",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "September 28, 1934",
+      "description": "Wenigup. A late clover."
+    },
+    {
+      "pi_number": 106510,
+      "name_of_crop": "Antonia ovata Pohl.",
+      "type": null,
+      "origin": "British Guiana",
+      "presented_by": null,
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "September 13, 1934",
+      "description": "No. 2488. A tropical shrub with thick leathery oval-elliptic dark-green leaves and small white flowers in large terminal cymes. It is native to Brazil. Unless otherwise mentioned the following were introduced as seeds. For the introduction of plants see 106371."
+    },
+    {
+      "pi_number": 106511,
+      "name_of_crop": "Aspidosperma excelsum Benth.",
+      "type": "Garuru",
+      "origin": "British Guiana",
+      "presented_by": null,
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "September 13, 1934",
+      "description": "No. 2483. Garuru. A handsome tree with leathery elliptic leaves shining green above and 4 to 6 inches long and large yellow flowers. Native to sandy places in British Guiana. For the introduction of plants see 106372."
+    },
+    {
+      "pi_number": 106512,
+      "name_of_crop": "Capsicum annuum L.",
+      "type": "Common redpepper",
+      "origin": "British Guiana",
+      "presented_by": null,
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "September 13, 1934",
+      "description": "No. 2493. A cultivated variety."
+    },
+    {
+      "pi_number": 106518,
+      "name_of_crop": "Caryocar glabrum Pers.",
+      "type": null,
+      "origin": "British Guiana",
+      "presented_by": null,
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "September 13, 1934",
+      "description": "No. 2490. Cuttings of a large tropical tree with opposite digitately 3- to 5-foliolate leathery leaves, large greenish flowers, and hard-shelled nuts with white edible kernels. Native to northern South America."
+    },
+    {
+      "pi_number": 106514,
+      "name_of_crop": "Cassia bacillaris L. f.",
+      "type": null,
+      "origin": "British Guiana",
+      "presented_by": null,
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "September 13, 1934",
+      "description": "No. 2478. Cuttings from a small tree of rather straggly habit with golden-yellow flowers in loose racemes. For previous introduction see 97567."
+    },
+    {
+      "pi_number": 106515,
+      "name_of_crop": "Citrullus vulgaris Schrad.",
+      "type": "Watermelon",
+      "origin": "British Guiana",
+      "presented_by": null,
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "September 13, 1934",
+      "description": "No. 2491. A cultivated watermelon collected at Bartica, on the Essequiba River."
+    },
+    {
+      "pi_number": 106516,
+      "name_of_crop": "Crinum sp.",
+      "type": null,
+      "origin": "British Guiana",
+      "presented_by": null,
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "September 13, 1934",
+      "description": "No. 2449. Bulbs of cultivated plants collected at Mazaruni Station."
+    },
+    {
+      "pi_number": 106517,
+      "name_of_crop": "Crinum sp.",
+      "type": null,
+      "origin": "British Guiana",
+      "presented_by": null,
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "September 13, 1934",
+      "description": "No. 2450. Bulbs of cultivated plants."
+    },
+    {
+      "pi_number": 106518,
+      "name_of_crop": "Maximilianea sp.",
+      "type": "Kanakudiballi",
+      "origin": "British Guiana",
+      "presented_by": null,
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "September 13, 1934",
+      "description": "No. 2480. Kanakudiballi."
+    }
+  ]
+}

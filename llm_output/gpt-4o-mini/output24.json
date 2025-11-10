@@ -1,0 +1,233 @@
+{
+  "generated_at": "2025-07-30T19-24-07",
+  "model": "gpt-4o-mini",
+  "input_file": "input24.md",
+  "duration_sec": 49.9,
+  "token_usage": {
+    "prompt_tokens": 1627,
+    "completion_tokens": 2126,
+    "total_tokens": 3753
+  },
+  "crops": [
+    {
+      "pi_number": 106499,
+      "name_of_crop": "Carica papaya",
+      "type": "Papaya",
+      "origin": "California",
+      "presented_by": "James Stewart",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "September 20, 1934",
+      "description": "A fine-flavored South African papaya, pollinized by a plant from the Sandwich Islands."
+    },
+    {
+      "pi_number": 106500,
+      "name_of_crop": "Licania rigida",
+      "type": null,
+      "origin": "Ceara, Brazil",
+      "presented_by": "Institute of Paint and Varnish Research, Washington, D.C.",
+      "institution_involved": "Bureau of Chemistry and Soils",
+      "experiment_name": null,
+      "received_date": "September 26, 1934",
+      "description": "A large tropical tree of the Brazilian forests, with rigid leathery oblong leaves 3 to 5 inches long and shining green above. The greenish, ovoid-cylindrical fruits, about 2 inches long, yield an oil known as Oiticica oil, that is used in the paint and varnish industry."
+    },
+    {
+      "pi_number": 106501,
+      "name_of_crop": "Carica candamarcensis",
+      "type": null,
+      "origin": "Chile",
+      "presented_by": "Arthur W. Burrows",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "October 10, 1934",
+      "description": "A small papaya 3 by 4 inches, with very thin flesh which is highly acid and is used only in making preserves and sirups. The fruit is yellow when ripe with a spicy aromatic flavor and fragrance, but is never eaten fresh."
+    },
+    {
+      "pi_number": 106502,
+      "name_of_crop": "Oryza sativa",
+      "type": "Rice",
+      "origin": "Santa Maria",
+      "presented_by": "J. I. Case Co.",
+      "institution_involved": "Reginald S. Castleman, American consul",
+      "experiment_name": null,
+      "received_date": "September 20, 1934",
+      "description": "A new type of rice developed near Rio Pardo, State of Rio Grande do Sul, which develops abnormally large ears and is a heavy yielder."
+    },
+    {
+      "pi_number": 106503,
+      "name_of_crop": "Triticum aestivum",
+      "type": "Common wheat",
+      "origin": "Fronteira",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": null
+    },
+    {
+      "pi_number": 106504,
+      "name_of_crop": "Triticum aestivum",
+      "type": "Common wheat",
+      "origin": "Frondoso",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": null
+    },
+    {
+      "pi_number": 106505,
+      "name_of_crop": "Triticum aestivum",
+      "type": "Common wheat",
+      "origin": "Surpreza",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": null
+    },
+    {
+      "pi_number": 106506,
+      "name_of_crop": "Carapa guianensis",
+      "type": null,
+      "origin": "Brazil",
+      "presented_by": "H. A. Gardner",
+      "institution_involved": "G. S. Jamieson, Bureau of Chemistry and Soils",
+      "experiment_name": null,
+      "received_date": "September 27, 1934",
+      "description": "For previous introduction and description see 106347."
+    },
+    {
+      "pi_number": 106507,
+      "name_of_crop": "Kigelia pinnata",
+      "type": null,
+      "origin": "East Africa",
+      "presented_by": "Mrs. Thomas Barbour",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "September 24, 1934",
+      "description": "The 'sausage tree' of eastern tropical Africa becomes 30 to 50 feet high, with rough ternate leaves made up of seven to nine elliptic-oblong leaflets; the large claret-colored flowers are in long spikes, and the blunt sausagelike fruits are 12 to 18 inches long."
+    },
+    {
+      "pi_number": 106508,
+      "name_of_crop": "Trifolium subterraneum",
+      "type": "Subterranean clover",
+      "origin": "Australia",
+      "presented_by": "F. H. Brunning Pty. Ltd.",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "September 28, 1934",
+      "description": "An extra early strain."
+    },
+    {
+      "pi_number": 106509,
+      "name_of_crop": "Trifolium subterraneum",
+      "type": "Subterranean clover",
+      "origin": "Australia",
+      "presented_by": "F. H. Brunning Pty. Ltd.",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "September 28, 1934",
+      "description": "A late clover."
+    },
+    {
+      "pi_number": 106510,
+      "name_of_crop": "Antonia ovata",
+      "type": null,
+      "origin": "British Guiana",
+      "presented_by": "W. A. Archer",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "September 13, 1934",
+      "description": "A tropical shrub with thick leathery oval-elliptic dark-green leaves and small white flowers in large terminal cymes. It is native to Brazil."
+    },
+    {
+      "pi_number": 106511,
+      "name_of_crop": "Aspidosperma excelsum",
+      "type": null,
+      "origin": "British Guiana",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "A handsome tree with leathery elliptic leaves shining green above and 4 to 6 inches long and large yellow flowers. Native to sandy places in British Guiana."
+    },
+    {
+      "pi_number": 106512,
+      "name_of_crop": "Capsicum annuum",
+      "type": "Common redpepper",
+      "origin": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "A cultivated variety."
+    },
+    {
+      "pi_number": 106518,
+      "name_of_crop": "Caryocar glabrum",
+      "type": null,
+      "origin": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Cuttings of a large tropical tree with opposite digitately 3- to 5-foliolate leathery leaves, large greenish flowers, and hard-shelled nuts with white edible kernels. Native to northern South America."
+    },
+    {
+      "pi_number": 106514,
+      "name_of_crop": "Cassia bacillaris",
+      "type": null,
+      "origin": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Cuttings from a small tree of rather straggly habit with golden-yellow flowers in loose racemes."
+    },
+    {
+      "pi_number": 106515,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Bartica, on the Essequiba River",
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "A cultivated watermelon collected at Bartica, on the Essequiba River."
+    },
+    {
+      "pi_number": 106516,
+      "name_of_crop": "Crinum sp.",
+      "type": null,
+      "origin": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Bulbs of cultivated plants collected at Mazaruni Station."
+    },
+    {
+      "pi_number": 106517,
+      "name_of_crop": "Crinum sp.",
+      "type": null,
+      "origin": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Bulbs of cultivated plants."
+    },
+    {
+      "pi_number": 106518,
+      "name_of_crop": "Maximilianea sp.",
+      "type": null,
+      "origin": null,
+      "presented_by": null,
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": null,
+      "description": "Kanakudiballi."
+    }
+  ]
+}

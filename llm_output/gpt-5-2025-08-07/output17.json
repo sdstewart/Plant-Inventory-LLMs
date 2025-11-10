@@ -1,0 +1,299 @@
+{
+  "generated_at": "2025-10-02T14-13-36",
+  "model": "gpt-5-2025-08-07",
+  "input_file": "input17.md",
+  "duration_sec": 241.11,
+  "token_usage": {
+    "prompt_tokens": 1724,
+    "completion_tokens": 10585,
+    "total_tokens": 12309
+  },
+  "crops": [
+    {
+      "pi_number": 105720,
+      "name_of_crop": "Nicotiana tabacum L.",
+      "type": "Tobaco corriente",
+      "origin": "Distrito Nirgua, Estado Yaracuy, Venezuela",
+      "presented_by": "Ministerio de Salubridad y de Agricultura y Cria, through Dr. H. Pittier, Museo Comercial, Caracas",
+      "institution_involved": "Ministerio de Salubridad y de Agricultura y Cria; Museo Comercial, Caracas",
+      "experiment_name": null,
+      "received_date": "May 19, 1934",
+      "description": "Seeds from Venezuela. Local Venezuelan tobacco type referred to as Tobaco corriente; collected from Distrito Nirgua, Estado Yaracuy."
+    },
+    {
+      "pi_number": 105721,
+      "name_of_crop": "Nicotiana tabacum L.",
+      "type": "Tabaco corriente",
+      "origin": "Municipio Catuaro, Distrito Rivero, Estado Sucre, Venezuela",
+      "presented_by": "Ministerio de Salubridad y de Agricultura y Cria, through Dr. H. Pittier, Museo Comercial, Caracas",
+      "institution_involved": "Ministerio de Salubridad y de Agricultura y Cria; Museo Comercial, Caracas",
+      "experiment_name": null,
+      "received_date": "May 19, 1934",
+      "description": "Seeds from Venezuela. Local Venezuelan tobacco type referred to as Tabaco corriente; collected from Municipio Catuaro, Distrito Rivero, Estado Sucre."
+    },
+    {
+      "pi_number": 105722,
+      "name_of_crop": "Nicotiana tabacum L.",
+      "type": "Tabaco Gu\u00e1charo",
+      "origin": "La Cueva del Gu\u00e1charo, Estado Monagas, Venezuela",
+      "presented_by": "Ministerio de Salubridad y de Agricultura y Cria, through Dr. H. Pittier, Museo Comercial, Caracas",
+      "institution_involved": "Ministerio de Salubridad y de Agricultura y Cria; Museo Comercial, Caracas",
+      "experiment_name": null,
+      "received_date": "May 19, 1934",
+      "description": "Seeds from Venezuela. Local Venezuelan tobacco type referred to as Tabaco Gu\u00e1charo; collected from La Cueva del Gu\u00e1charo, Estado Monagas."
+    },
+    {
+      "pi_number": 105723,
+      "name_of_crop": "Nicotiana tabacum L.",
+      "type": "Tabaco Negro",
+      "origin": "Municipio Santa Maria, Distrito Rivero, Estado Sucre, Venezuela",
+      "presented_by": "Ministerio de Salubridad y de Agricultura y Cria, through Dr. H. Pittier, Museo Comercial, Caracas",
+      "institution_involved": "Ministerio de Salubridad y de Agricultura y Cria; Museo Comercial, Caracas",
+      "experiment_name": null,
+      "received_date": "May 19, 1934",
+      "description": "Seeds from Venezuela. Local Venezuelan tobacco type referred to as Tabaco Negro; collected from Municipio Santa Maria, Distrito Rivero, Estado Sucre."
+    },
+    {
+      "pi_number": 105724,
+      "name_of_crop": "Nicotiana tabacum L.",
+      "type": "Tabaco Negro",
+      "origin": "Municipio Santa Cruz, Distrito Rivero, Estado Sucre, Venezuela",
+      "presented_by": "Ministerio de Salubridad y de Agricultura y Cria, through Dr. H. Pittier, Museo Comercial, Caracas",
+      "institution_involved": "Ministerio de Salubridad y de Agricultura y Cria; Museo Comercial, Caracas",
+      "experiment_name": null,
+      "received_date": "May 19, 1934",
+      "description": "Seeds from Venezuela. Local Venezuelan tobacco type referred to as Tabaco Negro; collected from Municipio Santa Cruz, Distrito Rivero, Estado Sucre."
+    },
+    {
+      "pi_number": 105725,
+      "name_of_crop": "Nicotiana tabacum L.",
+      "type": "Tabaco Rabo de Gallo (Cocktail)",
+      "origin": "Municipio Cocorote, Distrito San Felipe, Estado Yaracuy, Venezuela",
+      "presented_by": "Ministerio de Salubridad y de Agricultura y Cria, through Dr. H. Pittier, Museo Comercial, Caracas",
+      "institution_involved": "Ministerio de Salubridad y de Agricultura y Cria; Museo Comercial, Caracas",
+      "experiment_name": null,
+      "received_date": "May 19, 1934",
+      "description": "Seeds from Venezuela. Local Venezuelan tobacco type referred to as Tabaco Rabo de Gallo (Cocktail); collected from Municipio Cocorote, Distrito San Felipe, Estado Yaracuy."
+    },
+    {
+      "pi_number": 105726,
+      "name_of_crop": "Crotalaria sp.",
+      "type": null,
+      "origin": "Belgian Congo, Africa",
+      "presented_by": "J. B. H. Lejeune, Director, Government Agronomic Station, Kisozi, Territories of Ruanda-Urundi",
+      "institution_involved": "Government Agronomic Station, Kisozi, Territories of Ruanda-Urundi",
+      "experiment_name": null,
+      "received_date": "May 21, 1934",
+      "description": "Seeds from the Belgian Congo, Africa, presented by J. B. H. Lejeune, Director of the Government Agronomic Station at Kisozi, Territories of Ruanda-Urundi."
+    },
+    {
+      "pi_number": 105727,
+      "name_of_crop": "Arikuryroba schizophylla (Mart.) Bailey",
+      "type": "Palm",
+      "origin": "Cuba",
+      "presented_by": "Robert M. Grey, Superintendent, Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "institution_involved": "Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "experiment_name": null,
+      "received_date": "May 1934",
+      "description": "Seeds and plants from Cuba. A small slender-stemmed palm, about 15 feet high, with pinnate leaves. Native to Brazil. For previous introduction see 104681."
+    },
+    {
+      "pi_number": 105728,
+      "name_of_crop": "Bauhinia racemosa Lam.",
+      "type": null,
+      "origin": "Cuba",
+      "presented_by": "Robert M. Grey, Superintendent, Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "institution_involved": "Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "experiment_name": null,
+      "received_date": "May 1934",
+      "description": "Seeds and plants from Cuba. A small shrub with drooping branches and rounded leaves, the two lobes rounded oval, white-hairy beneath. The small yellow flowers are in racemes of 12 to 18. Native to eastern India."
+    },
+    {
+      "pi_number": 105729,
+      "name_of_crop": "Livistona chinensis (Jacq.) R. Br.",
+      "type": "Palm",
+      "origin": "Cuba",
+      "presented_by": "Robert M. Grey, Superintendent, Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "institution_involved": "Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "experiment_name": null,
+      "received_date": "May 1934",
+      "description": "Seeds and plants from Cuba. A palm, native to China, with a short thick trunk up to 6 feet high and 1 foot thick, having a crown of reniform palmately divided leaves 4 to 6 feet across on petioles about 5 feet long, which are armed below the middle with recurved brown spines more than an inch long. For previous introduction see 93412."
+    },
+    {
+      "pi_number": 105730,
+      "name_of_crop": "Livistona cochinchinensis (Blume) Mart.",
+      "type": "Palm",
+      "origin": "Cuba",
+      "presented_by": "Robert M. Grey, Superintendent, Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "institution_involved": "Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "experiment_name": null,
+      "received_date": "May 1934",
+      "description": "Seeds and plants from Cuba. A slender palm about 50 feet high, with a crown of large fan-shaped leaves. It is native to Malacca. For previous introduction see 104240."
+    },
+    {
+      "pi_number": 105731,
+      "name_of_crop": "Adenium obesum (Forsk.) Roem. and Schult.",
+      "type": null,
+      "origin": "Cuba",
+      "presented_by": "Robert M. Grey, Superintendent, Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "institution_involved": "Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "experiment_name": null,
+      "received_date": "May 1934",
+      "description": "Seeds and plants from Cuba. For previous introduction and description see 105448."
+    },
+    {
+      "pi_number": 105732,
+      "name_of_crop": "Dolichandrone crispa Seem.",
+      "type": null,
+      "origin": "Cuba",
+      "presented_by": "Robert M. Grey, Superintendent, Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "institution_involved": "Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "experiment_name": null,
+      "received_date": "May 1934",
+      "description": "Seeds and plants from Cuba. A large tropical tree, 40 to 60 feet high, with compound leaves a foot or less in length, the two to four broadly elliptic leaves being 2 to 4 inches long. The white flowers are in small corymbs. Native to southern India."
+    },
+    {
+      "pi_number": 105733,
+      "name_of_crop": "Fagraea obovata Wall.",
+      "type": null,
+      "origin": "Cuba",
+      "presented_by": "Robert M. Grey, Superintendent, Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "institution_involved": "Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "experiment_name": null,
+      "received_date": "May 1934",
+      "description": "Seeds and plants from Cuba. Plants of a tropical tree of moderate size, with ovate or rounded thick leaves 5 or 6 inches long and fragrant white flowers, 2 inches long, in corymblike clusters. Native to Assam, India."
+    },
+    {
+      "pi_number": 105734,
+      "name_of_crop": "Lonchocarpus neuroscapha Benth.",
+      "type": "Lancepod",
+      "origin": "Cuba",
+      "presented_by": "Robert M. Grey, Superintendent, Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "institution_involved": "Atkins Institution of the Arnold Arboretum, Soledad, Cienfuegos",
+      "experiment_name": null,
+      "received_date": "May 1934",
+      "description": "Seeds and plants from Cuba. An evergreen tree with alternate pinnate leaves and racemes of purplish pea-like flowers. For previous introduction see 94776."
+    },
+    {
+      "pi_number": 105735,
+      "name_of_crop": "Artocarpus communis Forst.",
+      "type": "Breadnut",
+      "origin": "Central Mercedita, Pinar del Rio, Cuba",
+      "presented_by": "through W. A. Mace, Madruga, Cuba, and L. H. Dewey, Bureau of Plant Industry",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "June 1, 1934",
+      "description": "A tree, native to the East Indies, 30 to 40 feet high, with viscid milky juice and leathery ovate leaves 3 feet long, entire at the base but divided above into 3 to 9 lobes. The large fruits, 4 to 6 inches in diameter, are often seedless, but in this variety the seeds are present and are much the size, shape, and flavor of chestnuts. For previous introduction see 80173."
+    },
+    {
+      "pi_number": 105736,
+      "name_of_crop": "Olea europaea L.",
+      "type": "Common olive",
+      "origin": "Spain",
+      "presented_by": "Julius Matz, Bureau of Plant Industry",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "June 25, 1934",
+      "description": "Variety Zorzalena. A relatively tender variety. The tree is leafy, compact, and a good early bearer whose fruit is grown for its oil."
+    },
+    {
+      "pi_number": 105737,
+      "name_of_crop": "Helianthus tuberosus L.",
+      "type": "Jerusalem-artichoke",
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Chicory Institute, Moscow",
+      "institution_involved": "Chicory Institute, Moscow",
+      "experiment_name": null,
+      "received_date": "May 26, 1934",
+      "description": "Tubers from the USSR; designated as No. 8."
+    },
+    {
+      "pi_number": 105738,
+      "name_of_crop": "Helianthus tuberosus L.",
+      "type": "Jerusalem-artichoke",
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Chicory Institute, Moscow",
+      "institution_involved": "Chicory Institute, Moscow",
+      "experiment_name": null,
+      "received_date": "May 26, 1934",
+      "description": "Tubers from the USSR; designated as No. 9."
+    },
+    {
+      "pi_number": 105739,
+      "name_of_crop": "Helianthus tuberosus L.",
+      "type": "Jerusalem-artichoke",
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Chicory Institute, Moscow",
+      "institution_involved": "Chicory Institute, Moscow",
+      "experiment_name": null,
+      "received_date": "May 26, 1934",
+      "description": "Tubers from the USSR; designated as No. 48."
+    },
+    {
+      "pi_number": 105740,
+      "name_of_crop": "Helianthus tuberosus L.",
+      "type": "Jerusalem-artichoke",
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Chicory Institute, Moscow",
+      "institution_involved": "Chicory Institute, Moscow",
+      "experiment_name": null,
+      "received_date": "May 26, 1934",
+      "description": "Tubers from the USSR; designated as No. 53."
+    },
+    {
+      "pi_number": 105741,
+      "name_of_crop": "Helianthus tuberosus L.",
+      "type": "Jerusalem-artichoke",
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Chicory Institute, Moscow",
+      "institution_involved": "Chicory Institute, Moscow",
+      "experiment_name": null,
+      "received_date": "May 26, 1934",
+      "description": "Tubers from the USSR; designated as No. 92."
+    },
+    {
+      "pi_number": 105742,
+      "name_of_crop": "Helianthus tuberosus L.",
+      "type": "Jerusalem-artichoke",
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Chicory Institute, Moscow",
+      "institution_involved": "Chicory Institute, Moscow",
+      "experiment_name": null,
+      "received_date": "May 26, 1934",
+      "description": "Tubers from the USSR; designated as No. 166."
+    },
+    {
+      "pi_number": 105743,
+      "name_of_crop": "Helianthus tuberosus L.",
+      "type": "Jerusalem-artichoke",
+      "origin": "Union of Soviet Socialist Republics",
+      "presented_by": "Chicory Institute, Moscow",
+      "institution_involved": "Chicory Institute, Moscow",
+      "experiment_name": null,
+      "received_date": "May 26, 1934",
+      "description": "Tubers from the USSR; designated as No. 167."
+    },
+    {
+      "pi_number": 105744,
+      "name_of_crop": "Cavanillesia platanifolia H. B. K.",
+      "type": null,
+      "origin": "Canal Zone",
+      "presented_by": "through David Fairchild, Bureau of Plant Industry",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "May 28, 1934",
+      "description": "A Colombian tree up to 100 feet high with a large thick trunk, smooth pale bark, large shallowly five- to seven-lobed leaves, and red flowers 1 inch long. The soft coarse pithlike wood is white or yellowish and is used for making canoes and rafts. For previous introduction see 98928."
+    },
+    {
+      "pi_number": 105745,
+      "name_of_crop": null,
+      "type": null,
+      "origin": "Canal Zone",
+      "presented_by": "through David Fairchild, Bureau of Plant Industry",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "May 28, 1934",
+      "description": null
+    }
+  ]
+}

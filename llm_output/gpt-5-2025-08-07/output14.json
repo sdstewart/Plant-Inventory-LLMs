@@ -1,0 +1,211 @@
+{
+  "generated_at": "2025-10-02T14-06-59",
+  "model": "gpt-5-2025-08-07",
+  "input_file": "input14.md",
+  "duration_sec": 78.46,
+  "token_usage": {
+    "prompt_tokens": 1663,
+    "completion_tokens": 8324,
+    "total_tokens": 9987
+  },
+  "crops": [
+    {
+      "pi_number": 105780,
+      "name_of_crop": "Melinis minutiflora",
+      "type": "Molasses grass (Gordura grass)",
+      "origin": "Brazil",
+      "presented_by": "B. H. Hunnicutt",
+      "institution_involved": "Mackenzie College, Sao Paulo",
+      "experiment_name": null,
+      "received_date": "June 18, 1934",
+      "description": "Family Poaceae. Seeds. Commonly known as Gordura grass. Collected from the highest altitude at which this species is known to grow in Brazil."
+    },
+    {
+      "pi_number": 105781,
+      "name_of_crop": "Magnolia portoricensis",
+      "type": null,
+      "origin": "Puerto Rico",
+      "presented_by": "K. A. Ryerson",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "May 21, 1934",
+      "description": "Family Magnoliaceae. Cuttings collected in western Puerto Rico from a handsome tree endemic to the forests there, with leathery, broadly oval leaves about 6 inches long and terminal, solitary white flowers about 4 inches in diameter with approximately 12 perianth divisions."
+    },
+    {
+      "pi_number": 105782,
+      "name_of_crop": "Tillandsia sp.",
+      "type": null,
+      "origin": "Puerto Rico",
+      "presented_by": "K. A. Ryerson",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "May 21, 1934",
+      "description": "Family Bromeliaceae. Plants collected by K. A. Ryerson."
+    },
+    {
+      "pi_number": 105783,
+      "name_of_crop": null,
+      "type": "Undetermined orchid",
+      "origin": "Puerto Rico",
+      "presented_by": "K. A. Ryerson",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "May 21, 1934",
+      "description": "Plant of an undetermined orchid collected by K. A. Ryerson."
+    },
+    {
+      "pi_number": 105784,
+      "name_of_crop": null,
+      "type": "Undetermined orchid",
+      "origin": "Puerto Rico",
+      "presented_by": "K. A. Ryerson",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "May 21, 1934",
+      "description": "Plants of an undetermined orchid collected by K. A. Ryerson."
+    },
+    {
+      "pi_number": 105785,
+      "name_of_crop": null,
+      "type": "Undetermined orchid",
+      "origin": "Puerto Rico",
+      "presented_by": "K. A. Ryerson",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "May 21, 1934",
+      "description": "Plants of an undetermined orchid collected by K. A. Ryerson."
+    },
+    {
+      "pi_number": 105786,
+      "name_of_crop": null,
+      "type": "Shrub",
+      "origin": "Puerto Rico",
+      "presented_by": "K. A. Ryerson",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "May 21, 1934",
+      "description": "A shrub with white flowers about 1 inch across, resembling those of anemone, and red fruits. Collected in the mountains by K. A. Ryerson."
+    },
+    {
+      "pi_number": 105787,
+      "name_of_crop": "Lespedeza satsumensis",
+      "type": null,
+      "origin": "Japan",
+      "presented_by": "T. Nakai",
+      "institution_involved": "Botanic Garden, Imperial University, Tokyo",
+      "experiment_name": null,
+      "received_date": "May 28, 1934",
+      "description": "Family Fabaceae. Seeds. Collected at Kinsin, on Mount Isoma, Satsuma Province. A bushy shrub, rare and found only on the summit of Mount Isoma, with oblong-obovate leaflets up to four-fifths of an inch long, retuse or emarginate, and very short axillary racemes of deep purple flowers. Allied to Lespedeza floribunda, but smaller and with shorter racemes."
+    },
+    {
+      "pi_number": 105788,
+      "name_of_crop": "Heterophragma adenophyllum",
+      "type": null,
+      "origin": "Florida",
+      "presented_by": "W. D. Carrier",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "June 14, 1934",
+      "description": "Family Bignoniaceae. Seeds from Crescent City. An ornamental African tree related to the catalpa; suited only to subtropical regions as it is very susceptible to frost. Grows 30 to 50 feet tall, with large opposite pinnate leaves and brownish-yellow woolly flowers in terminal panicles. For previous introduction see 59679."
+    },
+    {
+      "pi_number": 105789,
+      "name_of_crop": "Casuarina acuaria",
+      "type": null,
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner, Government botanist",
+      "institution_involved": "State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "Family Casuarinaceae. Seeds. A leafless shrub with erect rigid branches and numerous deciduous branchlets; branchlets are erect, slender but rigid, each consisting of only two internodes. Cones are globular, solitary or in small clusters, about 1 inch in diameter. Native to Western Australia."
+    },
+    {
+      "pi_number": 105790,
+      "name_of_crop": "Casuarina acutivalvis",
+      "type": null,
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner, Government botanist",
+      "institution_involved": "State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "Family Casuarinaceae. Seeds. An erect branched shrub with internodes marked by 12 lines of low linear-subulate teeth and rather large globular cones. The minute dark-brown leaves are easily dislodged. Native to Victoria, Australia. For previous introduction see 93780."
+    },
+    {
+      "pi_number": 105791,
+      "name_of_crop": "Casuarina campestris",
+      "type": null,
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner, Government botanist",
+      "institution_involved": "State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "Family Casuarinaceae. Seeds. A dioecious shrub 3 to 6 feet high with numerous erect branches; internodes are glaucous or shining green and striate. Native to Western Australia. For previous introduction see 93782."
+    },
+    {
+      "pi_number": 105792,
+      "name_of_crop": "Casuarina decussata",
+      "type": null,
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner, Government botanist",
+      "institution_involved": "State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "Family Casuarinaceae. Seeds. A small tree native to Western Australia, closely allied to Casuarina torulosa, with slender elongated branches arranged in fours. Stems appear decussate due to the prominence of alternate pairs of angles at the nodes. For previous introduction see 93784."
+    },
+    {
+      "pi_number": 105793,
+      "name_of_crop": "Casuarina sp.",
+      "type": null,
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner, Government botanist",
+      "institution_involved": "State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "Family Casuarinaceae. Seeds. Received under the name 'dielsiana', for which a place of publication has not been found."
+    },
+    {
+      "pi_number": 105794,
+      "name_of_crop": "Casuarina glauca",
+      "type": null,
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner, Government botanist",
+      "institution_involved": "State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "Family Casuarinaceae. Seeds. An Australian tree 60 to 70 feet high, usually straight and of rapid growth. Timber is red, beautifully marked, hard, and tough, used for cabinetwork. Foliage is used for stock feed during drought. Coppices well from the stump. Grows in coastal districts, marshy country, and land submerged by tidal water; a very handsome shade tree. For previous introduction see 93788."
+    },
+    {
+      "pi_number": 105795,
+      "name_of_crop": "Casuarina grevilleoides",
+      "type": null,
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner, Government botanist",
+      "institution_involved": "State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "Family Casuarinaceae. Seeds. A low much-branched shrub about 1 foot high, with branches and branchlets much jointed and the younger joints white tomentose. Native to Western Australia."
+    },
+    {
+      "pi_number": 105796,
+      "name_of_crop": "Casuarina humilis",
+      "type": null,
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner, Government botanist",
+      "institution_involved": "State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "Family Casuarinaceae. Seeds. An erect shrub 2 to 6 feet high, with branchlets usually in whorls of four and the angles of the internodes prominent but obtuse; native to Western Australia. For previous introduction see 93791."
+    },
+    {
+      "pi_number": 105797,
+      "name_of_crop": "Casuarina thuyoides",
+      "type": null,
+      "origin": "Western Australia",
+      "presented_by": "C. A. Gardner, Government botanist",
+      "institution_involved": "State Herbarium, Department of Agriculture, Perth",
+      "experiment_name": null,
+      "received_date": "June 11, 1934",
+      "description": "Family Casuarinaceae. Seeds. A straggling shrub 3 to 5 feet high, with numerous spreading slender branchlets about 1 inch long arranged in whorls of four or five; ribs on the nearly round internodes are scarcely noticeable. Native to Western Australia. For previous introduction see 93793."
+    }
+  ]
+}

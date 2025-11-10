@@ -1,0 +1,167 @@
+{
+  "generated_at": "2025-10-02T13-39-33",
+  "model": "gpt-5-2025-08-07",
+  "input_file": "input7.md",
+  "duration_sec": 112.74,
+  "token_usage": {
+    "prompt_tokens": 1682,
+    "completion_tokens": 6989,
+    "total_tokens": 8671
+  },
+  "crops": [
+    {
+      "pi_number": 32369,
+      "name_of_crop": "Phytelephas sp.",
+      "type": "Ivory-nut palm",
+      "origin": "An island near the west coast of Panama (?)",
+      "presented_by": "Mr. M. B. Shantz, Rochester, N. Y.",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 2, 1912",
+      "description": "Vegetable ivory (used in the button industry) is the fruit of a palm growing wild in South America, principally in Ecuador and Colombia. Manufacturers in Rochester use about 15 tons of this material per week. There is interest in whether the palm could be cultivated successfully in Florida or other Southern States. Plants from these seeds are to be tested for suitability under conditions in southern Florida and southern California."
+    },
+    {
+      "pi_number": 32370,
+      "name_of_crop": "Capsicum annuum L.",
+      "type": "Red pepper",
+      "origin": "Barcelona, Spain",
+      "presented_by": "Mr. Henry H. Morgan, American consul general",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 3, 1912",
+      "description": "Local name: \"Pimiento Marr\u00f3n.\" Prior introduction referenced as No. 30084."
+    },
+    {
+      "pi_number": 32371,
+      "name_of_crop": "Sapindus sp.",
+      "type": "Soapberry",
+      "origin": "Brazil",
+      "presented_by": "Mr. Omar E. Mueller, American vice consul, Bahia",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 3, 1912",
+      "description": "Berries lather with water when crushed and are used in place of soap. The tree is known locally as Saboneta and is indigenous to the dry, arid regions of Brazil. (Mueller.)"
+    },
+    {
+      "pi_number": 32372,
+      "name_of_crop": "Amygdalus persica L.",
+      "type": "Peach",
+      "origin": "San Antonio, Texas",
+      "presented_by": null,
+      "institution_involved": "San Antonio Experiment Farm; Department of Agriculture",
+      "experiment_name": null,
+      "received_date": "January 2, 1912",
+      "description": "Mexican seedling peach tree grown by Mr. S. H. Hastings, superintendent, San Antonio Experiment Farm. Notes quoted by Mr. Hastings. These were grown from seeds procured by Mr. G. Onderdonk, of Nursery, Texas, during an exploration trip for the Department of Agriculture in Mexico in 1902\u20131903. Selection No. C 31: Fruit closely resembles the Honey peach (a leading South China variety for this section). In 1910 this tree bore much more fruit than the Honey peach, with greater uniformity in size and ripening. Ripens about June 20, approximately one week later than the Honey peach. The tree is a vigorous grower, and Mr. G. Onderdonk recommends it as worthy of propagation."
+    },
+    {
+      "pi_number": 32373,
+      "name_of_crop": "Amygdalus persica L.",
+      "type": "Peach",
+      "origin": "San Antonio, Texas",
+      "presented_by": null,
+      "institution_involved": "San Antonio Experiment Farm; Department of Agriculture",
+      "experiment_name": null,
+      "received_date": "January 2, 1912",
+      "description": "Mexican seedling peach tree grown by Mr. S. H. Hastings, superintendent, San Antonio Experiment Farm. Notes quoted by Mr. Hastings. These were grown from seeds procured by Mr. G. Onderdonk, of Nursery, Texas, during an exploration trip for the Department of Agriculture in Mexico in 1902\u20131903. Selection No. E 10: Fruit resembles the Honey peach in shape and flavor and is a freestone. Ripening period about August 18\u201320, nearly two months later than the Honey variety. Its late-ripening period gives it value, though the fruit is not superior to the Honey peach."
+    },
+    {
+      "pi_number": 32374,
+      "name_of_crop": "Amygdalus persica L.",
+      "type": "Peach",
+      "origin": "San Antonio, Texas",
+      "presented_by": null,
+      "institution_involved": "San Antonio Experiment Farm; Department of Agriculture",
+      "experiment_name": null,
+      "received_date": "January 2, 1912",
+      "description": "Mexican seedling peach tree grown by Mr. S. H. Hastings, superintendent, San Antonio Experiment Farm. Notes quoted by Mr. Hastings. These were grown from seeds procured by Mr. G. Onderdonk, of Nursery, Texas, during an exploration trip for the Department of Agriculture in Mexico in 1902\u20131903. Selection No. I 16: Large yellow clingstone peach with a pleasant, subacid flavor. Ripens about September 3. Considered a good shipper. Described as purely Spanish."
+    },
+    {
+      "pi_number": 32375,
+      "name_of_crop": "Amygdalus persica L.",
+      "type": "Peach",
+      "origin": "San Antonio, Texas",
+      "presented_by": null,
+      "institution_involved": "San Antonio Experiment Farm; Department of Agriculture",
+      "experiment_name": null,
+      "received_date": "January 2, 1912",
+      "description": "Mexican seedling peach tree grown by Mr. S. H. Hastings, superintendent, San Antonio Experiment Farm. Notes quoted by Mr. Hastings. These were grown from seeds procured by Mr. G. Onderdonk, of Nursery, Texas, during an exploration trip for the Department of Agriculture in Mexico in 1902\u20131903. Selection No. C 32: Ripens about August 23; large, light-colored clingstone. Col. G. B. Brackett considers this peach of good quality and worthy of further trial."
+    },
+    {
+      "pi_number": 32376,
+      "name_of_crop": "Amygdalus persica L.",
+      "type": "Peach",
+      "origin": "San Antonio, Texas",
+      "presented_by": null,
+      "institution_involved": "San Antonio Experiment Farm; Department of Agriculture",
+      "experiment_name": null,
+      "received_date": "January 2, 1912",
+      "description": "Mexican seedling peach tree grown by Mr. S. H. Hastings, superintendent, San Antonio Experiment Farm. Notes quoted by Mr. Hastings. These were grown from seeds procured by Mr. G. Onderdonk, of Nursery, Texas, during an exploration trip for the Department of Agriculture in Mexico in 1902\u20131903. Selection No. E 24: Ripens about September 1 to 3; freestone. Thought by Mr. G. Onderdonk to have some South China blood. Subacid flavor. Col. G. B. Brackett considers this tree promising."
+    },
+    {
+      "pi_number": 32377,
+      "name_of_crop": "Amygdalus persica L.",
+      "type": "Peach",
+      "origin": "San Antonio, Texas",
+      "presented_by": null,
+      "institution_involved": "San Antonio Experiment Farm; Department of Agriculture",
+      "experiment_name": null,
+      "received_date": "January 2, 1912",
+      "description": "Mexican seedling peach tree grown by Mr. S. H. Hastings, superintendent, San Antonio Experiment Farm. Notes quoted by Mr. Hastings. These were grown from seeds procured by Mr. G. Onderdonk, of Nursery, Texas, during an exploration trip for the Department of Agriculture in Mexico in 1902\u20131903. Selection No. H 21: Ripens about September 7; large greenish clingstone; quality good. Col. G. B. Brackett believes it is suitable only for canning."
+    },
+    {
+      "pi_number": 32378,
+      "name_of_crop": "Amygdalus persica L.",
+      "type": "Peach",
+      "origin": "San Antonio, Texas",
+      "presented_by": null,
+      "institution_involved": "San Antonio Experiment Farm; Department of Agriculture",
+      "experiment_name": null,
+      "received_date": "January 2, 1912",
+      "description": "Mexican seedling peach tree grown by Mr. S. H. Hastings, superintendent, San Antonio Experiment Farm. Notes quoted by Mr. Hastings. These were grown from seeds procured by Mr. G. Onderdonk, of Nursery, Texas, during an exploration trip for the Department of Agriculture in Mexico in 1902\u20131903. Selection No. H 27: Medium to large yellow clingstone, probably purely Spanish. Fruit of medium to good quality, slightly subacid. Ripens about September 15."
+    },
+    {
+      "pi_number": 32379,
+      "name_of_crop": "Amygdalus persica L.",
+      "type": "Peach",
+      "origin": "San Antonio, Texas",
+      "presented_by": null,
+      "institution_involved": "San Antonio Experiment Farm; Department of Agriculture",
+      "experiment_name": null,
+      "received_date": "January 2, 1912",
+      "description": "Mexican seedling peach tree grown by Mr. S. H. Hastings, superintendent, San Antonio Experiment Farm. Notes quoted by Mr. Hastings. These were grown from seeds procured by Mr. G. Onderdonk, of Nursery, Texas, during an exploration trip for the Department of Agriculture in Mexico in 1902\u20131903. Selection No. A 16: Distinctly a South China peach, resembling the Honey peach in all respects except ripening about a month later. Ripening period about July 25."
+    },
+    {
+      "pi_number": 32380,
+      "name_of_crop": "Amygdalus persica L.",
+      "type": "Peach",
+      "origin": "San Antonio, Texas",
+      "presented_by": null,
+      "institution_involved": "San Antonio Experiment Farm; Department of Agriculture",
+      "experiment_name": null,
+      "received_date": "January 2, 1912",
+      "description": "Mexican seedling peach tree grown by Mr. S. H. Hastings, superintendent, San Antonio Experiment Farm. Notes quoted by Mr. Hastings. These were grown from seeds procured by Mr. G. Onderdonk, of Nursery, Texas, during an exploration trip for the Department of Agriculture in Mexico in 1902\u20131903. Selection No. D 9: Resembles the South China type and appears to be a cross between the Spanish and South China types. Freestone with good flavor. Ripens about August 10."
+    },
+    {
+      "pi_number": 32381,
+      "name_of_crop": "Lucuma sp.",
+      "type": null,
+      "origin": "Mexico",
+      "presented_by": "Mr. Clarence A. Miller, American consul, Tampico",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 5, 1912",
+      "description": "Locally referred to as \"Zapota Manti.\" The fruit is said to be edible but not especially palatable. Despite a limited supply, it sells in the market at about 5 cents Mexican each. (Miller.)"
+    },
+    {
+      "pi_number": 32382,
+      "name_of_crop": "Bromelia pinguin L.",
+      "type": "Pinguin",
+      "origin": "Tampico, Mexico",
+      "presented_by": "Mr. Clarence A. Miller, American consul",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 5, 1912",
+      "description": "Known as wild pineapple or Huapillo. Very prolific in the region; in many places it covers thousands of acres, forming a thick jungle. Propagates from seed and by starting suckers from the root or trunk. Thrives in both lowlands and highlands but is drowned out or destroyed if land is flooded for several days. The leaves contain a fine quality of fiber; the fruit is used by natives as a vermifuge. The plant is said to contain valuable chemical properties. Specimens were obtained from Mr. Alexander Smith, of Tampico. Distribution: Panama and the West Indies, and from Colombia to Guiana in northern South America. (Miller.)"
+    }
+  ]
+}

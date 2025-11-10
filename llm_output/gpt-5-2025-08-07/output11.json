@@ -1,0 +1,233 @@
+{
+  "generated_at": "2025-10-02T14-01-35",
+  "model": "gpt-5-2025-08-07",
+  "input_file": "input11.md",
+  "duration_sec": 57.14,
+  "token_usage": {
+    "prompt_tokens": 1862,
+    "completion_tokens": 7033,
+    "total_tokens": 8895
+  },
+  "crops": [
+    {
+      "pi_number": 32461,
+      "name_of_crop": "Eucalyptus smithii R. T. Baker",
+      "type": "Gully-ash",
+      "origin": "Sydney, New South Wales",
+      "presented_by": "Mr. R. T. Baker, curator, Technological Museum",
+      "institution_involved": "Technological Museum",
+      "experiment_name": null,
+      "received_date": "January 20, 1912",
+      "description": "Seeds. Quoted notes taken from Baker and Smith, Eucalypts and Their Essential Oils (1902). A tall, quick-growing tree, sometimes attaining a height of 150 feet and a diameter of 2 to 5 feet. Bark on old trees deeply furrowed and dark gray to blackish up to the branches. It is famous for its eucalyptol oil. Distribution: Often 200 feet tall, found on steep mountain slopes in the southeastern part of New South Wales, Australia. See Baker and Smith for further description."
+    },
+    {
+      "pi_number": 32462,
+      "name_of_crop": "Eucalyptus umbra R. T. Baker",
+      "type": "Bastard white-mahogany",
+      "origin": "Sydney, New South Wales",
+      "presented_by": "Mr. R. T. Baker, curator, Technological Museum",
+      "institution_involved": "Technological Museum",
+      "experiment_name": null,
+      "received_date": "January 20, 1912",
+      "description": "Seeds. Quoted notes taken from Baker and Smith, Eucalypts and Their Essential Oils (1902). A tall, foliaceous tree, sometimes attaining 100 feet, with a dark-colored, stringy bark. Timber pale-colored, darker than White-mahogany (Eucalyptus acmenoides Schau.). It is subject to attack by a borer which deteriorates its quality as a marketable timber. The wood is hard and close-grained but rather inferior to White-mahogany, a fact well known to timber-getters. Distribution: Sometimes 100 feet tall, found in the northern part of New South Wales, Australia. See Baker and Smith for further description."
+    },
+    {
+      "pi_number": 32463,
+      "name_of_crop": "Annona squamosa L.",
+      "type": "Sweetsop",
+      "origin": "Papua",
+      "presented_by": "Mr. J. A. Hamilton, Port Moresby",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 20, 1912",
+      "description": "Seeds. The fruits of this variety are small, but the flavor is delicious; by cultivation it might be improved. (Hamilton.)"
+    },
+    {
+      "pi_number": 32464,
+      "name_of_crop": "Diospyros senegalensis Perrott.",
+      "type": null,
+      "origin": "Pretoria, Union of South Africa",
+      "presented_by": "Mr. C. L. Legat, Chief Conservator of Forests, Forest Department",
+      "institution_involved": "Forest Department",
+      "experiment_name": null,
+      "received_date": "January 22, 1912",
+      "description": "A shrub or tree from 6 to 40 feet high or more. Wood much thought of by the natives; white and compact, or black in the center like ebony, and useful for many purposes. Fruit 1/2 to 1 inch in diameter, edible. Range extends from Abyssinia and Mozambique on the east to Angola, the Kongo, and the Gold Coast on the west; apparently very widely scattered. Known as monkey guava in the west and as aje in Abyssinia. (Hiern, Ebenaceae, pp. 165\u2013166.)"
+    },
+    {
+      "pi_number": 32470,
+      "name_of_crop": "Ficus carica L.",
+      "type": "Fig",
+      "origin": "Chios, Greece",
+      "presented_by": "Mr. N. J. Pantelides",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 26 and 27, 1912",
+      "description": "Cuttings. Variety: Lombard. Black with reddish interior. Quoted notes by Mr. Pantelides."
+    },
+    {
+      "pi_number": 32471,
+      "name_of_crop": "Ficus carica L.",
+      "type": "Fig",
+      "origin": "Chios, Greece",
+      "presented_by": "Mr. N. J. Pantelides",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 26 and 27, 1912",
+      "description": "Cuttings. Variety: Vassilica (Royal). Black. Quoted notes by Mr. Pantelides."
+    },
+    {
+      "pi_number": 32472,
+      "name_of_crop": "Ficus carica L.",
+      "type": "Fig",
+      "origin": "Chios, Greece",
+      "presented_by": "Mr. N. J. Pantelides",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 26 and 27, 1912",
+      "description": "Cuttings. Variety: Ysterounelea. Bears fruit twice a year; fruits are very small but very sweet. Quoted notes by Mr. Pantelides."
+    },
+    {
+      "pi_number": 32473,
+      "name_of_crop": "Ficus carica L.",
+      "type": "Fig",
+      "origin": "Chios, Greece",
+      "presented_by": "Mr. N. J. Pantelides",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 26 and 27, 1912",
+      "description": "Cuttings. Variety: Ambourcouna. Black; fruits twice a year. Quoted notes by Mr. Pantelides."
+    },
+    {
+      "pi_number": 32474,
+      "name_of_crop": "Ficus carica L.",
+      "type": "Fig",
+      "origin": "Chios, Greece",
+      "presented_by": "Mr. N. J. Pantelides",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 26 and 27, 1912",
+      "description": "Cuttings. Variety: Metilinia. White; these succeed also among oranges. Quoted notes by Mr. Pantelides."
+    },
+    {
+      "pi_number": 32475,
+      "name_of_crop": "Vitis vinifera L.",
+      "type": "Grape",
+      "origin": "Chios, Greece",
+      "presented_by": "Mr. N. J. Pantelides",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 26 and 27, 1912",
+      "description": "Cuttings. Variety: Apatsiana. Black; table variety. Quoted notes by Mr. Pantelides."
+    },
+    {
+      "pi_number": 32476,
+      "name_of_crop": "Vitis vinifera L.",
+      "type": "Grape",
+      "origin": "Chios, Greece",
+      "presented_by": "Mr. N. J. Pantelides",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 26 and 27, 1912",
+      "description": "Cuttings. Variety: Crassera. Black wine grapes noted for their great production. Quoted notes by Mr. Pantelides."
+    },
+    {
+      "pi_number": 32477,
+      "name_of_crop": "Vitis vinifera L.",
+      "type": "Grape",
+      "origin": "Chios, Greece",
+      "presented_by": "Mr. N. J. Pantelides",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 26 and 27, 1912",
+      "description": "Cuttings. Variety: Arcoussia. Rose-colored wine and table grapes. From these grapes was made the ancient wine of Chios. This vine is long lived and succeeds as a climber; it may cover a pavilion of about 100 square meters (approximately 120 square yards) and may yield up to a ton of fruit. Quoted notes by Mr. Pantelides."
+    },
+    {
+      "pi_number": 32478,
+      "name_of_crop": "Annona cherimola Miller",
+      "type": "Cherimoya",
+      "origin": "Costa Rica",
+      "presented_by": "Mr. Carlos Werckl\u00e9, San Jos\u00e9",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 25, 1912",
+      "description": "Seeds from two anonas from Judge Castro Carillo. Reported to be very good and of extraordinary size. (Werckl\u00e9.)"
+    },
+    {
+      "pi_number": 32479,
+      "name_of_crop": "Annona cherimola Miller",
+      "type": "Cherimoya",
+      "origin": "Costa Rica",
+      "presented_by": "Mr. Carlos Werckl\u00e9, San Jos\u00e9",
+      "institution_involved": null,
+      "experiment_name": null,
+      "received_date": "January 25, 1912",
+      "description": "Seeds from two anonas from Judge Castro Carillo. Reported to be very good and of extraordinary size. (Werckl\u00e9.)"
+    },
+    {
+      "pi_number": 32480,
+      "name_of_crop": "Agave cantala (Haw.) Roxb.",
+      "type": "Manila maguey",
+      "origin": "Manila, Philippine Islands",
+      "presented_by": "Mr. O. W. Barrett, Chief, Division of Experiment Stations, Bureau of Agriculture",
+      "institution_involved": "Bureau of Agriculture (Division of Experiment Stations); Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 29, 1912",
+      "description": "Presented through Mr. Lyster H. Dewey, Bureau of Plant Industry. Manila maguey is cultivated in the Philippines and to a limited extent in India, where it produces the fiber known as Bombay aloe. It is cultivated on a large scale in Java, producing a very excellent quality of fiber that has been marketed under the misleading name 'Java sisal'; Javanese growers propose the name 'cantala' for this fiber. The plant grows well in Java on rich, loamy soils where heavy rainfall and lack of lime make sisal or henequen cultivation impracticable. This plant would probably grow well in the eastern part of Porto Rico. (Dewey.)"
+    },
+    {
+      "pi_number": 32481,
+      "name_of_crop": "Citrus limetta Risso",
+      "type": "Lime",
+      "origin": "Honolulu, Hawaii",
+      "presented_by": "Mr. J. E. Higgins, horticulturist, Hawaii Agricultural Experiment Station",
+      "institution_involved": "Hawaii Agricultural Experiment Station",
+      "experiment_name": null,
+      "received_date": "January 29, 1912",
+      "description": "Seeds. Variety noted as Kusaie. Cuttings of this variety were received under S. P. I. No. 32460."
+    },
+    {
+      "pi_number": 32482,
+      "name_of_crop": "Carissa grandiflora (E. Mey.) DC.",
+      "type": "Amatungulu",
+      "origin": "Honolulu, Hawaii",
+      "presented_by": "Mr. J. E. Higgins, horticulturist, Hawaii Agricultural Experiment Station",
+      "institution_involved": "Hawaii Agricultural Experiment Station",
+      "experiment_name": null,
+      "received_date": "January 29, 1912",
+      "description": "Seeds."
+    },
+    {
+      "pi_number": 32484,
+      "name_of_crop": "Hordeum spp.",
+      "type": "Barley",
+      "origin": "Hwaiyuan, Anhwei, China",
+      "presented_by": "Dr. Samuel Cochran, Hope Hospital",
+      "institution_involved": "Hope Hospital",
+      "experiment_name": null,
+      "received_date": "January 29, 1912",
+      "description": "Seeds. Local name: Nu er ta meh, meaning 'daughter barley.' Quoted notes by Dr. Cochran."
+    },
+    {
+      "pi_number": 32485,
+      "name_of_crop": "Hordeum spp.",
+      "type": "Barley",
+      "origin": "Hwaiyuan, Anhwei, China",
+      "presented_by": "Dr. Samuel Cochran, Hope Hospital",
+      "institution_involved": "Hope Hospital",
+      "experiment_name": null,
+      "received_date": "January 29, 1912",
+      "description": "Seeds. Barley with long awns called Mi ta meh or 'rice barley.' Quoted notes by Dr. Cochran."
+    },
+    {
+      "pi_number": 32486,
+      "name_of_crop": "Rubus sp.",
+      "type": "Raspberry",
+      "origin": "Nuwara Eliya, Ceylon",
+      "presented_by": "Mr. C. V. Piper, Bureau of Plant Industry",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "received_date": "January 29, 1912",
+      "description": "Collected at Nuwara Eliya. Collection No. 85, dated August 27, 1911. A spiny-stemmed red raspberry with small, smooth fruits borne in clusters. Flowers white. Stems ascending 4 to 10 feet. (Piper.)"
+    }
+  ]
+}

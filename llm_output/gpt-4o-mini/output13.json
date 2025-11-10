@@ -1,0 +1,244 @@
+{
+  "generated_at": "2025-07-30T19-12-41",
+  "model": "gpt-4o-mini",
+  "input_file": "input13.md",
+  "duration_sec": 56.74,
+  "token_usage": {
+    "prompt_tokens": 1733,
+    "completion_tokens": 2810,
+    "total_tokens": 4543
+  },
+  "crops": [
+    {
+      "pi_number": 105442,
+      "name_of_crop": "Abelmoschus esculentus",
+      "type": "Okra",
+      "origin": "Turkey",
+      "received_date": "April 26, 1934",
+      "presented_by": "Harold T. Pence",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "A collection of locally grown vegetable seeds, collected at Merzifon; introduced for the use of Department specialists working in the north-central part of the United States. Flowering okra."
+    },
+    {
+      "pi_number": 105443,
+      "name_of_crop": "Allium cepa",
+      "type": "Onion",
+      "origin": "Turkey",
+      "received_date": "April 26, 1934",
+      "presented_by": "Harold T. Pence",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "Kelle; a large onion."
+    },
+    {
+      "pi_number": 105444,
+      "name_of_crop": "Capsicum annuum",
+      "type": "Common red pepper",
+      "origin": "Turkey",
+      "received_date": "April 26, 1934",
+      "presented_by": "Harold T. Pence",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": "A mild pepper."
+    },
+    {
+      "pi_number": 105445,
+      "name_of_crop": "Citrullus vulgaris",
+      "type": "Watermelon",
+      "origin": "Turkey",
+      "received_date": "April 26, 1934",
+      "presented_by": "Harold T. Pence",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 105446,
+      "name_of_crop": "Solanum melongena",
+      "type": "Eggplant",
+      "origin": "Turkey",
+      "received_date": "April 26, 1934",
+      "presented_by": "Harold T. Pence",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 105447,
+      "name_of_crop": "Spinacia oleracea",
+      "type": "Spinach",
+      "origin": "Turkey",
+      "received_date": "April 26, 1934",
+      "presented_by": "Harold T. Pence",
+      "institution_involved": "Department of Agriculture",
+      "experiment_name": null,
+      "description": null
+    },
+    {
+      "pi_number": 105448,
+      "name_of_crop": "Adenium obesum",
+      "type": null,
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Cuttings collected in Hope Garden, Kingston. A slow-growing shrub, not over 3 feet high, native to the dry regions of Arabia and named after the desert port of Aden. The gorgeous rose-pink to white flowers are 3 inches across and remind one of enormous oleander blossoms. The flowers are borne so abundantly that they cover the entire shrub."
+    },
+    {
+      "pi_number": 105449,
+      "name_of_crop": "Amherstia nobilis",
+      "type": null,
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Plants collected in the Castleton Gardens, Kingston. This gorgeous red-flowered tree is considered by some to be the most beautiful of all the flowering trees. It is native to the Malay Peninsula, and was named after Lady Amherst."
+    },
+    {
+      "pi_number": 105450,
+      "name_of_crop": "Ananas sativus",
+      "type": "Pineapple",
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Seeds collected in Kingston."
+    },
+    {
+      "pi_number": 105451,
+      "name_of_crop": "Ananas sativus",
+      "type": "Pineapple",
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Sugarloaf pineapple; purchased in the market at Kingston."
+    },
+    {
+      "pi_number": 105452,
+      "name_of_crop": "Artocarpus integra",
+      "type": "Jackfruit",
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Seeds bought in the public market at Kingston."
+    },
+    {
+      "pi_number": 105458,
+      "name_of_crop": "Astrocaryum vulgare",
+      "type": "Palm",
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Plants purchased in the Castleton Gardens, Kingston. A spiny pinnate-leaved palm, 20 to 40 feet high, native to northern Brazil. The 8 to 10 leaves are about 9 feet long, with lanceolate shining-green segments, silvery white beneath."
+    },
+    {
+      "pi_number": 105454,
+      "name_of_crop": "Bougainvillea sp.",
+      "type": null,
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Cuttings, collected in the Hope Gardens, of a hybrid bougainvillea (a seedling of B. spectabilis lateritia) with large bracts of a soft rosy-orange color."
+    },
+    {
+      "pi_number": 105455,
+      "name_of_crop": null,
+      "type": null,
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Cuttings, collected in the Hope Gardens, of a large erect cactus, said to be a native species and to produce large white nocturnal flowers."
+    },
+    {
+      "pi_number": 105456,
+      "name_of_crop": "Chrysophyllum cainito",
+      "type": "Star-apple",
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Seeds from a very large fruit of the purple variety served in a hotel at Kingston. The star-apple is a handsome West Indian tree with striking dark-green leaves, copper-colored underneath. The smooth, round, dark-purple fruit is about 3 inches in diameter. When the fruit is ripe, the white jellylike substance surrounding the seed is sweet and agreeable."
+    },
+    {
+      "pi_number": 105457,
+      "name_of_crop": "Dillenia burbidgei",
+      "type": null,
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Plants purchased in the Castleton Gardens, Kingston. A small ornamental tree, native to Borneo, with large leaves and very beautiful bright-yellow flowers 2 inches in diameter."
+    },
+    {
+      "pi_number": 105458,
+      "name_of_crop": "Licuala elegans",
+      "type": "Palm",
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Plants purchased in the Castleton Gardens, Kingston. A fan palm, native to Sumatra, with a short thick trunk about 4 feet high, a crown of orbicular leaves on petioles 3 to 5 feet long, with linear-lanceolate lobes obliquely truncate at the end."
+    },
+    {
+      "pi_number": 105459,
+      "name_of_crop": "Napoleona imperialis",
+      "type": null,
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Plant purchased in the Castleton Gardens, Kingston. An interesting ornamental tree from west Africa with oblong leaves, sometimes 18 inches in length, and solitary, saucer-shaped axillary flowers, dominantly reddish and bluish, and about 2 inches across; these are borne on the trunk and larger branches."
+    },
+    {
+      "pi_number": 105460,
+      "name_of_crop": "Oncosperma fasciculatum",
+      "type": "Palm",
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Seeds collected in Kingston. A graceful cluster palm, 40 to 60 feet high, with spiny stems and equally pinnate leaves about 18 feet long. Native to Ceylon."
+    },
+    {
+      "pi_number": 105461,
+      "name_of_crop": "Thunbergia erecta",
+      "type": null,
+      "origin": "Jamaica, British West Indies",
+      "received_date": "April 30, 1934",
+      "presented_by": "Col. Robert H. Montgomery, T. A. Fennell",
+      "institution_involved": "Bureau of Plant Industry",
+      "experiment_name": null,
+      "description": "Plants purchased in the Castleton Gardens, Kingston. Variety alba, a form with white flowers."
+    },
+    {
+      "pi_number": 105462,
+      "name_of_crop": "Dioscorea alata",
+      "type": "Winged yam",
+      "origin": "Florida",
+      "received_date": "May 3, 1934",
+      "presented_by": "H. O. Albert",
+      "institution_involved": null,
+      "experiment_name": null,
+      "description": "A strain of the Hawaiian purple-skinned yam (F. P. I. 47446) with nearly pure white flesh instead of the purple-streaked or tinted flesh common in the ordinary form of this yam."
+    }
+  ]
+}
